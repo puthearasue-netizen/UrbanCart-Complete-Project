@@ -1,0 +1,13 @@
+product_id,database_name,database_category,database_subcategory,database_unit_price,database_cost,unit_price_original,unit_price_is_outlier,cost_greater_than_price,supplier_name,supplier_category,supplier_unit_price,supplier_cost,in_stock_units,_merge,source_status
+9000,,,,,,,,,Small Prototype,Books & Media,38.48,34.07,16.0,right_only,Supplier only
+9001,,,,,,,,,Standard Prototype,Beauty & Health,97.52,140.67,50.0,right_only,Supplier only
+9002,,,,,,,,,Executive Prototype,Apparel,47.71,103.54,31.0,right_only,Supplier only
+9003,,,,,,,,,Task Prototype,Sports & Outdoors,121.02,94.13,30.0,right_only,Supplier only
+9004,,,,,,,,,Growth Prototype,Beauty & Health,75.01,68.96,8.0,right_only,Supplier only
+9005,,,,,,,,,Suddenly Prototype,Home & Kitchen,174.9,72.38,46.0,right_only,Supplier only
+9006,,,,,,,,,Individual Prototype,Apparel,288.34,131.09,11.0,right_only,Supplier only
+9007,,,,,,,,,Leader Prototype,Sports & Outdoors,107.98,61.73,24.0,right_only,Supplier only
+9008,,,,,,,,,Sign Prototype,Electronics,274.14,91.39,4.0,right_only,Supplier only
+9009,,,,,,,,,Trial Prototype,Electronics,141.54,132.01,49.0,right_only,Supplier only
+9010,,,,,,,,,Attention Prototype,Beauty & Health,157.72,14.75,35.0,right_only,Supplier only
+9011,,,,,,,,,Boy Prototype,Sports & Outdoors,38.5,35.74,33.0,right_only,Supplier only

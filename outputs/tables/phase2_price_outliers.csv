@@ -1,0 +1,4 @@
+product_id,name,category,subcategory,unit_price,cost,unit_price_original,unit_price_is_outlier
+245,Throughout Personal Care,Beauty & Health,Personal Care,11506.5,104.23,11506.5,True
+250,Discover Haircare,Beauty & Health,Haircare,8284.0,112.79,8284.0,True
+270,Environmental Non-Fiction,Books & Media,Non-Fiction,34872.0,252.13,34872.0,True

@@ -1,0 +1,7 @@
+metric,value
+Original rows,1427
+Blank/junk rows removed,2
+Exact duplicates found,0
+Rows after near-duplicate resolution,1377
+Unparsed signup dates,0
+Rows with missing email,56

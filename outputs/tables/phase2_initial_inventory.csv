@@ -1,0 +1,9 @@
+dataset,rows,columns,missing_cells,exact_duplicate_rows
+customers,2500,8,317,0
+products,300,6,0,0
+orders,9000,5,0,0
+order_items,20362,6,0,0
+reviews,4000,6,838,0
+web_sessions,12000,6,0,0
+legacy_customers,1427,5,366,0
+supplier_catalog,267,6,0,0

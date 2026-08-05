@@ -1,0 +1,1501 @@
+product_id,product_name,recommended_product_id,recommended_product_name,similarity,rank
+1,Black Camera,184,Important Cycling,0.10985884360051026,1
+1,Black Camera,244,Thus Supplement,0.10908244628454697,2
+1,Black Camera,90,Group Furniture,0.10892674246631687,3
+1,Black Camera,97,Black Appliance,0.10892674246631687,4
+1,Black Camera,293,Almost Non-Fiction,0.10787924283421141,5
+2,Maintain Laptop,132,Set Men,0.11308055883843512,1
+2,Maintain Laptop,95,They Appliance,0.097742849999775,2
+2,Maintain Laptop,149,Move Kid,0.09401267913629437,3
+2,Maintain Laptop,257,Minute Children,0.09150522248280035,4
+2,Maintain Laptop,164,Great Team Sport,0.08547043234472847,5
+3,Start Accessorie,208,Series Skincare,0.12773991505582338,1
+3,Start Accessorie,68,Bar Appliance,0.126612545266936,2
+3,Start Accessorie,194,Quickly Fitnes,0.09316051410668053,3
+3,Start Accessorie,34,Television Laptop,0.09100891931116016,4
+3,Start Accessorie,71,Green Furniture,0.08898624633166125,5
+4,Movement Headphone,62,Key Furniture,0.1346301159669267,1
+4,Movement Headphone,243,Son Personal Care,0.09550718099505201,2
+4,Movement Headphone,221,Response Haircare,0.08385357276567294,3
+4,Movement Headphone,220,Run Skincare,0.08108108108108109,4
+4,Movement Headphone,3,Start Accessorie,0.08057161971532291,5
+5,Yeah Smartphone,231,Food Personal Care,0.1562584777949657,1
+5,Yeah Smartphone,206,Office Skincare,0.11797256364594218,2
+5,Yeah Smartphone,89,Prepare Cookware,0.11144872044926164,3
+5,Yeah Smartphone,243,Son Personal Care,0.10216723706696247,4
+5,Yeah Smartphone,41,Rest Smartphone,0.1015346165133619,5
+6,Important Laptop,115,Quickly Footwear,0.10629880069054679,1
+6,Important Laptop,53,Student Decor,0.08547320749391973,2
+6,Important Laptop,283,Strategy Children,0.07762966796527761,3
+6,Important Laptop,79,Hand Furniture,0.06601782722034923,4
+6,Important Laptop,272,Pass Children,0.06542238933157164,5
+7,Beyond Accessorie,189,Message Team Sport,0.1033442541875612,1
+7,Beyond Accessorie,174,Social Cycling,0.10173876502210512,2
+7,Beyond Accessorie,117,White Men,0.08163454198450779,3
+7,Beyond Accessorie,43,A Laptop,0.08108108108108109,4
+7,Beyond Accessorie,191,Yeah Camping,0.07830153977496951,5
+8,Plant Smartphone,223,Sense Supplement,0.11986582537134602,1
+8,Plant Smartphone,20,Arm Accessorie,0.1032537456883155,2
+8,Plant Smartphone,118,During Men,0.09903751369442765,3
+8,Plant Smartphone,76,Cover Furniture,0.09383021146734068,4
+8,Plant Smartphone,197,Own Camping,0.09091496112450458,5
+9,Right Laptop,101,Cut Women,0.17444514138887413,1
+9,Right Laptop,242,Huge Personal Care,0.13114949909639226,2
+9,Right Laptop,218,Month Supplement,0.12045301395742894,3
+9,Right Laptop,200,White Fitnes,0.10079509744568747,4
+9,Right Laptop,128,Pretty Kid,0.09719410299611789,5
+10,After Laptop,13,Support Headphone,0.09158437663089954,1
+10,After Laptop,245,Throughout Personal Care,0.07381732441968658,2
+10,After Laptop,80,Success Furniture,0.07209372509105906,3
+10,After Laptop,129,Direction Kid,0.06906138832741963,4
+10,After Laptop,263,Way Media,0.06839411288813299,5
+11,Change Smartphone,277,Your Non-Fiction,0.12638645090216205,1
+11,Change Smartphone,142,Card Footwear,0.10058358144442509,2
+11,Change Smartphone,285,Foot Children,0.0816118835554315,3
+11,Change Smartphone,100,Sea Appliance,0.07992898356345547,4
+11,Change Smartphone,93,Fear Appliance,0.07694442171660333,5
+12,Get Smartphone,78,Unit Cookware,0.12496384670929443,1
+12,Get Smartphone,212,Another Personal Care,0.1179320441312158,2
+12,Get Smartphone,137,Particular Kid,0.10175966581017658,3
+12,Get Smartphone,186,Along Fitnes,0.09905360646879093,4
+12,Get Smartphone,37,Executive Laptop,0.09078412990032038,5
+13,Support Headphone,164,Great Team Sport,0.11489312875225723,1
+13,Support Headphone,276,Recently Non-Fiction,0.11134763237000268,2
+13,Support Headphone,259,Hundred Fiction,0.10380684981717495,3
+13,Support Headphone,85,Event Furniture,0.0962498036572848,4
+13,Support Headphone,119,Reflect Kid,0.09193289141911526,5
+14,Find Headphone,99,Level Decor,0.14547859349066158,1
+14,Find Headphone,127,Research Footwear,0.13446321855011928,2
+14,Find Headphone,161,Between Fitnes,0.12182898077463454,3
+14,Find Headphone,63,Song Appliance,0.09583148474999098,4
+14,Find Headphone,52,Still Cookware,0.08451542547285167,5
+15,Sea Headphone,216,Effort Supplement,0.1552647508520297,1
+15,Sea Headphone,147,Later Women,0.10720616164299941,2
+15,Sea Headphone,293,Almost Non-Fiction,0.0948840144095737,3
+15,Sea Headphone,107,Appear Women,0.08400268812903089,4
+15,Sea Headphone,153,Feel Cycling,0.08400268812903088,5
+16,Yes Smartphone,157,First Camping,0.08912638665334599,1
+16,Yes Smartphone,53,Student Decor,0.07918075824648958,2
+16,Yes Smartphone,223,Sense Supplement,0.07865665062071159,3
+16,Yes Smartphone,215,Want Supplement,0.07370533237637095,4
+16,Yes Smartphone,230,Fight Supplement,0.06741998624632421,5
+17,Light Laptop,202,Thank Skincare,0.14376960117634727,1
+17,Light Laptop,188,Involve Fitnes,0.1318265717213341,2
+17,Light Laptop,104,Major Men,0.12490366087200802,3
+17,Light Laptop,172,Half Team Sport,0.10832372170111784,4
+17,Light Laptop,255,Activity Non-Fiction,0.10363424654308592,5
+18,Rest Camera,156,Occur Camping,0.1527830828380352,1
+18,Rest Camera,186,Along Fitnes,0.1375047745542317,2
+18,Rest Camera,256,Baby Non-Fiction,0.11095900821829636,3
+18,Rest Camera,23,Cost Headphone,0.10694815798662463,4
+18,Rest Camera,77,What Furniture,0.10613237065158375,5
+19,Improve Smartphone,166,Power Fitnes,0.14484136487558028,1
+19,Improve Smartphone,108,Word Men,0.11941628680530642,2
+19,Improve Smartphone,143,Writer Women,0.09949366763261819,3
+19,Improve Smartphone,23,Cost Headphone,0.09304842103984708,4
+19,Improve Smartphone,71,Green Furniture,0.0903244604661891,5
+20,Arm Accessorie,171,Her Camping,0.13760116767827066,1
+20,Arm Accessorie,277,Your Non-Fiction,0.12551092808470127,2
+20,Arm Accessorie,81,Real Furniture,0.10702313041643274,3
+20,Arm Accessorie,8,Plant Smartphone,0.1032537456883155,4
+20,Arm Accessorie,101,Cut Women,0.10016708449412667,5
+21,Right Camera,299,Know Non-Fiction,0.14789374180876608,1
+21,Right Camera,58,Artist Appliance,0.11488916405585826,2
+21,Right Camera,27,Into Laptop,0.10272767854485403,3
+21,Right Camera,158,Produce Cycling,0.09289773523888238,4
+21,Right Camera,40,Because Laptop,0.08868656394326552,5
+22,Scientist Smartphone,137,Particular Kid,0.1540912490371446,1
+22,Scientist Smartphone,101,Cut Women,0.14008295367013143,2
+22,Scientist Smartphone,254,Them Children,0.13498731178900975,3
+22,Scientist Smartphone,102,Three Women,0.12626906806902635,4
+22,Scientist Smartphone,168,Wait Camping,0.11454053224818188,5
+23,Cost Headphone,162,Do Team Sport,0.12838814775327387,1
+23,Cost Headphone,144,Almost Women,0.11268723396380219,2
+23,Cost Headphone,18,Rest Camera,0.10694815798662463,3
+23,Cost Headphone,275,Culture Children,0.10079052613579392,4
+23,Cost Headphone,19,Improve Smartphone,0.09304842103984708,5
+24,Concern Headphone,198,Later Cycling,0.12189967594728437,1
+24,Concern Headphone,251,College Fiction,0.11776030079682895,2
+24,Concern Headphone,178,Rich Cycling,0.11274690420042435,3
+24,Concern Headphone,195,After Fitnes,0.10423454980627082,4
+24,Concern Headphone,188,Involve Fitnes,0.10253177800548209,5
+25,Protect Headphone,120,Society Kid,0.13864213697584937,1
+25,Protect Headphone,279,Scientist Non-Fiction,0.1294207214671282,2
+25,Protect Headphone,199,Yes Fitnes,0.12172864805778011,3
+25,Protect Headphone,77,What Furniture,0.09437415927908362,4
+25,Protect Headphone,9,Right Laptop,0.09043156884067047,5
+26,Agent Laptop,47,Central Camera,0.1386750490563073,1
+26,Agent Laptop,243,Son Personal Care,0.10650160840378231,2
+26,Agent Laptop,111,Situation Men,0.10629880069054679,3
+26,Agent Laptop,175,Either Fitnes,0.08505172717997146,4
+26,Agent Laptop,144,Almost Women,0.08114408259335795,5
+27,Into Laptop,249,Across Skincare,0.12209353913347197,1
+27,Into Laptop,241,Low Personal Care,0.11145564251507058,2
+27,Into Laptop,21,Right Camera,0.10272767854485403,3
+27,Into Laptop,259,Hundred Fiction,0.09890707100936806,4
+27,Into Laptop,126,Field Men,0.0929070156392251,5
+28,Series Accessorie,101,Cut Women,0.146076181461269,1
+28,Series Accessorie,231,Food Personal Care,0.1080735149937978,2
+28,Series Accessorie,158,Produce Cycling,0.09655402033694294,3
+28,Series Accessorie,49,Left Laptop,0.09220953321680173,4
+28,Series Accessorie,45,Beautiful Camera,0.08334137204780082,5
+29,Pressure Accessorie,196,Information Cycling,0.1177703825827981,1
+29,Pressure Accessorie,32,East Smartphone,0.10660035817780521,2
+29,Pressure Accessorie,222,Car Supplement,0.10614897848685505,3
+29,Pressure Accessorie,272,Pass Children,0.10112997936948631,4
+29,Pressure Accessorie,73,Travel Appliance,0.09914684607882715,5
+30,Hospital Laptop,41,Rest Smartphone,0.11025309741262974,1
+30,Hospital Laptop,286,Give Non-Fiction,0.10452419135052178,2
+30,Hospital Laptop,39,Yeah Laptop,0.09091952763387234,3
+30,Hospital Laptop,242,Huge Personal Care,0.09052060501957755,4
+30,Hospital Laptop,251,College Fiction,0.087261719067456,5
+31,Wide Laptop,96,Mind Decor,0.09007546982220897,1
+31,Wide Laptop,72,Difficult Cookware,0.0831890330807703,2
+31,Wide Laptop,247,Good Haircare,0.07231015260621872,3
+31,Wide Laptop,238,Able Haircare,0.06467616667635545,4
+31,Wide Laptop,77,What Furniture,0.06127555276542501,5
+32,East Smartphone,29,Pressure Accessorie,0.10660035817780521,1
+32,East Smartphone,168,Wait Camping,0.0960999960208596,2
+32,East Smartphone,18,Rest Camera,0.09249945801257606,3
+32,East Smartphone,273,Ask Children,0.08342797655898933,4
+32,East Smartphone,141,Happen Men,0.08273403039920306,5
+33,Forward Accessorie,257,Minute Children,0.18067900652188357,1
+33,Forward Accessorie,229,Thus Skincare,0.1377945636523876,2
+33,Forward Accessorie,101,Cut Women,0.10921513389750193,3
+33,Forward Accessorie,259,Hundred Fiction,0.10673521004472301,4
+33,Forward Accessorie,147,Later Women,0.10443956084314285,5
+34,Television Laptop,173,Soon Fitnes,0.11628693150774139,1
+34,Television Laptop,131,Spring Kid,0.11295873232409888,2
+34,Television Laptop,161,Between Fitnes,0.1099607062497469,3
+34,Television Laptop,165,Up Cycling,0.10401019349846874,4
+34,Television Laptop,253,Happen Fiction,0.0947160186768878,5
+35,Wide Camera,159,Positive Camping,0.11191274207850656,1
+35,Wide Camera,103,Carry Women,0.10740432270821093,2
+35,Wide Camera,218,Month Supplement,0.10345073607529598,3
+35,Wide Camera,11,Change Smartphone,0.07639900276564786,4
+35,Wide Camera,173,Soon Fitnes,0.07616936893463197,5
+36,Work Smartphone,223,Sense Supplement,0.12909944487358055,1
+36,Work Smartphone,128,Pretty Kid,0.10706067580626215,2
+36,Work Smartphone,181,Choice Team Sport,0.1001958865736239,3
+36,Work Smartphone,24,Concern Headphone,0.09019752336033945,4
+36,Work Smartphone,144,Almost Women,0.08606629658238703,5
+37,Executive Laptop,260,Form Media,0.1160517706371319,1
+37,Executive Laptop,219,Example Supplement,0.1147078669352809,2
+37,Executive Laptop,295,Among Media,0.11226255234242724,3
+37,Executive Laptop,264,Include Non-Fiction,0.10526899013331488,4
+37,Executive Laptop,12,Get Smartphone,0.09078412990032038,5
+38,Say Camera,191,Yeah Camping,0.10425720702853739,1
+38,Say Camera,203,Officer Skincare,0.08959216401473295,2
+38,Say Camera,201,When Supplement,0.08759357437106756,3
+38,Say Camera,262,Case Media,0.08600780775702332,4
+38,Say Camera,114,History Kid,0.08512565307587487,5
+39,Yeah Laptop,148,Answer Women,0.13382992102364116,1
+39,Yeah Laptop,194,Quickly Fitnes,0.12513755582813493,2
+39,Yeah Laptop,267,Born Fiction,0.1192602307304886,3
+39,Yeah Laptop,62,Key Furniture,0.10663823359494556,4
+39,Yeah Laptop,90,Group Furniture,0.10134704989563607,5
+40,Because Laptop,104,Major Men,0.143921727864275,1
+40,Because Laptop,124,Act Kid,0.11740274126621313,2
+40,Because Laptop,184,Important Cycling,0.09413160730419345,3
+40,Because Laptop,115,Quickly Footwear,0.09186304243492507,4
+40,Because Laptop,21,Right Camera,0.08868656394326552,5
+41,Rest Smartphone,286,Give Non-Fiction,0.14713826488260678,1
+41,Rest Smartphone,165,Up Cycling,0.12126781251816647,2
+41,Rest Smartphone,30,Hospital Laptop,0.11025309741262974,3
+41,Rest Smartphone,5,Yeah Smartphone,0.1015346165133619,4
+41,Rest Smartphone,277,Your Non-Fiction,0.08108893879997352,5
+42,Cost Camera,126,Field Men,0.158550498051498,1
+42,Cost Camera,192,Participant Camping,0.114022293537793,2
+42,Cost Camera,218,Month Supplement,0.11322770341445956,3
+42,Cost Camera,86,Less Decor,0.08062593696701649,4
+42,Cost Camera,44,Walk Camera,0.07073278556897407,5
+43,A Laptop,62,Key Furniture,0.11415291512216424,1
+43,A Laptop,220,Run Skincare,0.09930363822093967,2
+43,A Laptop,84,Per Cookware,0.09589940926145843,3
+43,A Laptop,71,Green Furniture,0.0853024458999112,4
+43,A Laptop,7,Beyond Accessorie,0.08108108108108109,5
+44,Walk Camera,76,Cover Furniture,0.17718902973207712,1
+44,Walk Camera,292,Store Fiction,0.116325292485775,2
+44,Walk Camera,284,Do Fiction,0.10655552101149876,3
+44,Walk Camera,72,Difficult Cookware,0.08747480336813909,4
+44,Walk Camera,204,Artist Supplement,0.08335696394016966,5
+45,Beautiful Camera,60,Coach Furniture,0.13352336846748283,1
+45,Beautiful Camera,101,Cut Women,0.09874620280149499,2
+45,Beautiful Camera,158,Produce Cycling,0.0979044918012804,3
+45,Beautiful Camera,180,Grow Team Sport,0.09431584242294394,4
+45,Beautiful Camera,62,Key Furniture,0.09064194636764236,5
+46,Reflect Laptop,226,Recognize Skincare,0.13762047064079508,1
+46,Reflect Laptop,128,Pretty Kid,0.09782319760890369,2
+46,Reflect Laptop,17,Light Laptop,0.0961508829696314,3
+46,Reflect Laptop,62,Key Furniture,0.09401267913629437,4
+46,Reflect Laptop,74,Serve Appliance,0.08887142532082946,5
+47,Central Camera,26,Agent Laptop,0.1386750490563073,1
+47,Central Camera,111,Situation Men,0.11792793120310564,2
+47,Central Camera,76,Cover Furniture,0.08257978997938135,3
+47,Central Camera,250,Discover Haircare,0.07643467149674923,4
+47,Central Camera,188,Involve Fitnes,0.07643467149674922,5
+48,Court Camera,75,Wonder Decor,0.11776171839153225,1
+48,Court Camera,80,Success Furniture,0.11776171839153225,2
+48,Court Camera,132,Set Men,0.10304150359259072,3
+48,Court Camera,294,Owner Non-Fiction,0.09859154929577463,4
+48,Court Camera,250,Discover Haircare,0.09346635792723798,5
+49,Left Laptop,101,Cut Women,0.18208926018230742,1
+49,Left Laptop,213,Star Supplement,0.14590347999625503,2
+49,Left Laptop,211,Everyone Skincare,0.11530202747786723,3
+49,Left Laptop,231,Food Personal Care,0.10777404608287845,4
+49,Left Laptop,238,Able Haircare,0.10613372610104645,5
+50,Wear Headphone,114,History Kid,0.12171612389003691,1
+50,Wear Headphone,82,Rich Furniture,0.11136920927794088,2
+50,Wear Headphone,86,Less Decor,0.09750406275392387,3
+50,Wear Headphone,57,Try Cookware,0.08885233166386383,4
+50,Wear Headphone,95,They Appliance,0.08304547985373996,5
+51,Former Cookware,198,Later Cycling,0.13252300302011577,1
+51,Former Cookware,148,Answer Women,0.10336227882434036,2
+51,Former Cookware,290,Administration Children,0.10003126465607105,3
+51,Former Cookware,80,Success Furniture,0.09830917698810675,4
+51,Former Cookware,283,Strategy Children,0.08439494725697222,5
+52,Still Cookware,93,Fear Appliance,0.11959348005979772,1
+52,Still Cookware,161,Between Fitnes,0.10811249552346706,2
+52,Still Cookware,153,Feel Cycling,0.10709591052033318,3
+52,Still Cookware,260,Form Media,0.08475223015516375,4
+52,Still Cookware,14,Find Headphone,0.08451542547285167,5
+53,Student Decor,252,Property Non-Fiction,0.17868542247296582,1
+53,Student Decor,110,Section Footwear,0.16882255653392897,2
+53,Student Decor,138,By Kid,0.14680505487867587,3
+53,Student Decor,249,Across Skincare,0.1281419574064149,4
+53,Student Decor,237,Against Skincare,0.12526608641625303,5
+54,We Decor,152,Soon Camping,0.1695158759052026,1
+54,We Decor,104,Major Men,0.12385842357671556,2
+54,We Decor,220,Run Skincare,0.12253577034896797,3
+54,We Decor,219,Example Supplement,0.10259783520851541,4
+54,We Decor,40,Because Laptop,0.08714893406611901,5
+55,Others Cookware,111,Situation Men,0.13227206582864903,1
+55,Others Cookware,90,Group Furniture,0.13169299692382677,2
+55,Others Cookware,157,First Camping,0.12513694346387128,3
+55,Others Cookware,24,Concern Headphone,0.09920404937148677,4
+55,Others Cookware,173,Soon Fitnes,0.0964256849261258,5
+56,Heavy Appliance,195,After Fitnes,0.1576833055970887,1
+56,Heavy Appliance,174,Social Cycling,0.1077284357109812,2
+56,Heavy Appliance,154,Attack Cycling,0.07519009528967117,3
+56,Heavy Appliance,137,Particular Kid,0.06827887419989188,4
+56,Heavy Appliance,284,Do Fiction,0.06598396520540799,5
+57,Try Cookware,182,Answer Fitnes,0.11842105263157893,1
+57,Try Cookware,102,Three Women,0.10036938356837076,2
+57,Try Cookware,50,Wear Headphone,0.08885233166386383,3
+57,Try Cookware,271,Create Children,0.08885233166386383,4
+57,Try Cookware,168,Wait Camping,0.08671099695241198,5
+58,Artist Appliance,260,Form Media,0.12784055442011863,1
+58,Artist Appliance,215,Want Supplement,0.1263208002491397,2
+58,Artist Appliance,134,Democrat Kid,0.1177835511279211,3
+58,Artist Appliance,21,Right Camera,0.11488916405585826,4
+58,Artist Appliance,286,Give Non-Fiction,0.11484787414830522,5
+59,Action Furniture,103,Carry Women,0.12154742509255277,1
+59,Action Furniture,175,Either Fitnes,0.11589658124319134,2
+59,Action Furniture,177,Hour Camping,0.10301918332728119,3
+59,Action Furniture,65,Scene Appliance,0.10259783520851541,4
+59,Action Furniture,286,Give Non-Fiction,0.09567297464698798,5
+60,Coach Furniture,45,Beautiful Camera,0.13352336846748283,1
+60,Coach Furniture,243,Son Personal Care,0.11320978622099122,2
+60,Coach Furniture,180,Grow Team Sport,0.10431507305232363,3
+60,Coach Furniture,249,Across Skincare,0.09881760281284971,4
+60,Coach Furniture,110,Section Footwear,0.09643610579365919,5
+61,Trade Appliance,135,Road Women,0.10952739918170662,1
+61,Trade Appliance,179,Our Camping,0.09811049102515929,2
+61,Trade Appliance,116,Ahead Men,0.09219864597038362,3
+61,Trade Appliance,188,Involve Fitnes,0.09102409296760598,4
+61,Trade Appliance,152,Soon Camping,0.08852677897456387,5
+62,Key Furniture,273,Ask Children,0.1636634176769943,1
+62,Key Furniture,4,Movement Headphone,0.1346301159669267,2
+62,Key Furniture,43,A Laptop,0.11415291512216424,3
+62,Key Furniture,148,Answer Women,0.10956262252231941,4
+62,Key Furniture,39,Yeah Laptop,0.10663823359494556,5
+63,Song Appliance,137,Particular Kid,0.09944903161976938,1
+63,Song Appliance,117,White Men,0.09792364931869324,2
+63,Song Appliance,14,Find Headphone,0.09583148474999098,3
+63,Song Appliance,170,Offer Team Sport,0.09239364353597955,4
+63,Song Appliance,299,Know Non-Fiction,0.07688517444384894,5
+64,Task Appliance,103,Carry Women,0.14250148136876245,1
+64,Task Appliance,134,Democrat Kid,0.09860019795028208,2
+64,Task Appliance,201,When Supplement,0.09684700453858312,3
+64,Task Appliance,149,Move Kid,0.0941183707707238,4
+64,Task Appliance,220,Run Skincare,0.09264656785948655,5
+65,Scene Appliance,213,Star Supplement,0.11736911946539275,1
+65,Scene Appliance,104,Major Men,0.11009637651263604,2
+65,Scene Appliance,146,Difficult Women,0.10432810619146021,3
+65,Scene Appliance,59,Action Furniture,0.10259783520851541,4
+65,Scene Appliance,215,Want Supplement,0.09467621366623016,5
+66,Wide Cookware,121,Themselves Footwear,0.1500468969841066,1
+66,Wide Cookware,245,Throughout Personal Care,0.12622336052697322,2
+66,Wide Cookware,207,Impact Haircare,0.10828702045605249,3
+66,Wide Cookware,163,Ready Cycling,0.08934350362952095,4
+66,Wide Cookware,218,Month Supplement,0.0878477410623409,5
+67,Apply Furniture,216,Effort Supplement,0.1217161238900369,1
+67,Apply Furniture,170,Offer Team Sport,0.11043152607484652,2
+67,Apply Furniture,263,Way Media,0.09805806756909202,3
+67,Apply Furniture,269,Note Non-Fiction,0.08981004187394176,4
+67,Apply Furniture,1,Black Camera,0.08753762190648169,5
+68,Bar Appliance,3,Start Accessorie,0.126612545266936,1
+68,Bar Appliance,151,Say Fitnes,0.1184620784608477,2
+68,Bar Appliance,125,Increase Women,0.09949879346007118,3
+68,Bar Appliance,250,Discover Haircare,0.09610975593794979,4
+68,Bar Appliance,241,Low Personal Care,0.08878560065057217,5
+69,Front Decor,74,Serve Appliance,0.09464970485606018,1
+69,Front Decor,98,Southern Appliance,0.08603090020146065,2
+69,Front Decor,85,Event Furniture,0.08408277820068158,3
+69,Front Decor,88,Voice Decor,0.08152773496237643,4
+69,Front Decor,106,Oil Footwear,0.08070002078437538,5
+70,Bring Furniture,264,Include Non-Fiction,0.1615926535664718,1
+70,Bring Furniture,247,Good Haircare,0.15891043154093204,2
+70,Bring Furniture,202,Thank Skincare,0.12233863076108327,3
+70,Bring Furniture,85,Event Furniture,0.09022811434760541,4
+70,Bring Furniture,27,Into Laptop,0.08983222540938544,5
+71,Green Furniture,177,Hour Camping,0.13977131156292244,1
+71,Green Furniture,118,During Men,0.10894095588038442,2
+71,Green Furniture,19,Improve Smartphone,0.0903244604661891,3
+71,Green Furniture,3,Start Accessorie,0.08898624633166125,4
+71,Green Furniture,43,A Laptop,0.0853024458999112,5
+72,Difficult Cookware,157,First Camping,0.08780592274176197,1
+72,Difficult Cookware,44,Walk Camera,0.08747480336813909,2
+72,Difficult Cookware,279,Scientist Non-Fiction,0.0864271631402886,3
+72,Difficult Cookware,31,Wide Laptop,0.0831890330807703,4
+72,Difficult Cookware,192,Participant Camping,0.0822562260037299,5
+73,Travel Appliance,244,Thus Supplement,0.128630778606745,1
+73,Travel Appliance,248,Generation Haircare,0.11554009937293111,2
+73,Travel Appliance,29,Pressure Accessorie,0.09914684607882715,3
+73,Travel Appliance,129,Direction Kid,0.08780592274176195,4
+73,Travel Appliance,140,Fall Footwear,0.08695753644243503,5
+74,Serve Appliance,126,Field Men,0.11233851340327919,1
+74,Serve Appliance,255,Activity Non-Fiction,0.1026302498800235,2
+74,Serve Appliance,211,Everyone Skincare,0.10189187084991655,3
+74,Serve Appliance,269,Note Non-Fiction,0.09527861346806615,4
+74,Serve Appliance,69,Front Decor,0.09464970485606018,5
+75,Wonder Decor,48,Court Camera,0.11776171839153225,1
+75,Wonder Decor,221,Response Haircare,0.10957876021579875,2
+75,Wonder Decor,293,Almost Non-Fiction,0.10190493307301361,3
+75,Wonder Decor,76,Cover Furniture,0.0904616275314925,4
+75,Wonder Decor,24,Concern Headphone,0.08073973509982289,5
+76,Cover Furniture,159,Positive Camping,0.209210413126322,1
+76,Cover Furniture,44,Walk Camera,0.17718902973207712,2
+76,Cover Furniture,292,Store Fiction,0.1536498534660067,3
+76,Cover Furniture,101,Cut Women,0.12136700910941023,4
+76,Cover Furniture,84,Per Cookware,0.10314212462587935,5
+77,What Furniture,138,By Kid,0.16308201826336055,1
+77,What Furniture,208,Series Skincare,0.15364985346600668,2
+77,What Furniture,120,Society Kid,0.14586499149789453,3
+77,What Furniture,18,Rest Camera,0.10613237065158375,4
+77,What Furniture,238,Able Haircare,0.10105823052798225,5
+78,Unit Cookware,12,Get Smartphone,0.12496384670929443,1
+78,Unit Cookware,245,Throughout Personal Care,0.10092946653787335,2
+78,Unit Cookware,273,Ask Children,0.0993399267798783,3
+78,Unit Cookware,140,Fall Footwear,0.09091675835657295,4
+78,Unit Cookware,293,Almost Non-Fiction,0.08463889584616802,5
+79,Hand Furniture,177,Hour Camping,0.1314684396244359,1
+79,Hand Furniture,127,Research Footwear,0.0944911182523068,2
+79,Hand Furniture,95,They Appliance,0.0906100470365937,3
+79,Hand Furniture,49,Left Laptop,0.08877935232369503,4
+79,Hand Furniture,65,Scene Appliance,0.08728715609439694,5
+80,Success Furniture,48,Court Camera,0.11776171839153225,1
+80,Success Furniture,128,Pretty Kid,0.115001613554367,2
+80,Success Furniture,215,Want Supplement,0.10233220929949846,3
+80,Success Furniture,252,Property Non-Fiction,0.10127393670836668,4
+80,Success Furniture,241,Low Personal Care,0.0994490316197694,5
+81,Real Furniture,197,Own Camping,0.12115787884266638,1
+81,Real Furniture,20,Arm Accessorie,0.10702313041643274,2
+81,Real Furniture,299,Know Non-Fiction,0.09531089965802728,3
+81,Real Furniture,108,Word Men,0.09240616554505461,4
+81,Real Furniture,106,Oil Footwear,0.08934795112453975,5
+82,Rich Furniture,50,Wear Headphone,0.11136920927794088,1
+82,Rich Furniture,123,Anything Footwear,0.10385232314160164,2
+82,Rich Furniture,207,Impact Haircare,0.09516486024850804,3
+82,Rich Furniture,18,Rest Camera,0.09153651166903976,4
+82,Rich Furniture,138,By Kid,0.08439249387982212,5
+83,Rich Furniture,270,Environmental Non-Fiction,0.16070147520167405,1
+83,Rich Furniture,282,Discuss Fiction,0.12279325377235908,2
+83,Rich Furniture,218,Month Supplement,0.10718661571406801,3
+83,Rich Furniture,267,Born Fiction,0.09207338730881486,4
+83,Rich Furniture,124,Act Kid,0.09038769075777342,5
+84,Per Cookware,121,Themselves Footwear,0.12009611535381536,1
+84,Per Cookware,251,College Fiction,0.10660035817780522,2
+84,Per Cookware,76,Cover Furniture,0.10314212462587935,3
+84,Per Cookware,87,Property Furniture,0.10101525445522108,4
+84,Per Cookware,43,A Laptop,0.09589940926145843,5
+85,Event Furniture,185,Avoid Camping,0.14815221273648993,1
+85,Event Furniture,222,Car Supplement,0.11599076460303807,2
+85,Event Furniture,273,Ask Children,0.10689826381176706,3
+85,Event Furniture,13,Support Headphone,0.0962498036572848,4
+85,Event Furniture,70,Bring Furniture,0.09022811434760541,5
+86,Less Decor,210,Me Haircare,0.1556132007513662,1
+86,Less Decor,125,Increase Women,0.12315815304269713,2
+86,Less Decor,265,Create Non-Fiction,0.1169605909201713,3
+86,Less Decor,290,Administration Children,0.10193928585529255,4
+86,Less Decor,50,Wear Headphone,0.09750406275392387,5
+87,Property Furniture,84,Per Cookware,0.10101525445522108,1
+87,Property Furniture,251,College Fiction,0.10050378152592121,2
+87,Property Furniture,257,Minute Children,0.09832102880166932,3
+87,Property Furniture,121,Themselves Footwear,0.09705231721239391,4
+87,Property Furniture,290,Administration Children,0.09465559377843988,5
+88,Voice Decor,214,Safe Skincare,0.13445664569367252,1
+88,Voice Decor,235,Training Personal Care,0.12211320467908286,2
+88,Voice Decor,283,Strategy Children,0.12108709578306662,3
+88,Voice Decor,140,Fall Footwear,0.09956288286669089,4
+88,Voice Decor,58,Artist Appliance,0.09686383042628016,5
+89,Prepare Cookware,161,Between Fitnes,0.15010558011708822,1
+89,Prepare Cookware,111,Situation Men,0.12861080525406426,2
+89,Prepare Cookware,141,Happen Men,0.11905605585844764,3
+89,Prepare Cookware,5,Yeah Smartphone,0.11144872044926164,4
+89,Prepare Cookware,173,Soon Fitnes,0.10715045027260288,5
+90,Group Furniture,55,Others Cookware,0.13169299692382677,1
+90,Group Furniture,1,Black Camera,0.10892674246631687,2
+90,Group Furniture,97,Black Appliance,0.10752688172043011,3
+90,Group Furniture,39,Yeah Laptop,0.10134704989563607,4
+90,Group Furniture,207,Impact Haircare,0.09151333141298447,5
+91,Almost Decor,266,Feeling Non-Fiction,0.12569752716115998,1
+91,Almost Decor,156,Occur Camping,0.08908708063747478,2
+91,Almost Decor,159,Positive Camping,0.08451542547285164,3
+91,Almost Decor,208,Series Skincare,0.0827605888602368,4
+91,Almost Decor,109,Health Footwear,0.07890639581985628,5
+92,Left Furniture,262,Case Media,0.09223309842157773,1
+92,Left Furniture,138,By Kid,0.08660254037844387,2
+92,Left Furniture,235,Training Personal Care,0.08625819491779428,3
+92,Left Furniture,226,Recognize Skincare,0.07216878364870322,4
+92,Left Furniture,1,Black Camera,0.06780635036208102,5
+93,Fear Appliance,52,Still Cookware,0.11959348005979772,1
+93,Fear Appliance,168,Wait Camping,0.11695217633781754,2
+93,Fear Appliance,102,Three Women,0.11603489020411425,3
+93,Fear Appliance,150,Population Kid,0.11321318983324061,4
+93,Fear Appliance,241,Low Personal Care,0.09648062312349497,5
+94,Animal Appliance,104,Major Men,0.105777177069589,1
+94,Animal Appliance,128,Pretty Kid,0.09857281161802885,2
+94,Animal Appliance,240,Military Supplement,0.09293533804764306,3
+94,Animal Appliance,214,Safe Skincare,0.07466013667894413,4
+94,Animal Appliance,275,Culture Children,0.07442084075352508,5
+95,They Appliance,208,Series Skincare,0.1129331529006903,1
+95,They Appliance,118,During Men,0.11141720290623111,2
+95,They Appliance,166,Power Fitnes,0.10512928338279501,3
+95,They Appliance,2,Maintain Laptop,0.097742849999775,4
+95,They Appliance,77,What Furniture,0.09383021146734066,5
+96,Mind Decor,262,Case Media,0.09847982464479192,1
+96,Mind Decor,233,Say Haircare,0.09770401435159617,2
+96,Mind Decor,31,Wide Laptop,0.09007546982220897,3
+96,Mind Decor,183,High Camping,0.08673817482393109,4
+96,Mind Decor,174,Social Cycling,0.07819184288945057,5
+97,Black Appliance,204,Artist Supplement,0.13418085230494445,1
+97,Black Appliance,207,Impact Haircare,0.13218592315208869,2
+97,Black Appliance,293,Almost Non-Fiction,0.12305839742019736,3
+97,Black Appliance,279,Scientist Non-Fiction,0.11314070555035512,4
+97,Black Appliance,1,Black Camera,0.10892674246631687,5
+98,Southern Appliance,163,Ready Cycling,0.11798497593106737,1
+98,Southern Appliance,103,Carry Women,0.10036938356837077,2
+98,Southern Appliance,165,Up Cycling,0.09095085938862486,3
+98,Southern Appliance,69,Front Decor,0.08603090020146065,4
+98,Southern Appliance,190,Over Cycling,0.08539125638299666,5
+99,Level Decor,14,Find Headphone,0.14547859349066158,1
+99,Level Decor,280,Start Fiction,0.09759000729485331,2
+99,Level Decor,240,Military Supplement,0.08921722983855179,3
+99,Level Decor,104,Major Men,0.08703882797784891,4
+99,Level Decor,253,Happen Fiction,0.07513913622228602,5
+100,Sea Appliance,166,Power Fitnes,0.09805806756909202,1
+100,Sea Appliance,250,Discover Haircare,0.08036342149471598,2
+100,Sea Appliance,11,Change Smartphone,0.07992898356345547,3
+100,Sea Appliance,295,Among Media,0.07936507936507936,4
+100,Sea Appliance,215,Want Supplement,0.07857415688813241,5
+101,Cut Women,49,Left Laptop,0.18208926018230742,1
+101,Cut Women,9,Right Laptop,0.17444514138887413,2
+101,Cut Women,28,Series Accessorie,0.146076181461269,3
+101,Cut Women,231,Food Personal Care,0.14227759830611805,4
+101,Cut Women,22,Scientist Smartphone,0.14008295367013143,5
+102,Three Women,168,Wait Camping,0.17323371679589578,1
+102,Three Women,294,Owner Non-Fiction,0.14834770727423166,2
+102,Three Women,22,Scientist Smartphone,0.12626906806902635,3
+102,Three Women,204,Artist Supplement,0.12131186985386821,4
+102,Three Women,93,Fear Appliance,0.11603489020411425,5
+103,Carry Women,121,Themselves Footwear,0.1558573000398393,1
+103,Carry Women,64,Task Appliance,0.14250148136876245,2
+103,Carry Women,195,After Fitnes,0.12857571271486287,3
+103,Carry Women,59,Action Furniture,0.12154742509255277,4
+103,Carry Women,35,Wide Camera,0.10740432270821093,5
+104,Major Men,40,Because Laptop,0.143921727864275,1
+104,Major Men,17,Light Laptop,0.12490366087200802,2
+104,Major Men,54,We Decor,0.12385842357671556,3
+104,Major Men,65,Scene Appliance,0.11009637651263604,4
+104,Major Men,188,Involve Fitnes,0.10794129589820627,5
+105,Physical Footwear,277,Your Non-Fiction,0.1113574869323887,1
+105,Physical Footwear,236,Down Haircare,0.10734844004467697,2
+105,Physical Footwear,271,Create Children,0.1072489972812817,3
+105,Physical Footwear,18,Rest Camera,0.10074289093809564,4
+105,Physical Footwear,17,Light Laptop,0.09270348699136446,5
+106,Oil Footwear,116,Ahead Men,0.1374416265488099,1
+106,Oil Footwear,204,Artist Supplement,0.09753841331435327,2
+106,Oil Footwear,97,Black Appliance,0.09379580992210837,3
+106,Oil Footwear,238,Able Haircare,0.09284141650970551,4
+106,Oil Footwear,250,Discover Haircare,0.09046047087370111,5
+107,Appear Women,216,Effort Supplement,0.1623086135160589,1
+107,Appear Women,275,Culture Children,0.1270001270001905,2
+107,Appear Women,167,Practice Fitnes,0.09600307214746387,3
+107,Appear Women,204,Artist Supplement,0.09586343124133592,4
+107,Appear Women,201,When Supplement,0.09240616554505461,5
+108,Word Men,296,Question Non-Fiction,0.13001274187308592,1
+108,Word Men,19,Improve Smartphone,0.11941628680530642,2
+108,Word Men,145,Unit Men,0.10522672835293127,3
+108,Word Men,217,Measure Skincare,0.09935326726564042,4
+108,Word Men,81,Real Furniture,0.09240616554505461,5
+109,Health Footwear,262,Case Media,0.17273555112213854,1
+109,Health Footwear,287,Total Fiction,0.14120970030991198,2
+109,Health Footwear,199,Yes Fitnes,0.12247142539179548,3
+109,Health Footwear,156,Occur Camping,0.11481582730452866,4
+109,Health Footwear,172,Half Team Sport,0.10832372170111784,5
+110,Section Footwear,53,Student Decor,0.16882255653392897,1
+110,Section Footwear,237,Against Skincare,0.16657109542957085,2
+110,Section Footwear,236,Down Haircare,0.1292191476761844,3
+110,Section Footwear,249,Across Skincare,0.12547286652195427,4
+110,Section Footwear,292,Store Fiction,0.10032098331096906,5
+111,Situation Men,55,Others Cookware,0.13227206582864903,1
+111,Situation Men,89,Prepare Cookware,0.12861080525406426,2
+111,Situation Men,266,Feeling Non-Fiction,0.12149965068900642,3
+111,Situation Men,47,Central Camera,0.11792793120310564,4
+111,Situation Men,294,Owner Non-Fiction,0.10815406815659187,5
+112,Performance Women,245,Throughout Personal Care,0.12254258527460647,1
+112,Performance Women,155,Away Camping,0.10478351413485065,2
+112,Performance Women,209,Leg Skincare,0.10344827586206894,3
+112,Performance Women,225,Discover Skincare,0.0875376219064817,4
+112,Performance Women,135,Road Women,0.08708522806713909,5
+113,Represent Kid,230,Fight Supplement,0.10690449676496976,1
+113,Represent Kid,275,Culture Children,0.08366600265340755,2
+113,Represent Kid,161,Between Fitnes,0.08172536479247933,3
+113,Represent Kid,258,Difference Fiction,0.08132500607904443,4
+113,Represent Kid,107,Appear Women,0.07589709258986453,5
+114,History Kid,50,Wear Headphone,0.12171612389003691,1
+114,History Kid,181,Choice Team Sport,0.10226199851298273,2
+114,History Kid,119,Reflect Kid,0.09901475429766744,3
+114,History Kid,170,Offer Team Sport,0.09110136110168687,4
+114,History Kid,167,Practice Fitnes,0.0890870806374748,5
+115,Quickly Footwear,227,Daughter Supplement,0.16222142113076254,1
+115,Quickly Footwear,229,Thus Skincare,0.1111111111111111,2
+115,Quickly Footwear,6,Important Laptop,0.10629880069054679,3
+115,Quickly Footwear,149,Move Kid,0.09622504486493763,4
+115,Quickly Footwear,40,Because Laptop,0.09186304243492507,5
+116,Ahead Men,106,Oil Footwear,0.1374416265488099,1
+116,Ahead Men,279,Scientist Non-Fiction,0.12434118282549846,2
+116,Ahead Men,61,Trade Appliance,0.09219864597038362,3
+116,Ahead Men,124,Act Kid,0.08494119857293758,4
+116,Ahead Men,30,Hospital Laptop,0.08481041912882634,5
+117,White Men,63,Song Appliance,0.09792364931869324,1
+117,White Men,247,Good Haircare,0.09065968278232492,2
+117,White Men,173,Soon Fitnes,0.08886426375707066,3
+117,White Men,167,Practice Fitnes,0.08847479104076177,4
+117,White Men,299,Know Non-Fiction,0.08783689670053689,5
+118,During Men,157,First Camping,0.12515362727748633,1
+118,During Men,138,By Kid,0.11618950038622249,2
+118,During Men,95,They Appliance,0.11141720290623111,3
+118,During Men,71,Green Furniture,0.10894095588038442,4
+118,During Men,173,Soon Fitnes,0.1001958865736239,5
+119,Reflect Kid,129,Direction Kid,0.11091871077436039,1
+119,Reflect Kid,291,Since Non-Fiction,0.10188534162169866,2
+119,Reflect Kid,114,History Kid,0.09901475429766744,3
+119,Reflect Kid,60,Coach Furniture,0.0945262908268554,4
+119,Reflect Kid,13,Support Headphone,0.09193289141911526,5
+120,Society Kid,77,What Furniture,0.14586499149789453,1
+120,Society Kid,25,Protect Headphone,0.13864213697584937,2
+120,Society Kid,18,Rest Camera,0.08661986608440463,3
+120,Society Kid,280,Start Fiction,0.08537347209531382,4
+120,Society Kid,238,Able Haircare,0.08247860988423222,5
+121,Themselves Footwear,103,Carry Women,0.1558573000398393,1
+121,Themselves Footwear,66,Wide Cookware,0.1500468969841066,2
+121,Themselves Footwear,84,Per Cookware,0.12009611535381536,3
+121,Themselves Footwear,87,Property Furniture,0.09705231721239391,4
+121,Themselves Footwear,59,Action Furniture,0.0899842541331695,5
+122,Attorney Men,200,White Fitnes,0.13464028341974354,1
+122,Attorney Men,277,Your Non-Fiction,0.13139036155660136,2
+122,Attorney Men,167,Practice Fitnes,0.10585122480499261,3
+122,Attorney Men,185,Avoid Camping,0.10188534162169866,4
+122,Attorney Men,289,Available Non-Fiction,0.09970960320351537,5
+123,Anything Footwear,228,Over Skincare,0.11638139694290356,1
+123,Anything Footwear,82,Rich Furniture,0.10385232314160164,2
+123,Anything Footwear,145,Unit Men,0.09140375378674888,3
+123,Anything Footwear,85,Event Furniture,0.08824483667908929,4
+123,Anything Footwear,108,Word Men,0.08759357437106756,5
+124,Act Kid,40,Because Laptop,0.11740274126621313,1
+124,Act Kid,245,Throughout Personal Care,0.11359236684941296,2
+124,Act Kid,198,Later Cycling,0.10468478451804275,3
+124,Act Kid,191,Yeah Camping,0.10041067934611822,4
+124,Act Kid,279,Scientist Non-Fiction,0.09759000729485331,5
+125,Increase Women,147,Later Women,0.14055902285436914,1
+125,Increase Women,86,Less Decor,0.12315815304269713,2
+125,Increase Women,187,Artist Team Sport,0.11589224922751923,3
+125,Increase Women,250,Discover Haircare,0.10614713278680385,4
+125,Increase Women,68,Bar Appliance,0.09949879346007118,5
+126,Field Men,42,Cost Camera,0.158550498051498,1
+126,Field Men,239,Increase Haircare,0.12332334556599062,2
+126,Field Men,146,Difficult Women,0.12002400720240086,3
+126,Field Men,74,Serve Appliance,0.11233851340327919,4
+126,Field Men,211,Everyone Skincare,0.10868281233544477,5
+127,Research Footwear,14,Find Headphone,0.13446321855011928,1
+127,Research Footwear,133,Actually Kid,0.12385842357671556,2
+127,Research Footwear,203,Officer Skincare,0.11094003924504584,3
+127,Research Footwear,79,Hand Furniture,0.0944911182523068,4
+127,Research Footwear,263,Way Media,0.08770580193070293,5
+128,Pretty Kid,183,High Camping,0.1250199346145913,1
+128,Pretty Kid,134,Democrat Kid,0.12041817577478922,2
+128,Pretty Kid,80,Success Furniture,0.115001613554367,3
+128,Pretty Kid,181,Choice Team Sport,0.11493256424549748,4
+128,Pretty Kid,36,Work Smartphone,0.10706067580626215,5
+129,Direction Kid,235,Training Personal Care,0.11908262790561672,1
+129,Direction Kid,119,Reflect Kid,0.11091871077436039,2
+129,Direction Kid,159,Positive Camping,0.09467621366623019,3
+129,Direction Kid,73,Travel Appliance,0.08780592274176195,4
+129,Direction Kid,207,Impact Haircare,0.08738275920531946,5
+130,Fly Kid,198,Later Cycling,0.1538800203579465,1
+130,Fly Kid,59,Action Furniture,0.07915594835766293,2
+130,Fly Kid,12,Get Smartphone,0.07517640165488822,3
+130,Fly Kid,246,Close Personal Care,0.07412493166611012,4
+130,Fly Kid,73,Travel Appliance,0.0706616245726062,5
+131,Spring Kid,203,Officer Skincare,0.118803729069973,1
+131,Spring Kid,34,Television Laptop,0.11295873232409888,2
+131,Spring Kid,295,Among Media,0.10642514280235015,3
+131,Spring Kid,191,Yeah Camping,0.09216687726822183,4
+131,Spring Kid,66,Wide Cookware,0.08461937471325838,5
+132,Set Men,149,Move Kid,0.1315587028960544,1
+132,Set Men,2,Maintain Laptop,0.11308055883843512,2
+132,Set Men,48,Court Camera,0.10304150359259072,3
+132,Set Men,198,Later Cycling,0.10162017339941976,4
+132,Set Men,188,Involve Fitnes,0.09768498542662232,5
+133,Actually Kid,203,Officer Skincare,0.15267620413811483,1
+133,Actually Kid,192,Participant Camping,0.14608272377400622,2
+133,Actually Kid,127,Research Footwear,0.12385842357671556,3
+133,Actually Kid,267,Born Fiction,0.12016032071277435,4
+133,Actually Kid,161,Between Fitnes,0.11222061815424866,5
+134,Democrat Kid,244,Thus Supplement,0.1318713563037654,1
+134,Democrat Kid,128,Pretty Kid,0.12041817577478922,2
+134,Democrat Kid,58,Artist Appliance,0.1177835511279211,3
+134,Democrat Kid,182,Answer Fitnes,0.11587244366483038,4
+134,Democrat Kid,232,Partner Personal Care,0.10164463907684078,5
+135,Road Women,61,Trade Appliance,0.10952739918170662,1
+135,Road Women,300,Those Non-Fiction,0.10091360385895382,2
+135,Road Women,128,Pretty Kid,0.09414011945389701,3
+135,Road Women,23,Cost Headphone,0.0895451149195559,4
+135,Road Women,175,Either Fitnes,0.08884278944919168,5
+136,Watch Footwear,39,Yeah Laptop,0.09221708989964485,1
+136,Watch Footwear,73,Travel Appliance,0.08500063086639832,2
+136,Watch Footwear,225,Discover Skincare,0.07703945430349209,3
+136,Watch Footwear,269,Note Non-Fiction,0.07470873676376283,4
+136,Watch Footwear,60,Coach Furniture,0.07279280907269312,5
+137,Particular Kid,22,Scientist Smartphone,0.1540912490371446,1
+137,Particular Kid,230,Fight Supplement,0.1085303927655574,2
+137,Particular Kid,12,Get Smartphone,0.10175966581017658,3
+137,Particular Kid,63,Song Appliance,0.09944903161976938,4
+137,Particular Kid,290,Administration Children,0.09188458377475332,5
+138,By Kid,77,What Furniture,0.16308201826336055,1
+138,By Kid,53,Student Decor,0.14680505487867587,2
+138,By Kid,118,During Men,0.11618950038622249,3
+138,By Kid,92,Left Furniture,0.08660254037844387,4
+138,By Kid,82,Rich Furniture,0.08439249387982212,5
+139,About Men,190,Over Cycling,0.13770743461196402,1
+139,About Men,141,Happen Men,0.0918319538961079,2
+139,About Men,165,Up Cycling,0.07985541332934819,3
+139,About Men,131,Spring Kid,0.07208377398351012,4
+139,About Men,256,Baby Non-Fiction,0.07172929375527247,5
+140,Fall Footwear,214,Safe Skincare,0.15346245351121282,1
+140,Fall Footwear,235,Training Personal Care,0.11793204413121582,2
+140,Fall Footwear,170,Offer Team Sport,0.1082870204560525,3
+140,Fall Footwear,17,Light Laptop,0.10212858423763307,4
+140,Fall Footwear,88,Voice Decor,0.09956288286669089,5
+141,Happen Men,89,Prepare Cookware,0.11905605585844764,1
+141,Happen Men,139,About Men,0.0918319538961079,2
+141,Happen Men,257,Minute Children,0.08709270531385191,3
+141,Happen Men,32,East Smartphone,0.08273403039920306,4
+141,Happen Men,45,Beautiful Camera,0.07723472653283295,5
+142,Card Footwear,250,Discover Haircare,0.11032394541017196,1
+142,Card Footwear,183,High Camping,0.10577717706958903,2
+142,Card Footwear,11,Change Smartphone,0.10058358144442509,3
+142,Card Footwear,190,Over Cycling,0.09569487529386911,4
+142,Card Footwear,261,Especially Fiction,0.09524241471993242,5
+143,Writer Women,147,Later Women,0.13100809351859097,1
+143,Writer Women,182,Answer Fitnes,0.10596258856520348,2
+143,Writer Women,19,Improve Smartphone,0.09949366763261819,3
+143,Writer Women,164,Great Team Sport,0.08660254037844385,4
+143,Writer Women,102,Three Women,0.08660254037844385,5
+144,Almost Women,157,First Camping,0.1175073731304618,1
+144,Almost Women,23,Cost Headphone,0.11268723396380219,2
+144,Almost Women,202,Thank Skincare,0.09877295966495896,3
+144,Almost Women,74,Serve Appliance,0.0922531208028885,4
+144,Almost Women,142,Card Footwear,0.08770580193070293,5
+145,Unit Men,108,Word Men,0.10522672835293127,1
+145,Unit Men,265,Create Non-Fiction,0.10465823835696723,2
+145,Unit Men,298,Wait Media,0.1029796353771106,3
+145,Unit Men,271,Create Children,0.09801960588196067,4
+145,Unit Men,123,Anything Footwear,0.09140375378674888,5
+146,Difficult Women,126,Field Men,0.12002400720240086,1
+146,Difficult Women,65,Scene Appliance,0.10432810619146021,2
+146,Difficult Women,88,Voice Decor,0.09230890610799491,3
+146,Difficult Women,241,Low Personal Care,0.08099238707340585,4
+146,Difficult Women,209,Leg Skincare,0.07580980435789035,5
+147,Later Women,125,Increase Women,0.14055902285436914,1
+147,Later Women,143,Writer Women,0.13100809351859097,2
+147,Later Women,189,Message Team Sport,0.13099062926556151,3
+147,Later Women,288,Beyond Media,0.11695217633781754,4
+147,Later Women,15,Sea Headphone,0.10720616164299941,5
+148,Answer Women,39,Yeah Laptop,0.13382992102364116,1
+148,Answer Women,278,Page Fiction,0.1200198396297958,2
+148,Answer Women,62,Key Furniture,0.10956262252231941,3
+148,Answer Women,51,Former Cookware,0.10336227882434036,4
+148,Answer Women,157,First Camping,0.09894262990715874,5
+149,Move Kid,132,Set Men,0.1315587028960544,1
+149,Move Kid,289,Available Non-Fiction,0.09790449180128039,2
+149,Move Kid,115,Quickly Footwear,0.09622504486493763,3
+149,Move Kid,64,Task Appliance,0.0941183707707238,4
+149,Move Kid,2,Maintain Laptop,0.09401267913629437,5
+150,Population Kid,273,Ask Children,0.12348479248840163,1
+150,Population Kid,265,Create Non-Fiction,0.11767963901214164,2
+150,Population Kid,93,Fear Appliance,0.11321318983324061,3
+150,Population Kid,207,Impact Haircare,0.09686944100466396,4
+150,Population Kid,190,Over Cycling,0.09640705439797252,5
+151,Say Fitnes,261,Especially Fiction,0.13469311461009134,1
+151,Say Fitnes,68,Bar Appliance,0.1184620784608477,2
+151,Say Fitnes,220,Run Skincare,0.10529962529853128,3
+151,Say Fitnes,217,Measure Skincare,0.09738412097417933,4
+151,Say Fitnes,271,Create Children,0.08951435925492911,5
+152,Soon Camping,54,We Decor,0.1695158759052026,1
+152,Soon Camping,272,Pass Children,0.11877113736973438,2
+152,Soon Camping,220,Run Skincare,0.11216749557828991,3
+152,Soon Camping,22,Scientist Smartphone,0.09284766908852593,4
+152,Soon Camping,119,Reflect Kid,0.09193289141911525,5
+153,Feel Cycling,200,White Fitnes,0.17444809066301298,1
+153,Feel Cycling,279,Scientist Non-Fiction,0.11085479909473867,2
+153,Feel Cycling,52,Still Cookware,0.10709591052033318,3
+153,Feel Cycling,147,Later Women,0.09169344048589305,4
+153,Feel Cycling,205,Back Haircare,0.09107651110783745,5
+154,Attack Cycling,189,Message Team Sport,0.12412427959034776,1
+154,Attack Cycling,243,Son Personal Care,0.10927167294163061,2
+154,Attack Cycling,240,Military Supplement,0.10297995137364127,3
+154,Attack Cycling,159,Positive Camping,0.08761224904868536,4
+154,Attack Cycling,65,Scene Appliance,0.07886003723456396,5
+155,Away Camping,112,Performance Women,0.10478351413485065,1
+155,Away Camping,175,Either Fitnes,0.07635590272269077,2
+155,Away Camping,209,Leg Skincare,0.06548969633428164,3
+155,Away Camping,71,Green Furniture,0.06403418801472845,4
+155,Away Camping,288,Beyond Media,0.06156761287194801,5
+156,Occur Camping,18,Rest Camera,0.1527830828380352,1
+156,Occur Camping,109,Health Footwear,0.11481582730452866,2
+156,Occur Camping,91,Almost Decor,0.08908708063747478,3
+156,Occur Camping,64,Task Appliance,0.07825748827231271,4
+156,Occur Camping,184,Important Cycling,0.07529232524210425,5
+157,First Camping,118,During Men,0.12515362727748633,1
+157,First Camping,55,Others Cookware,0.12513694346387128,2
+157,First Camping,241,Low Personal Care,0.11850314695868774,3
+157,First Camping,144,Almost Women,0.1175073731304618,4
+157,First Camping,190,Over Cycling,0.10577412058827453,5
+158,Produce Cycling,287,Total Fiction,0.2173067468400883,1
+158,Produce Cycling,268,Machine Media,0.14569287935358963,2
+158,Produce Cycling,275,Culture Children,0.14142135623730953,3
+158,Produce Cycling,101,Cut Women,0.09805806756909204,4
+158,Produce Cycling,45,Beautiful Camera,0.0979044918012804,5
+159,Positive Camping,76,Cover Furniture,0.209210413126322,1
+159,Positive Camping,35,Wide Camera,0.11191274207850656,2
+159,Positive Camping,129,Direction Kid,0.09467621366623019,3
+159,Positive Camping,282,Discuss Fiction,0.09413160730419345,4
+159,Positive Camping,154,Attack Cycling,0.08761224904868536,5
+160,Where Camping,172,Half Team Sport,0.12238386597459477,1
+160,Where Camping,74,Serve Appliance,0.08091133940627349,2
+160,Where Camping,187,Artist Team Sport,0.07884165279854435,3
+160,Where Camping,239,Increase Haircare,0.07772022854475731,4
+160,Where Camping,245,Throughout Personal Care,0.07472032220800769,5
+161,Between Fitnes,240,Military Supplement,0.16010078848765155,1
+161,Between Fitnes,89,Prepare Cookware,0.15010558011708822,2
+161,Between Fitnes,14,Find Headphone,0.12182898077463454,3
+161,Between Fitnes,196,Information Cycling,0.12004268943571539,4
+161,Between Fitnes,275,Culture Children,0.11396057645963793,5
+162,Do Team Sport,23,Cost Headphone,0.12838814775327387,1
+162,Do Team Sport,263,Way Media,0.0999260081289737,2
+162,Do Team Sport,111,Situation Men,0.08844594840232924,3
+162,Do Team Sport,19,Improve Smartphone,0.08362420100070907,4
+162,Do Team Sport,18,Rest Camera,0.08238525545716345,5
+163,Ready Cycling,274,Product Children,0.12360330811826105,1
+163,Ready Cycling,98,Southern Appliance,0.11798497593106737,2
+163,Ready Cycling,282,Discuss Fiction,0.10619477512887363,3
+163,Ready Cycling,228,Over Skincare,0.10428377727244542,4
+163,Ready Cycling,39,Yeah Laptop,0.09883994709867804,5
+164,Great Team Sport,276,Recently Non-Fiction,0.158999682000954,1
+164,Great Team Sport,13,Support Headphone,0.11489312875225723,2
+164,Great Team Sport,187,Artist Team Sport,0.08794080883518106,3
+164,Great Team Sport,143,Writer Women,0.08660254037844385,4
+164,Great Team Sport,2,Maintain Laptop,0.08547043234472847,5
+165,Up Cycling,192,Participant Camping,0.12952657406326584,1
+165,Up Cycling,41,Rest Smartphone,0.12126781251816647,2
+165,Up Cycling,34,Television Laptop,0.10401019349846874,3
+165,Up Cycling,98,Southern Appliance,0.09095085938862486,4
+165,Up Cycling,201,When Supplement,0.08823529411764705,5
+166,Power Fitnes,19,Improve Smartphone,0.14484136487558028,1
+166,Power Fitnes,281,Citizen Non-Fiction,0.10775449168807309,2
+166,Power Fitnes,268,Machine Media,0.10775449168807308,3
+166,Power Fitnes,95,They Appliance,0.10512928338279501,4
+166,Power Fitnes,100,Sea Appliance,0.09805806756909202,5
+167,Practice Fitnes,255,Activity Non-Fiction,0.12536290240743356,1
+167,Practice Fitnes,232,Partner Personal Care,0.1126872339638022,2
+167,Practice Fitnes,122,Attorney Men,0.10585122480499261,3
+167,Practice Fitnes,107,Appear Women,0.09600307214746387,4
+167,Practice Fitnes,193,Add Camping,0.09304842103984708,5
+168,Wait Camping,102,Three Women,0.17323371679589578,1
+168,Wait Camping,93,Fear Appliance,0.11695217633781754,2
+168,Wait Camping,22,Scientist Smartphone,0.11454053224818188,3
+168,Wait Camping,241,Low Personal Care,0.10101525445522107,4
+168,Wait Camping,109,Health Footwear,0.09841356626102457,5
+169,Contain Cycling,284,Do Fiction,0.10404798103595464,1
+169,Contain Cycling,22,Scientist Smartphone,0.09803479521381728,2
+169,Contain Cycling,110,Section Footwear,0.09242809131723291,3
+169,Contain Cycling,105,Physical Footwear,0.08958177017301283,4
+169,Contain Cycling,254,Them Children,0.08645856265563524,5
+170,Offer Team Sport,67,Apply Furniture,0.11043152607484652,1
+170,Offer Team Sport,140,Fall Footwear,0.1082870204560525,2
+170,Offer Team Sport,63,Song Appliance,0.09239364353597955,3
+170,Offer Team Sport,114,History Kid,0.09110136110168687,4
+170,Offer Team Sport,196,Information Cycling,0.0904752274889361,5
+171,Her Camping,20,Arm Accessorie,0.13760116767827066,1
+171,Her Camping,253,Happen Fiction,0.12622336052697322,2
+171,Her Camping,189,Message Team Sport,0.11290322580645161,3
+171,Her Camping,216,Effort Supplement,0.09274777915203365,4
+171,Her Camping,293,Almost Non-Fiction,0.09274777915203364,5
+172,Half Team Sport,282,Discuss Fiction,0.15602161985357416,1
+172,Half Team Sport,160,Where Camping,0.12238386597459477,2
+172,Half Team Sport,109,Health Footwear,0.10832372170111784,3
+172,Half Team Sport,17,Light Laptop,0.10832372170111784,4
+172,Half Team Sport,248,Generation Haircare,0.08869685939836239,5
+173,Soon Fitnes,34,Television Laptop,0.11628693150774139,1
+173,Soon Fitnes,221,Response Haircare,0.10780182679063195,2
+173,Soon Fitnes,89,Prepare Cookware,0.10715045027260288,3
+173,Soon Fitnes,266,Feeling Non-Fiction,0.10122588264316615,4
+173,Soon Fitnes,118,During Men,0.1001958865736239,5
+174,Social Cycling,185,Avoid Camping,0.141509827535445,1
+174,Social Cycling,176,Where Cycling,0.13565168669614014,2
+174,Social Cycling,233,Say Haircare,0.11394002636002816,3
+174,Social Cycling,56,Heavy Appliance,0.1077284357109812,4
+174,Social Cycling,7,Beyond Accessorie,0.10173876502210512,5
+175,Either Fitnes,59,Action Furniture,0.11589658124319134,1
+175,Either Fitnes,225,Discover Skincare,0.11481983169296148,2
+175,Either Fitnes,258,Difference Fiction,0.10206207261596575,3
+175,Either Fitnes,205,Back Haircare,0.08964214570007953,4
+175,Either Fitnes,135,Road Women,0.08884278944919168,5
+176,Where Cycling,174,Social Cycling,0.13565168669614014,1
+176,Where Cycling,297,Want Media,0.09867967802605516,2
+176,Where Cycling,95,They Appliance,0.08724138544978104,3
+176,Where Cycling,87,Property Furniture,0.08303402767415663,4
+176,Where Cycling,88,Voice Decor,0.08262211594306268,5
+177,Hour Camping,71,Green Furniture,0.13977131156292244,1
+177,Hour Camping,79,Hand Furniture,0.1314684396244359,2
+177,Hour Camping,288,Beyond Media,0.11198947348421545,3
+177,Hour Camping,296,Question Non-Fiction,0.10721125348377947,4
+177,Hour Camping,59,Action Furniture,0.10301918332728119,5
+178,Rich Cycling,184,Important Cycling,0.1552647508520297,1
+178,Rich Cycling,280,Start Fiction,0.120761472884912,2
+178,Rich Cycling,219,Example Supplement,0.1147078669352809,3
+178,Rich Cycling,24,Concern Headphone,0.11274690420042435,4
+178,Rich Cycling,177,Hour Camping,0.09622504486493763,5
+179,Our Camping,267,Born Fiction,0.1315334104411641,1
+179,Our Camping,189,Message Team Sport,0.10780719313589704,2
+179,Our Camping,291,Since Non-Fiction,0.10294117647058823,3
+179,Our Camping,61,Trade Appliance,0.09811049102515929,4
+179,Our Camping,263,Way Media,0.09513029883089882,5
+180,Grow Team Sport,283,Strategy Children,0.11846977555181847,1
+180,Grow Team Sport,60,Coach Furniture,0.10431507305232363,2
+180,Grow Team Sport,148,Answer Women,0.09673016668133488,3
+180,Grow Team Sport,45,Beautiful Camera,0.09431584242294394,4
+180,Grow Team Sport,168,Wait Camping,0.06675015657623451,5
+181,Choice Team Sport,128,Pretty Kid,0.11493256424549748,1
+181,Choice Team Sport,194,Quickly Fitnes,0.11110039592606175,2
+181,Choice Team Sport,101,Cut Women,0.1052899465793327,3
+181,Choice Team Sport,114,History Kid,0.10226199851298273,4
+181,Choice Team Sport,36,Work Smartphone,0.1001958865736239,5
+182,Answer Fitnes,57,Try Cookware,0.11842105263157893,1
+182,Answer Fitnes,134,Democrat Kid,0.11587244366483038,2
+182,Answer Fitnes,249,Across Skincare,0.11194341570991125,3
+182,Answer Fitnes,143,Writer Women,0.10596258856520348,4
+182,Answer Fitnes,81,Real Furniture,0.08740748201220974,5
+183,High Camping,209,Leg Skincare,0.1301072622358966,1
+183,High Camping,128,Pretty Kid,0.1250199346145913,2
+183,High Camping,142,Card Footwear,0.10577717706958903,3
+183,High Camping,88,Voice Decor,0.09583647428399329,4
+183,High Camping,249,Across Skincare,0.09211323729436767,5
+184,Important Cycling,178,Rich Cycling,0.1552647508520297,1
+184,Important Cycling,219,Example Supplement,0.1266495173722607,2
+184,Important Cycling,1,Black Camera,0.10985884360051026,3
+184,Important Cycling,280,Start Fiction,0.09999999999999999,4
+184,Important Cycling,40,Because Laptop,0.09413160730419345,5
+185,Avoid Camping,85,Event Furniture,0.14815221273648993,1
+185,Avoid Camping,174,Social Cycling,0.141509827535445,2
+185,Avoid Camping,231,Food Personal Care,0.11197633540352389,3
+185,Avoid Camping,122,Attorney Men,0.10188534162169866,4
+185,Avoid Camping,123,Anything Footwear,0.08759357437106756,5
+186,Along Fitnes,18,Rest Camera,0.1375047745542317,1
+186,Along Fitnes,246,Close Personal Care,0.10548162696116148,2
+186,Along Fitnes,253,Happen Fiction,0.10434798389121026,3
+186,Along Fitnes,281,Citizen Non-Fiction,0.10383482633023301,4
+186,Along Fitnes,12,Get Smartphone,0.09905360646879093,5
+187,Artist Team Sport,125,Increase Women,0.11589224922751923,1
+187,Artist Team Sport,250,Discover Haircare,0.10176802973291375,2
+187,Artist Team Sport,89,Prepare Cookware,0.09928550884822428,3
+187,Artist Team Sport,164,Great Team Sport,0.08794080883518106,4
+187,Artist Team Sport,137,Particular Kid,0.08362420100070908,5
+188,Involve Fitnes,202,Thank Skincare,0.14909420864112788,1
+188,Involve Fitnes,17,Light Laptop,0.1318265717213341,2
+188,Involve Fitnes,104,Major Men,0.10794129589820627,3
+188,Involve Fitnes,24,Concern Headphone,0.10253177800548209,4
+188,Involve Fitnes,132,Set Men,0.09768498542662232,5
+189,Message Team Sport,225,Discover Skincare,0.15554275420956382,1
+189,Message Team Sport,147,Later Women,0.13099062926556151,2
+189,Message Team Sport,154,Attack Cycling,0.12412427959034776,3
+189,Message Team Sport,171,Her Camping,0.11290322580645161,4
+189,Message Team Sport,179,Our Camping,0.10780719313589704,5
+190,Over Cycling,139,About Men,0.13770743461196402,1
+190,Over Cycling,244,Thus Supplement,0.12739983374858987,2
+190,Over Cycling,157,First Camping,0.10577412058827453,3
+190,Over Cycling,150,Population Kid,0.09640705439797252,4
+190,Over Cycling,142,Card Footwear,0.09569487529386911,5
+191,Yeah Camping,229,Thus Skincare,0.11785113019775792,1
+191,Yeah Camping,291,Since Non-Fiction,0.11669000700233416,2
+191,Yeah Camping,38,Say Camera,0.10425720702853739,3
+191,Yeah Camping,124,Act Kid,0.10041067934611822,4
+191,Yeah Camping,131,Spring Kid,0.09216687726822183,5
+192,Participant Camping,133,Actually Kid,0.14608272377400622,1
+192,Participant Camping,203,Officer Skincare,0.13248193319047377,2
+192,Participant Camping,165,Up Cycling,0.12952657406326584,3
+192,Participant Camping,267,Born Fiction,0.11585208979924942,4
+192,Participant Camping,42,Cost Camera,0.114022293537793,5
+193,Add Camping,236,Down Haircare,0.11134044285378081,1
+193,Add Camping,55,Others Cookware,0.09379580992210837,2
+193,Add Camping,167,Practice Fitnes,0.09304842103984708,3
+193,Add Camping,209,Leg Skincare,0.07918075824648957,4
+193,Add Camping,237,Against Skincare,0.07828603169094882,5
+194,Quickly Fitnes,39,Yeah Laptop,0.12513755582813493,1
+194,Quickly Fitnes,181,Choice Team Sport,0.11110039592606175,2
+194,Quickly Fitnes,3,Start Accessorie,0.09316051410668053,3
+194,Quickly Fitnes,207,Impact Haircare,0.07533029414277381,4
+194,Quickly Fitnes,300,Those Non-Fiction,0.07069654022425799,5
+195,After Fitnes,56,Heavy Appliance,0.1576833055970887,1
+195,After Fitnes,103,Carry Women,0.12857571271486287,2
+195,After Fitnes,24,Concern Headphone,0.10423454980627082,3
+195,After Fitnes,200,White Fitnes,0.08798117404291673,4
+195,After Fitnes,233,Say Haircare,0.08338763984501665,5
+196,Information Cycling,161,Between Fitnes,0.12004268943571539,1
+196,Information Cycling,29,Pressure Accessorie,0.1177703825827981,2
+196,Information Cycling,255,Activity Non-Fiction,0.10481426482049236,3
+196,Information Cycling,101,Cut Women,0.09738412097417934,4
+196,Information Cycling,225,Discover Skincare,0.09556369651349933,5
+197,Own Camping,81,Real Furniture,0.12115787884266638,1
+197,Own Camping,279,Scientist Non-Fiction,0.10408972546332562,2
+197,Own Camping,8,Plant Smartphone,0.09091496112450458,3
+197,Own Camping,9,Right Laptop,0.08889437636544373,4
+197,Own Camping,223,Sense Supplement,0.08295795604949602,5
+198,Later Cycling,130,Fly Kid,0.1538800203579465,1
+198,Later Cycling,51,Former Cookware,0.13252300302011577,2
+198,Later Cycling,24,Concern Headphone,0.12189967594728437,3
+198,Later Cycling,218,Month Supplement,0.1137958096828256,4
+198,Later Cycling,124,Act Kid,0.10468478451804275,5
+199,Yes Fitnes,109,Health Footwear,0.12247142539179548,1
+199,Yes Fitnes,25,Protect Headphone,0.12172864805778011,2
+199,Yes Fitnes,242,Huge Personal Care,0.10788462336424759,3
+199,Yes Fitnes,209,Leg Skincare,0.100855863477755,4
+199,Yes Fitnes,287,Total Fiction,0.09183195389610789,5
+200,White Fitnes,153,Feel Cycling,0.17444809066301298,1
+200,White Fitnes,122,Attorney Men,0.13464028341974354,2
+200,White Fitnes,9,Right Laptop,0.10079509744568747,3
+200,White Fitnes,226,Recognize Skincare,0.09214426752509268,4
+200,White Fitnes,195,After Fitnes,0.08798117404291673,5
+201,When Supplement,204,Artist Supplement,0.11768980071733683,1
+201,When Supplement,260,Form Media,0.09750298988361741,2
+201,When Supplement,241,Low Personal Care,0.09723055853282467,3
+201,When Supplement,64,Task Appliance,0.09684700453858312,4
+201,When Supplement,89,Prepare Cookware,0.09317610191137536,5
+202,Thank Skincare,188,Involve Fitnes,0.14909420864112788,1
+202,Thank Skincare,17,Light Laptop,0.14376960117634727,2
+202,Thank Skincare,70,Bring Furniture,0.12233863076108327,3
+202,Thank Skincare,104,Major Men,0.1059483621033025,4
+202,Thank Skincare,144,Almost Women,0.09877295966495896,5
+203,Officer Skincare,133,Actually Kid,0.15267620413811483,1
+203,Officer Skincare,249,Across Skincare,0.13315005718713654,2
+203,Officer Skincare,192,Participant Camping,0.13248193319047377,3
+203,Officer Skincare,267,Born Fiction,0.12108110291933624,4
+203,Officer Skincare,131,Spring Kid,0.118803729069973,5
+204,Artist Supplement,294,Owner Non-Fiction,0.1791635403460257,1
+204,Artist Supplement,97,Black Appliance,0.13418085230494445,2
+204,Artist Supplement,102,Three Women,0.12131186985386821,3
+204,Artist Supplement,201,When Supplement,0.11768980071733683,4
+204,Artist Supplement,241,Low Personal Care,0.115278083540847,5
+205,Back Haircare,153,Feel Cycling,0.09107651110783745,1
+205,Back Haircare,86,Less Decor,0.09027122110706692,2
+205,Back Haircare,175,Either Fitnes,0.08964214570007953,3
+205,Back Haircare,283,Strategy Children,0.0890870806374748,4
+205,Back Haircare,33,Forward Accessorie,0.08068423483216582,5
+206,Office Skincare,231,Food Personal Care,0.14569855927715483,1
+206,Office Skincare,5,Yeah Smartphone,0.11797256364594218,2
+206,Office Skincare,157,First Camping,0.08904382398008728,3
+206,Office Skincare,131,Spring Kid,0.07419290502442469,4
+206,Office Skincare,15,Sea Headphone,0.07319250547113998,5
+207,Impact Haircare,97,Black Appliance,0.13218592315208869,1
+207,Impact Haircare,290,Administration Children,0.11911572250165775,2
+207,Impact Haircare,66,Wide Cookware,0.10828702045605249,3
+207,Impact Haircare,1,Black Camera,0.10300524052492095,4
+207,Impact Haircare,150,Population Kid,0.09686944100466396,5
+208,Series Skincare,77,What Furniture,0.15364985346600668,1
+208,Series Skincare,3,Start Accessorie,0.12773991505582338,2
+208,Series Skincare,95,They Appliance,0.1129331529006903,3
+208,Series Skincare,219,Example Supplement,0.09301487194157254,4
+208,Series Skincare,167,Practice Fitnes,0.08847479104076175,5
+209,Leg Skincare,183,High Camping,0.1301072622358966,1
+209,Leg Skincare,232,Partner Personal Care,0.11986582537134602,2
+209,Leg Skincare,112,Performance Women,0.10344827586206894,3
+209,Leg Skincare,199,Yes Fitnes,0.100855863477755,4
+209,Leg Skincare,256,Baby Non-Fiction,0.09809737727905711,5
+210,Me Haircare,86,Less Decor,0.1556132007513662,1
+210,Me Haircare,230,Fight Supplement,0.08885233166386386,2
+210,Me Haircare,62,Key Furniture,0.08671099695241201,3
+210,Me Haircare,125,Increase Women,0.08330923113952962,4
+210,Me Haircare,11,Change Smartphone,0.07410796749798178,5
+211,Everyone Skincare,49,Left Laptop,0.11530202747786723,1
+211,Everyone Skincare,126,Field Men,0.10868281233544477,2
+211,Everyone Skincare,74,Serve Appliance,0.10189187084991655,3
+211,Everyone Skincare,234,House Skincare,0.10177041980395138,4
+211,Everyone Skincare,264,Include Non-Fiction,0.09606457710101322,5
+212,Another Personal Care,286,Give Non-Fiction,0.1203858530857692,1
+212,Another Personal Care,12,Get Smartphone,0.1179320441312158,2
+212,Another Personal Care,237,Against Skincare,0.105999788000636,3
+212,Another Personal Care,298,Wait Media,0.10384339509196215,4
+212,Another Personal Care,246,Close Personal Care,0.09302605094190636,5
+213,Star Supplement,49,Left Laptop,0.14590347999625503,1
+213,Star Supplement,65,Scene Appliance,0.11736911946539275,2
+213,Star Supplement,241,Low Personal Care,0.08099238707340584,3
+213,Star Supplement,250,Discover Haircare,0.07955572841757301,4
+213,Star Supplement,55,Others Cookware,0.07697370086861781,5
+214,Safe Skincare,140,Fall Footwear,0.15346245351121282,1
+214,Safe Skincare,235,Training Personal Care,0.14478512671975205,2
+214,Safe Skincare,88,Voice Decor,0.13445664569367252,3
+214,Safe Skincare,259,Hundred Fiction,0.09517337345336012,4
+214,Safe Skincare,20,Arm Accessorie,0.08695652173913043,5
+215,Want Supplement,222,Car Supplement,0.13055051548403446,1
+215,Want Supplement,58,Artist Appliance,0.1263208002491397,2
+215,Want Supplement,80,Success Furniture,0.10233220929949846,3
+215,Want Supplement,101,Cut Women,0.10169856723618428,4
+215,Want Supplement,49,Left Laptop,0.09629472772211473,5
+216,Effort Supplement,107,Appear Women,0.1623086135160589,1
+216,Effort Supplement,15,Sea Headphone,0.1552647508520297,2
+216,Effort Supplement,298,Wait Media,0.1516729865061038,3
+216,Effort Supplement,67,Apply Furniture,0.1217161238900369,4
+216,Effort Supplement,275,Culture Children,0.10954451150103323,5
+217,Measure Skincare,220,Run Skincare,0.11109054069325251,1
+217,Measure Skincare,108,Word Men,0.09935326726564042,2
+217,Measure Skincare,151,Say Fitnes,0.09738412097417933,3
+217,Measure Skincare,261,Especially Fiction,0.09094432926854173,4
+217,Measure Skincare,133,Actually Kid,0.08644061588581956,5
+218,Month Supplement,9,Right Laptop,0.12045301395742894,1
+218,Month Supplement,282,Discuss Fiction,0.11933359262635951,2
+218,Month Supplement,198,Later Cycling,0.1137958096828256,3
+218,Month Supplement,42,Cost Camera,0.11322770341445956,4
+218,Month Supplement,83,Rich Furniture,0.10718661571406801,5
+219,Example Supplement,184,Important Cycling,0.1266495173722607,1
+219,Example Supplement,178,Rich Cycling,0.1147078669352809,2
+219,Example Supplement,37,Executive Laptop,0.1147078669352809,3
+219,Example Supplement,224,Voice Skincare,0.10619884881071831,4
+219,Example Supplement,54,We Decor,0.10259783520851541,5
+220,Run Skincare,54,We Decor,0.12253577034896797,1
+220,Run Skincare,152,Soon Camping,0.11216749557828991,2
+220,Run Skincare,217,Measure Skincare,0.11109054069325251,3
+220,Run Skincare,151,Say Fitnes,0.10529962529853128,4
+220,Run Skincare,43,A Laptop,0.09930363822093967,5
+221,Response Haircare,75,Wonder Decor,0.10957876021579875,1
+221,Response Haircare,173,Soon Fitnes,0.10780182679063195,2
+221,Response Haircare,89,Prepare Cookware,0.08485004317396407,3
+221,Response Haircare,4,Movement Headphone,0.08385357276567294,4
+221,Response Haircare,186,Along Fitnes,0.0834783871129682,5
+222,Car Supplement,215,Want Supplement,0.13055051548403446,1
+222,Car Supplement,85,Event Furniture,0.11599076460303807,2
+222,Car Supplement,29,Pressure Accessorie,0.10614897848685505,3
+222,Car Supplement,177,Hour Camping,0.09230524008174414,4
+222,Car Supplement,296,Question Non-Fiction,0.08906544443056494,5
+223,Sense Supplement,36,Work Smartphone,0.12909944487358055,1
+223,Sense Supplement,8,Plant Smartphone,0.11986582537134602,2
+223,Sense Supplement,132,Set Men,0.0970725343394151,3
+223,Sense Supplement,219,Example Supplement,0.08885233166386386,4
+223,Sense Supplement,86,Less Decor,0.08444099531709018,5
+224,Voice Skincare,255,Activity Non-Fiction,0.1329674376022855,1
+224,Voice Skincare,219,Example Supplement,0.10619884881071831,2
+224,Voice Skincare,89,Prepare Cookware,0.08800719732732863,3
+224,Voice Skincare,83,Rich Furniture,0.08102546544402055,4
+224,Voice Skincare,278,Page Fiction,0.07985957062499249,5
+225,Discover Skincare,189,Message Team Sport,0.15554275420956382,1
+225,Discover Skincare,285,Foot Children,0.1339855501894681,2
+225,Discover Skincare,229,Thus Skincare,0.125,3
+225,Discover Skincare,175,Either Fitnes,0.11481983169296148,4
+225,Discover Skincare,58,Artist Appliance,0.097367022541781,5
+226,Recognize Skincare,46,Reflect Laptop,0.13762047064079508,1
+226,Recognize Skincare,293,Almost Non-Fiction,0.13268069440075547,2
+226,Recognize Skincare,252,Property Non-Fiction,0.1065016084037823,3
+226,Recognize Skincare,48,Court Camera,0.09288035617599816,4
+226,Recognize Skincare,200,White Fitnes,0.09214426752509268,5
+227,Daughter Supplement,115,Quickly Footwear,0.16222142113076254,1
+227,Daughter Supplement,231,Food Personal Care,0.1087153219988047,2
+227,Daughter Supplement,229,Thus Skincare,0.10814761408717502,3
+227,Daughter Supplement,204,Artist Supplement,0.08569679835600634,4
+227,Daughter Supplement,249,Across Skincare,0.07755667343294814,5
+228,Over Skincare,123,Anything Footwear,0.11638139694290356,1
+228,Over Skincare,292,Store Fiction,0.11314794771426398,2
+228,Over Skincare,242,Huge Personal Care,0.11086817090852263,3
+228,Over Skincare,163,Ready Cycling,0.10428377727244542,4
+228,Over Skincare,237,Against Skincare,0.10247386289131952,5
+229,Thus Skincare,33,Forward Accessorie,0.1377945636523876,1
+229,Thus Skincare,225,Discover Skincare,0.125,2
+229,Thus Skincare,191,Yeah Camping,0.11785113019775792,3
+229,Thus Skincare,115,Quickly Footwear,0.1111111111111111,4
+229,Thus Skincare,227,Daughter Supplement,0.10814761408717502,5
+230,Fight Supplement,137,Particular Kid,0.1085303927655574,1
+230,Fight Supplement,113,Represent Kid,0.10690449676496976,2
+230,Fight Supplement,210,Me Haircare,0.08885233166386386,3
+230,Fight Supplement,127,Research Footwear,0.075,4
+230,Fight Supplement,227,Daughter Supplement,0.07404360971988655,5
+231,Food Personal Care,5,Yeah Smartphone,0.1562584777949657,1
+231,Food Personal Care,206,Office Skincare,0.14569855927715483,2
+231,Food Personal Care,101,Cut Women,0.14227759830611805,3
+231,Food Personal Care,185,Avoid Camping,0.11197633540352389,4
+231,Food Personal Care,227,Daughter Supplement,0.1087153219988047,5
+232,Partner Personal Care,209,Leg Skincare,0.11986582537134602,1
+232,Partner Personal Care,167,Practice Fitnes,0.1126872339638022,2
+232,Partner Personal Care,134,Democrat Kid,0.10164463907684078,3
+232,Partner Personal Care,259,Hundred Fiction,0.08838834764831843,4
+232,Partner Personal Care,203,Officer Skincare,0.08320502943378438,5
+233,Say Haircare,174,Social Cycling,0.11394002636002816,1
+233,Say Haircare,22,Scientist Smartphone,0.10520852775980838,2
+233,Say Haircare,250,Discover Haircare,0.10253177800548209,3
+233,Say Haircare,96,Mind Decor,0.09770401435159617,4
+233,Say Haircare,181,Choice Team Sport,0.0847258201859472,5
+234,House Skincare,211,Everyone Skincare,0.10177041980395138,1
+234,House Skincare,236,Down Haircare,0.09984038297885897,2
+234,House Skincare,111,Situation Men,0.08621971256258092,3
+234,House Skincare,39,Yeah Laptop,0.08090869104729184,4
+234,House Skincare,190,Over Cycling,0.07755667343294814,5
+235,Training Personal Care,214,Safe Skincare,0.14478512671975205,1
+235,Training Personal Care,88,Voice Decor,0.12211320467908286,2
+235,Training Personal Care,260,Form Media,0.12087344460380704,3
+235,Training Personal Care,129,Direction Kid,0.11908262790561672,4
+235,Training Personal Care,140,Fall Footwear,0.11793204413121582,5
+236,Down Haircare,110,Section Footwear,0.1292191476761844,1
+236,Down Haircare,280,Start Fiction,0.12613124477737825,2
+236,Down Haircare,53,Student Decor,0.11877113736973437,3
+236,Down Haircare,237,Against Skincare,0.11186048511760381,4
+236,Down Haircare,193,Add Camping,0.11134044285378081,5
+237,Against Skincare,110,Section Footwear,0.16657109542957085,1
+237,Against Skincare,249,Across Skincare,0.14482328117928964,2
+237,Against Skincare,53,Student Decor,0.12526608641625303,3
+237,Against Skincare,236,Down Haircare,0.11186048511760381,4
+237,Against Skincare,292,Store Fiction,0.11165703111126966,5
+238,Able Haircare,49,Left Laptop,0.10613372610104645,1
+238,Able Haircare,77,What Furniture,0.10105823052798225,2
+238,Able Haircare,106,Oil Footwear,0.09284141650970551,3
+238,Able Haircare,120,Society Kid,0.08247860988423222,4
+238,Able Haircare,217,Measure Skincare,0.08108848540793831,5
+239,Increase Haircare,286,Give Non-Fiction,0.13631013668492176,1
+239,Increase Haircare,126,Field Men,0.12332334556599062,2
+239,Increase Haircare,133,Actually Kid,0.09756156783416058,3
+239,Increase Haircare,172,Half Team Sport,0.07850928662766596,4
+239,Increase Haircare,160,Where Camping,0.07772022854475731,5
+240,Military Supplement,275,Culture Children,0.1685854460847049,1
+240,Military Supplement,161,Between Fitnes,0.16010078848765155,2
+240,Military Supplement,154,Attack Cycling,0.10297995137364127,3
+240,Military Supplement,225,Discover Skincare,0.09558988911273408,4
+240,Military Supplement,94,Animal Appliance,0.09293533804764306,5
+241,Low Personal Care,157,First Camping,0.11850314695868774,1
+241,Low Personal Care,263,Way Media,0.11793204413121583,2
+241,Low Personal Care,204,Artist Supplement,0.115278083540847,3
+241,Low Personal Care,27,Into Laptop,0.11145564251507058,4
+241,Low Personal Care,168,Wait Camping,0.10101525445522107,5
+242,Huge Personal Care,9,Right Laptop,0.13114949909639226,1
+242,Huge Personal Care,228,Over Skincare,0.11086817090852263,2
+242,Huge Personal Care,199,Yes Fitnes,0.10788462336424759,3
+242,Huge Personal Care,30,Hospital Laptop,0.09052060501957755,4
+242,Huge Personal Care,61,Trade Appliance,0.08434823356733001,5
+243,Son Personal Care,249,Across Skincare,0.12001983962979582,1
+243,Son Personal Care,60,Coach Furniture,0.11320978622099122,2
+243,Son Personal Care,154,Attack Cycling,0.10927167294163061,3
+243,Son Personal Care,284,Do Fiction,0.10787924283421142,4
+243,Son Personal Care,26,Agent Laptop,0.10650160840378231,5
+244,Thus Supplement,134,Democrat Kid,0.1318713563037654,1
+244,Thus Supplement,73,Travel Appliance,0.128630778606745,2
+244,Thus Supplement,190,Over Cycling,0.12739983374858987,3
+244,Thus Supplement,1,Black Camera,0.10908244628454697,4
+244,Thus Supplement,157,First Camping,0.10524336431460951,5
+245,Throughout Personal Care,66,Wide Cookware,0.12622336052697322,1
+245,Throughout Personal Care,261,Especially Fiction,0.1233534278728621,2
+245,Throughout Personal Care,112,Performance Women,0.12254258527460647,3
+245,Throughout Personal Care,124,Act Kid,0.11359236684941296,4
+245,Throughout Personal Care,78,Unit Cookware,0.10092946653787335,5
+246,Close Personal Care,186,Along Fitnes,0.10548162696116148,1
+246,Close Personal Care,198,Later Cycling,0.10162017339941976,2
+246,Close Personal Care,255,Activity Non-Fiction,0.0987353390352702,3
+246,Close Personal Care,212,Another Personal Care,0.09302605094190636,4
+246,Close Personal Care,58,Artist Appliance,0.09203358899819876,5
+247,Good Haircare,70,Bring Furniture,0.15891043154093204,1
+247,Good Haircare,281,Citizen Non-Fiction,0.10639903531978628,2
+247,Good Haircare,117,White Men,0.09065968278232492,3
+247,Good Haircare,268,Machine Media,0.08866586276648858,4
+247,Good Haircare,31,Wide Laptop,0.07231015260621872,5
+248,Generation Haircare,73,Travel Appliance,0.11554009937293111,1
+248,Generation Haircare,172,Half Team Sport,0.08869685939836239,2
+248,Generation Haircare,60,Coach Furniture,0.08395434125416043,3
+248,Generation Haircare,198,Later Cycling,0.07485976927589244,4
+248,Generation Haircare,57,Try Cookware,0.07336739820667777,5
+249,Across Skincare,237,Against Skincare,0.14482328117928964,1
+249,Across Skincare,203,Officer Skincare,0.13315005718713654,2
+249,Across Skincare,53,Student Decor,0.1281419574064149,3
+249,Across Skincare,110,Section Footwear,0.12547286652195427,4
+249,Across Skincare,259,Hundred Fiction,0.12344267996967355,5
+250,Discover Haircare,142,Card Footwear,0.11032394541017196,1
+250,Discover Haircare,278,Page Fiction,0.10757897977622109,2
+250,Discover Haircare,125,Increase Women,0.10614713278680385,3
+250,Discover Haircare,233,Say Haircare,0.10253177800548209,4
+250,Discover Haircare,187,Artist Team Sport,0.10176802973291375,5
+251,College Fiction,24,Concern Headphone,0.11776030079682895,1
+251,College Fiction,84,Per Cookware,0.10660035817780522,2
+251,College Fiction,87,Property Furniture,0.10050378152592121,3
+251,College Fiction,39,Yeah Laptop,0.0982279291578343,4
+251,College Fiction,5,Yeah Smartphone,0.09184151623839405,5
+252,Property Non-Fiction,53,Student Decor,0.17868542247296582,1
+252,Property Non-Fiction,226,Recognize Skincare,0.1065016084037823,2
+252,Property Non-Fiction,80,Success Furniture,0.10127393670836668,3
+252,Property Non-Fiction,293,Almost Non-Fiction,0.08695819912499181,4
+252,Property Non-Fiction,132,Set Men,0.08439494725697223,5
+253,Happen Fiction,171,Her Camping,0.12622336052697322,1
+253,Happen Fiction,186,Along Fitnes,0.10434798389121026,2
+253,Happen Fiction,284,Do Fiction,0.0947160186768878,3
+253,Happen Fiction,34,Television Laptop,0.0947160186768878,4
+253,Happen Fiction,18,Rest Camera,0.09374252720097653,5
+254,Them Children,22,Scientist Smartphone,0.13498731178900975,1
+254,Them Children,93,Fear Appliance,0.09648062312349497,2
+254,Them Children,169,Contain Cycling,0.08645856265563524,3
+254,Them Children,168,Wait Camping,0.08417937871268422,4
+254,Them Children,2,Maintain Laptop,0.07614311298414658,5
+255,Activity Non-Fiction,224,Voice Skincare,0.1329674376022855,1
+255,Activity Non-Fiction,167,Practice Fitnes,0.12536290240743356,2
+255,Activity Non-Fiction,196,Information Cycling,0.10481426482049236,3
+255,Activity Non-Fiction,17,Light Laptop,0.10363424654308592,4
+255,Activity Non-Fiction,74,Serve Appliance,0.1026302498800235,5
+256,Baby Non-Fiction,289,Available Non-Fiction,0.1809825061715205,1
+256,Baby Non-Fiction,18,Rest Camera,0.11095900821829636,2
+256,Baby Non-Fiction,286,Give Non-Fiction,0.11015202290310472,3
+256,Baby Non-Fiction,295,Among Media,0.10166571355506979,4
+256,Baby Non-Fiction,209,Leg Skincare,0.09809737727905711,5
+257,Minute Children,33,Forward Accessorie,0.18067900652188357,1
+257,Minute Children,272,Pass Children,0.1152857439776791,2
+257,Minute Children,87,Property Furniture,0.09832102880166932,3
+257,Minute Children,101,Cut Women,0.09544271444636666,4
+257,Minute Children,148,Answer Women,0.09424212936563148,5
+258,Difference Fiction,259,Hundred Fiction,0.1075828707279838,1
+258,Difference Fiction,175,Either Fitnes,0.10206207261596575,2
+258,Difference Fiction,298,Wait Media,0.09690031662230185,3
+258,Difference Fiction,113,Represent Kid,0.08132500607904443,4
+258,Difference Fiction,110,Section Footwear,0.07776157913597391,5
+259,Hundred Fiction,249,Across Skincare,0.12344267996967355,1
+259,Hundred Fiction,258,Difference Fiction,0.1075828707279838,2
+259,Hundred Fiction,33,Forward Accessorie,0.10673521004472301,3
+259,Hundred Fiction,243,Son Personal Care,0.10606601717798213,4
+259,Hundred Fiction,13,Support Headphone,0.10380684981717495,5
+260,Form Media,267,Born Fiction,0.13081398803354571,1
+260,Form Media,58,Artist Appliance,0.12784055442011863,2
+260,Form Media,235,Training Personal Care,0.12087344460380704,3
+260,Form Media,37,Executive Laptop,0.1160517706371319,4
+260,Form Media,201,When Supplement,0.09750298988361741,5
+261,Especially Fiction,151,Say Fitnes,0.13469311461009134,1
+261,Especially Fiction,245,Throughout Personal Care,0.1233534278728621,2
+261,Especially Fiction,270,Environmental Non-Fiction,0.09653452203153241,3
+261,Especially Fiction,142,Card Footwear,0.09524241471993242,4
+261,Especially Fiction,217,Measure Skincare,0.09094432926854173,5
+262,Case Media,109,Health Footwear,0.17273555112213854,1
+262,Case Media,96,Mind Decor,0.09847982464479192,2
+262,Case Media,92,Left Furniture,0.09223309842157773,3
+262,Case Media,132,Set Men,0.08861469461982086,4
+262,Case Media,38,Say Camera,0.08600780775702332,5
+263,Way Media,241,Low Personal Care,0.11793204413121583,1
+263,Way Media,162,Do Team Sport,0.0999260081289737,2
+263,Way Media,67,Apply Furniture,0.09805806756909202,3
+263,Way Media,179,Our Camping,0.09513029883089882,4
+263,Way Media,127,Research Footwear,0.08770580193070293,5
+264,Include Non-Fiction,70,Bring Furniture,0.1615926535664718,1
+264,Include Non-Fiction,300,Those Non-Fiction,0.11275665528404907,2
+264,Include Non-Fiction,37,Executive Laptop,0.10526899013331488,3
+264,Include Non-Fiction,295,Among Media,0.09724332766526303,4
+264,Include Non-Fiction,211,Everyone Skincare,0.09606457710101322,5
+265,Create Non-Fiction,150,Population Kid,0.11767963901214164,1
+265,Create Non-Fiction,86,Less Decor,0.1169605909201713,2
+265,Create Non-Fiction,145,Unit Men,0.10465823835696723,3
+265,Create Non-Fiction,250,Discover Haircare,0.08443545889639932,4
+265,Create Non-Fiction,271,Create Children,0.08304547985373995,5
+266,Feeling Non-Fiction,91,Almost Decor,0.12569752716115998,1
+266,Feeling Non-Fiction,111,Situation Men,0.12149965068900642,2
+266,Feeling Non-Fiction,173,Soon Fitnes,0.10122588264316615,3
+266,Feeling Non-Fiction,34,Television Laptop,0.08893831279534269,4
+266,Feeling Non-Fiction,190,Over Cycling,0.08095689876252218,5
+267,Born Fiction,179,Our Camping,0.1315334104411641,1
+267,Born Fiction,260,Form Media,0.13081398803354571,2
+267,Born Fiction,203,Officer Skincare,0.12108110291933624,3
+267,Born Fiction,133,Actually Kid,0.12016032071277435,4
+267,Born Fiction,39,Yeah Laptop,0.1192602307304886,5
+268,Machine Media,287,Total Fiction,0.1638872951298985,1
+268,Machine Media,275,Culture Children,0.15109662034355795,2
+268,Machine Media,158,Produce Cycling,0.14569287935358963,3
+268,Machine Media,166,Power Fitnes,0.10775449168807308,4
+268,Machine Media,198,Later Cycling,0.09646102790437212,5
+269,Note Non-Fiction,287,Total Fiction,0.1001958865736239,1
+269,Note Non-Fiction,74,Serve Appliance,0.09527861346806615,2
+269,Note Non-Fiction,67,Apply Furniture,0.08981004187394176,3
+269,Note Non-Fiction,178,Rich Cycling,0.08333333333333333,4
+269,Note Non-Fiction,243,Son Personal Care,0.07745966692414832,5
+270,Environmental Non-Fiction,83,Rich Furniture,0.16070147520167405,1
+270,Environmental Non-Fiction,76,Cover Furniture,0.09664856167204207,2
+270,Environmental Non-Fiction,261,Especially Fiction,0.09653452203153241,3
+270,Environmental Non-Fiction,298,Wait Media,0.09174067674238888,4
+270,Environmental Non-Fiction,225,Discover Skincare,0.09016696346674323,5
+271,Create Children,105,Physical Footwear,0.1072489972812817,1
+271,Create Children,109,Health Footwear,0.10084389681792215,2
+271,Create Children,145,Unit Men,0.09801960588196067,3
+271,Create Children,151,Say Fitnes,0.08951435925492911,4
+271,Create Children,57,Try Cookware,0.08885233166386383,5
+272,Pass Children,152,Soon Camping,0.11877113736973438,1
+272,Pass Children,257,Minute Children,0.1152857439776791,2
+272,Pass Children,33,Forward Accessorie,0.10176802973291375,3
+272,Pass Children,29,Pressure Accessorie,0.10112997936948631,4
+272,Pass Children,148,Answer Women,0.08257228238447704,5
+273,Ask Children,62,Key Furniture,0.1636634176769943,1
+273,Ask Children,150,Population Kid,0.12348479248840163,2
+273,Ask Children,85,Event Furniture,0.10689826381176706,3
+273,Ask Children,78,Unit Cookware,0.0993399267798783,4
+273,Ask Children,243,Son Personal Care,0.0978279740156158,5
+274,Product Children,163,Ready Cycling,0.12360330811826105,1
+274,Product Children,228,Over Skincare,0.08861751149585248,2
+274,Product Children,296,Question Non-Fiction,0.08040844011283461,3
+274,Product Children,103,Carry Women,0.07647191129018724,4
+274,Product Children,251,College Fiction,0.07537783614444091,5
+275,Culture Children,240,Military Supplement,0.1685854460847049,1
+275,Culture Children,268,Machine Media,0.15109662034355795,2
+275,Culture Children,158,Produce Cycling,0.14142135623730953,3
+275,Culture Children,107,Appear Women,0.1270001270001905,4
+275,Culture Children,161,Between Fitnes,0.11396057645963793,5
+276,Recently Non-Fiction,164,Great Team Sport,0.158999682000954,1
+276,Recently Non-Fiction,13,Support Headphone,0.11134763237000268,2
+276,Recently Non-Fiction,282,Discuss Fiction,0.10733317108221518,3
+276,Recently Non-Fiction,61,Trade Appliance,0.08575805098939393,4
+276,Recently Non-Fiction,143,Writer Women,0.08567860859069462,5
+277,Your Non-Fiction,122,Attorney Men,0.13139036155660136,1
+277,Your Non-Fiction,101,Cut Women,0.13012085969240408,2
+277,Your Non-Fiction,11,Change Smartphone,0.12638645090216205,3
+277,Your Non-Fiction,20,Arm Accessorie,0.12551092808470127,4
+277,Your Non-Fiction,278,Page Fiction,0.11215007691282604,5
+278,Page Fiction,148,Answer Women,0.1200198396297958,1
+278,Page Fiction,277,Your Non-Fiction,0.11215007691282604,2
+278,Page Fiction,250,Discover Haircare,0.10757897977622109,3
+278,Page Fiction,34,Television Laptop,0.08969937018449044,4
+278,Page Fiction,224,Voice Skincare,0.07985957062499249,5
+279,Scientist Non-Fiction,25,Protect Headphone,0.1294207214671282,1
+279,Scientist Non-Fiction,116,Ahead Men,0.12434118282549846,2
+279,Scientist Non-Fiction,97,Black Appliance,0.11314070555035512,3
+279,Scientist Non-Fiction,153,Feel Cycling,0.11085479909473867,4
+279,Scientist Non-Fiction,197,Own Camping,0.10408972546332562,5
+280,Start Fiction,236,Down Haircare,0.12613124477737825,1
+280,Start Fiction,178,Rich Cycling,0.120761472884912,2
+280,Start Fiction,184,Important Cycling,0.09999999999999999,3
+280,Start Fiction,99,Level Decor,0.09759000729485331,4
+280,Start Fiction,120,Society Kid,0.08537347209531382,5
+281,Citizen Non-Fiction,290,Administration Children,0.16685830369290805,1
+281,Citizen Non-Fiction,166,Power Fitnes,0.10775449168807309,2
+281,Citizen Non-Fiction,247,Good Haircare,0.10639903531978628,3
+281,Citizen Non-Fiction,186,Along Fitnes,0.10383482633023301,4
+281,Citizen Non-Fiction,219,Example Supplement,0.09096925576737039,5
+282,Discuss Fiction,172,Half Team Sport,0.15602161985357416,1
+282,Discuss Fiction,83,Rich Furniture,0.12279325377235908,2
+282,Discuss Fiction,218,Month Supplement,0.11933359262635951,3
+282,Discuss Fiction,276,Recently Non-Fiction,0.10733317108221518,4
+282,Discuss Fiction,163,Ready Cycling,0.10619477512887363,5
+283,Strategy Children,88,Voice Decor,0.12108709578306662,1
+283,Strategy Children,180,Grow Team Sport,0.11846977555181847,2
+283,Strategy Children,205,Back Haircare,0.0890870806374748,3
+283,Strategy Children,161,Between Fitnes,0.08494119857293761,4
+283,Strategy Children,51,Former Cookware,0.08439494725697222,5
+284,Do Fiction,243,Son Personal Care,0.10787924283421142,1
+284,Do Fiction,44,Walk Camera,0.10655552101149876,2
+284,Do Fiction,169,Contain Cycling,0.10404798103595464,3
+284,Do Fiction,253,Happen Fiction,0.0947160186768878,4
+284,Do Fiction,182,Answer Fitnes,0.0860858193900743,5
+285,Foot Children,225,Discover Skincare,0.1339855501894681,1
+285,Foot Children,290,Administration Children,0.09664856167204207,2
+285,Foot Children,237,Against Skincare,0.09276994905294839,3
+285,Foot Children,249,Across Skincare,0.08540979350605948,4
+285,Foot Children,11,Change Smartphone,0.0816118835554315,5
+286,Give Non-Fiction,41,Rest Smartphone,0.14713826488260678,1
+286,Give Non-Fiction,239,Increase Haircare,0.13631013668492176,2
+286,Give Non-Fiction,212,Another Personal Care,0.1203858530857692,3
+286,Give Non-Fiction,58,Artist Appliance,0.11484787414830522,4
+286,Give Non-Fiction,256,Baby Non-Fiction,0.11015202290310472,5
+287,Total Fiction,158,Produce Cycling,0.2173067468400883,1
+287,Total Fiction,268,Machine Media,0.1638872951298985,2
+287,Total Fiction,109,Health Footwear,0.14120970030991198,3
+287,Total Fiction,269,Note Non-Fiction,0.1001958865736239,4
+287,Total Fiction,275,Culture Children,0.09761870601839527,5
+288,Beyond Media,147,Later Women,0.11695217633781754,1
+288,Beyond Media,177,Hour Camping,0.11198947348421545,2
+288,Beyond Media,255,Activity Non-Fiction,0.0877540316852035,3
+288,Beyond Media,186,Along Fitnes,0.08333333333333331,4
+288,Beyond Media,150,Population Kid,0.08297398136450222,5
+289,Available Non-Fiction,256,Baby Non-Fiction,0.1809825061715205,1
+289,Available Non-Fiction,293,Almost Non-Fiction,0.11917163225479584,2
+289,Available Non-Fiction,122,Attorney Men,0.09970960320351537,3
+289,Available Non-Fiction,149,Move Kid,0.09790449180128039,4
+289,Available Non-Fiction,228,Over Skincare,0.09178441068048931,5
+290,Administration Children,281,Citizen Non-Fiction,0.16685830369290805,1
+290,Administration Children,207,Impact Haircare,0.11911572250165775,2
+290,Administration Children,86,Less Decor,0.10193928585529255,3
+290,Administration Children,51,Former Cookware,0.10003126465607105,4
+290,Administration Children,218,Month Supplement,0.09760860118037878,5
+291,Since Non-Fiction,191,Yeah Camping,0.11669000700233416,1
+291,Since Non-Fiction,179,Our Camping,0.10294117647058823,2
+291,Since Non-Fiction,119,Reflect Kid,0.10188534162169866,3
+291,Since Non-Fiction,87,Property Furniture,0.08661986608440463,4
+291,Since Non-Fiction,226,Recognize Skincare,0.08134892168199606,5
+292,Store Fiction,76,Cover Furniture,0.1536498534660067,1
+292,Store Fiction,44,Walk Camera,0.116325292485775,2
+292,Store Fiction,228,Over Skincare,0.11314794771426398,3
+292,Store Fiction,237,Against Skincare,0.11165703111126966,4
+292,Store Fiction,110,Section Footwear,0.10032098331096906,5
+293,Almost Non-Fiction,226,Recognize Skincare,0.13268069440075547,1
+293,Almost Non-Fiction,97,Black Appliance,0.12305839742019736,2
+293,Almost Non-Fiction,289,Available Non-Fiction,0.11917163225479584,3
+293,Almost Non-Fiction,1,Black Camera,0.10787924283421141,4
+293,Almost Non-Fiction,75,Wonder Decor,0.10190493307301361,5
+294,Owner Non-Fiction,204,Artist Supplement,0.1791635403460257,1
+294,Owner Non-Fiction,102,Three Women,0.14834770727423166,2
+294,Owner Non-Fiction,111,Situation Men,0.10815406815659187,3
+294,Owner Non-Fiction,48,Court Camera,0.09859154929577463,4
+294,Owner Non-Fiction,209,Leg Skincare,0.08906544443056494,5
+295,Among Media,37,Executive Laptop,0.11226255234242724,1
+295,Among Media,131,Spring Kid,0.10642514280235015,2
+295,Among Media,256,Baby Non-Fiction,0.10166571355506979,3
+295,Among Media,264,Include Non-Fiction,0.09724332766526303,4
+295,Among Media,62,Key Furniture,0.09698572899377439,5
+296,Question Non-Fiction,108,Word Men,0.13001274187308592,1
+296,Question Non-Fiction,177,Hour Camping,0.10721125348377947,2
+296,Question Non-Fiction,17,Light Laptop,0.09770401435159617,3
+296,Question Non-Fiction,222,Car Supplement,0.08906544443056494,4
+296,Question Non-Fiction,190,Over Cycling,0.08370197607657927,5
+297,Want Media,176,Where Cycling,0.09867967802605516,1
+297,Want Media,273,Ask Children,0.09095085938862486,2
+297,Want Media,74,Serve Appliance,0.08755473882299548,3
+297,Want Media,196,Information Cycling,0.08515994337054893,4
+297,Want Media,132,Set Men,0.07520710469952335,5
+298,Wait Media,216,Effort Supplement,0.1516729865061038,1
+298,Wait Media,212,Another Personal Care,0.10384339509196215,2
+298,Wait Media,145,Unit Men,0.1029796353771106,3
+298,Wait Media,258,Difference Fiction,0.09690031662230185,4
+298,Wait Media,270,Environmental Non-Fiction,0.09174067674238888,5
+299,Know Non-Fiction,21,Right Camera,0.14789374180876608,1
+299,Know Non-Fiction,81,Real Furniture,0.09531089965802728,2
+299,Know Non-Fiction,158,Produce Cycling,0.08844477175087206,3
+299,Know Non-Fiction,117,White Men,0.08783689670053689,4
+299,Know Non-Fiction,12,Get Smartphone,0.07867155194709717,5
+300,Those Non-Fiction,264,Include Non-Fiction,0.11275665528404907,1
+300,Those Non-Fiction,135,Road Women,0.10091360385895382,2
+300,Those Non-Fiction,198,Later Cycling,0.0904752274889361,3
+300,Those Non-Fiction,109,Health Footwear,0.08626176070580836,4
+300,Those Non-Fiction,237,Against Skincare,0.08194002846764309,5

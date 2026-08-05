@@ -1,0 +1,13 @@
+phase,requirement,completed
+Phase 1,10 SQL queries,True
+Phase 1,SQL results connected to pandas,True
+Phase 2,"Missing values, duplicates, dates and outliers",True
+Phase 2,External-file integration and one-source SKU reporting,True
+Phase 2,"Pivot table, time series and clean-data exports",True
+Phase 3,RFM segmentation with NumPy,True
+Phase 3,Cosine similarity with NumPy,True
+Phase 3,Regression using Normal Equation,True
+Phase 3,"Monte Carlo simulation >= 5,000 trials",True
+Phase 4,8 business questions answered,True
+Phase 4,Charts generated,True
+Phase 4,Business interpretations written,True

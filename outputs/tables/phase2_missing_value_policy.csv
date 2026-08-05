@@ -1,0 +1,6 @@
+field,policy,affected_rows
+age,Median imputation (46.0) with missing flag,139
+city,Unknown with missing flag,63
+gender,Unknown with missing flag,115
+review_text,No written review with missing flag,838
+rating,Outside 1–5 converted to missing and audited,41

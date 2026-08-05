@@ -1,0 +1,2192 @@
+customer_id,name,city,country,last_order_date,completed_orders,lifetime_revenue,days_since_last_order,customer_status
+689,Misty Mcguire,Toronto,Canada,2023-09-09,2,107213.914,479,High-value churn risk
+1259,Matthew Perez,Los Angeles,USA,2024-07-11,2,94519.39000000001,173,High-value churn risk
+1217,Virginia Hernandez,Paris,France,2024-08-12,4,77530.8095,141,High-value churn risk
+1993,Chelsea Austin,Sydney,Australia,2022-03-23,1,70254.39,1014,High-value churn risk
+1347,Evan Davies,Paris,France,2023-08-23,2,70236.44,496,High-value churn risk
+1180,Tammy Booth,Mumbai,India,2024-08-14,5,42127.627,139,High-value churn risk
+634,Dr. Samuel Holmes DDS,New York,USA,2024-08-26,6,41632.4925,127,High-value churn risk
+1357,Ashley Cordova,Singapore,Singapore,2024-01-31,4,39417.303,335,High-value churn risk
+1999,Kayla Fisher,Chicago,USA,2024-02-11,6,38890.854,324,High-value churn risk
+123,Mary Grimes,Chicago,USA,2024-04-05,4,38698.7715,270,High-value churn risk
+2287,Norma Smith,Manchester,UK,2024-05-20,4,38640.024,225,High-value churn risk
+298,Austin Wheeler,Mumbai,India,2024-01-29,2,38003.024,337,High-value churn risk
+1786,Eric Hunter,Toronto,Canada,2024-08-19,4,37417.2795,134,High-value churn risk
+988,Sandra Hunt,Munich,Germany,2024-06-17,4,37380.6825,197,High-value churn risk
+2484,Brad Beard,New York,USA,2024-08-26,2,37093.98,127,High-value churn risk
+29,Victoria Garcia,Sydney,Australia,2023-11-11,3,36670.4725,416,High-value churn risk
+1897,Travis Moore,New York,USA,2023-08-05,3,35495.24,514,High-value churn risk
+1995,Nathaniel Walter,Chicago,USA,2023-11-09,5,34805.479,418,High-value churn risk
+1127,James Wells,Vancouver,Canada,2023-06-30,5,31570.420000000002,550,High-value churn risk
+1726,Thomas Barton,Los Angeles,USA,2023-02-15,2,31272.364,685,High-value churn risk
+971,Teresa Coffey DDS,London,UK,2024-06-22,6,31175.199,192,High-value churn risk
+976,Pamela Hernandez DVM,Manchester,UK,2023-08-16,2,30173.74,503,High-value churn risk
+1474,Bethany Holmes,Sydney,Australia,2022-07-17,1,28262.7855,898,High-value churn risk
+519,Krystal Levine,Bangkok,Thailand,2023-07-01,3,27341.950999999997,549,High-value churn risk
+207,Stacey Arias,New York,USA,2024-05-24,2,26716.886499999997,221,High-value churn risk
+66,Colleen Brock,New York,USA,2024-05-02,3,25757.0915,243,High-value churn risk
+613,Penny Gomez MD,Munich,Germany,2024-08-25,2,24310.643,128,High-value churn risk
+785,Katelyn Kim,Mumbai,India,2023-01-12,1,22053.24,719,High-value churn risk
+2463,Julie Mills,Sydney,Australia,2024-08-03,2,21235.568499999998,150,High-value churn risk
+1647,Philip Kim,Melbourne,Australia,2023-12-30,5,20061.81,367,High-value churn risk
+1668,Kathryn Rodriguez,New York,USA,2024-09-28,3,19859.019500000002,94,High-value churn risk
+885,Amanda Mckenzie,Munich,Germany,2022-12-01,2,17765.2775,761,High-value churn risk
+1429,Harold Mckinney,Berlin,Germany,2023-03-31,4,16976.127,641,High-value churn risk
+2295,Sonya Wilcox,Manchester,UK,2024-06-29,6,16208.686,185,High-value churn risk
+876,Audrey Johnson,Los Angeles,USA,2024-09-15,2,15800.231999999998,107,High-value churn risk
+2105,Brandon Taylor,Manchester,UK,2024-08-18,3,15766.202500000001,135,High-value churn risk
+1841,Matthew Gonzales,Chicago,USA,2023-11-01,2,15585.5715,426,High-value churn risk
+1574,Peter Martin,Munich,Germany,2024-05-03,4,15522.5285,242,High-value churn risk
+883,Leslie Bennett,New York,USA,2024-09-22,4,15453.748,100,High-value churn risk
+237,Stephen Jones,New York,USA,2024-07-19,4,14359.09,165,High-value churn risk
+163,Donald Schultz,Melbourne,Australia,2023-10-20,3,13986.105,438,High-value churn risk
+350,Brett Walker,Singapore,Singapore,2024-05-07,3,13888.11,238,High-value churn risk
+2280,Marcus Rich,Chicago,USA,2024-01-02,4,13777.065,364,High-value churn risk
+1369,Ryan Pope,New York,USA,2023-10-04,5,13604.0425,454,High-value churn risk
+1860,Brandon Huynh,Bangkok,Thailand,2024-10-02,3,13564.177,90,High-value churn risk
+1067,Erica Clark,London,UK,2023-11-03,1,13474.644,424,High-value churn risk
+1263,Mrs. Katherine Simpson,New York,USA,2024-07-30,6,13193.226,154,High-value churn risk
+2460,William Barnett,,Germany,2024-05-27,4,13158.856,218,High-value churn risk
+2110,Leah Rodriguez,Chicago,USA,2022-11-16,2,12936.766,776,High-value churn risk
+3,Cristian Santos,Toronto,Canada,2024-03-27,6,12657.7395,279,High-value churn risk
+1871,Melody Baker,Paris,France,2024-09-26,3,12511.1,96,High-value churn risk
+2303,Brandon Sanchez,Sydney,Australia,2024-06-15,1,12396.28,199,High-value churn risk
+2364,Kevin Estrada,Singapore,Singapore,2024-02-03,6,12357.9095,332,High-value churn risk
+1098,Shawn Lozano,Bangkok,Thailand,2023-11-28,1,12287.756,399,High-value churn risk
+1992,Cheryl Rogers,Vancouver,Canada,2024-07-17,3,12098.167,167,High-value churn risk
+890,Joel Steele,Manchester,UK,2024-09-04,4,11380.1595,118,High-value churn risk
+561,James Wilson,Melbourne,Australia,2024-10-01,2,11278.150000000001,91,High-value churn risk
+1595,Lisa Johnson,Sydney,Australia,2024-06-22,6,11253.200499999999,192,High-value churn risk
+2333,Amanda Taylor,Manchester,UK,2024-03-17,2,11234.67,289,High-value churn risk
+212,Riley Bryant,Sydney,Australia,2024-01-28,4,11136.4775,338,High-value churn risk
+522,Erica Rivera,Manchester,UK,2023-05-21,2,11111.930999999999,590,High-value churn risk
+1199,Ashley Holder,Vancouver,Canada,2024-04-23,4,10990.195,252,High-value churn risk
+2328,Matthew Moss,Los Angeles,USA,2023-11-15,1,10977.455,412,High-value churn risk
+2355,Ashley Cooper,Toronto,Canada,2023-12-06,3,10900.406500000001,391,High-value churn risk
+1381,Jaime Edwards,London,UK,2024-02-06,2,10566.8225,329,High-value churn risk
+1922,Melissa Mendoza,Bangkok,Thailand,2024-09-14,4,10486.143,108,High-value churn risk
+1421,Sherry Adams,Berlin,Germany,2024-08-24,2,10380.848,129,High-value churn risk
+474,Danielle Bryant,Melbourne,Australia,2022-08-20,1,10062.555,864,High-value churn risk
+718,Elizabeth Reese,Sydney,Australia,2024-09-14,1,10025.7335,108,High-value churn risk
+1870,Joseph Moon,Melbourne,Australia,2023-06-17,3,9972.3855,563,High-value churn risk
+2412,Mr. Kristopher Curtis,Munich,Germany,2022-06-20,1,9788.79,925,High-value churn risk
+423,Richard Walker,Toronto,Canada,2022-11-08,1,9599.57,784,High-value churn risk
+1223,Kenneth Armstrong,Manchester,UK,2024-08-01,7,9543.2055,152,High-value churn risk
+691,Tammy Cook,Chicago,USA,2024-09-12,6,9426.813,110,High-value churn risk
+315,Robert Jackson,Bangkok,Thailand,2022-04-13,1,9349.488,993,High-value churn risk
+2009,Allison Hubbard,Manchester,UK,2024-08-26,2,9135.711,127,High-value churn risk
+414,Jacqueline Villegas,Toronto,Canada,2023-10-27,2,9087.475,431,High-value churn risk
+1761,Julie Taylor,Munich,Germany,2023-07-30,2,8933.6,520,High-value churn risk
+2465,Caitlin Lawson,Berlin,Germany,2024-09-29,3,8814.328,93,High-value churn risk
+1330,Alejandra Kelly,Sydney,Australia,2023-10-08,3,8547.353,450,High-value churn risk
+2245,Charles Ford,Manchester,UK,2023-12-28,4,8536.860999999999,369,High-value churn risk
+1012,Paul Estrada,Chicago,USA,2023-12-08,3,8314.710000000001,389,High-value churn risk
+1924,Ralph Vasquez,Sydney,Australia,2024-04-25,5,8313.1735,250,High-value churn risk
+574,Brandy Quinn,Vancouver,Canada,2023-05-12,5,8110.5644999999995,599,High-value churn risk
+1212,Caitlin Smith,Toronto,Canada,2024-08-23,5,8104.9855,130,High-value churn risk
+362,Charles Price,Singapore,Singapore,2024-03-10,5,8100.025,296,High-value churn risk
+760,Stephen Garcia,Munich,Germany,2024-10-02,4,8006.5305,90,High-value churn risk
+220,Stacey Stewart,New York,USA,2023-08-04,5,7929.914,515,High-value churn risk
+1548,Jenna Howard,Los Angeles,USA,2024-08-05,5,7897.476500000001,148,High-value churn risk
+807,Manuel Brown,New York,USA,2024-09-15,3,7779.464,107,High-value churn risk
+897,Tracy Jackson,Toronto,Canada,2024-06-13,4,7766.322,201,High-value churn risk
+2253,Charles Hopkins,Sydney,Australia,2024-09-30,3,7719.3785,92,High-value churn risk
+556,Jose Vaughan,Sydney,Australia,2024-04-08,4,7703.6179999999995,267,High-value churn risk
+2174,Jamie Gallagher,Vancouver,Canada,2024-03-16,5,7657.611,290,High-value churn risk
+1218,William White,Mumbai,India,2024-06-10,4,7589.219,204,High-value churn risk
+2237,Cory Harris,Manchester,UK,2023-12-10,5,7453.5445,387,High-value churn risk
+943,Edward Brown,Vancouver,Canada,2024-07-26,6,7328.818,158,High-value churn risk
+2394,Nicole Wallace DDS,Melbourne,Australia,2024-04-27,5,7326.8345,248,High-value churn risk
+577,Kevin Sullivan,Singapore,Singapore,2024-08-20,6,7275.1785,133,High-value churn risk
+277,Tanya Rogers,Manchester,UK,2024-06-07,4,7247.34,207,High-value churn risk
+1097,Erin Lane,Vancouver,Canada,2024-04-06,5,7200.048,269,High-value churn risk
+282,Paul Finley,New York,USA,2024-08-17,3,7174.619,136,High-value churn risk
+18,Deborah Mason,Berlin,Germany,2024-09-01,5,7106.353,121,High-value churn risk
+1753,Richard Simmons,Chicago,USA,2023-12-25,3,7091.3735,372,High-value churn risk
+868,Dwayne Bruce,Bangkok,Thailand,2024-01-31,3,7052.641,335,High-value churn risk
+371,Heather Page,London,UK,2023-12-11,1,7041.4,386,High-value churn risk
+1158,Oscar Todd,Berlin,Germany,2022-10-19,4,6932.342000000001,804,High-value churn risk
+448,Rachel Lane,New York,USA,2024-09-26,5,6907.6835,96,High-value churn risk
+1893,Oscar Cruz,Melbourne,Australia,2024-04-24,4,6830.28,251,High-value churn risk
+1656,Diane Manning,Vancouver,Canada,2024-06-25,5,6795.1195,189,High-value churn risk
+141,Patricia Becker,London,UK,2023-08-21,3,6753.825,498,High-value churn risk
+2263,Cynthia Stephens,London,UK,2024-01-03,5,6703.7255,363,High-value churn risk
+856,Rebecca French,Paris,France,2023-03-18,3,6604.2595,654,High-value churn risk
+295,Jenna Anderson DVM,Munich,Germany,2022-12-22,4,6600.992,740,High-value churn risk
+1413,Kayla Deleon,Singapore,Singapore,2024-03-11,5,6561.228,295,High-value churn risk
+1002,Ryan Garrison,Sydney,Australia,2024-08-06,5,6490.3975,147,High-value churn risk
+1415,Steven Lopez,Sydney,Australia,2024-01-16,3,6489.932,350,High-value churn risk
+126,Matthew Hoover,Singapore,Singapore,2023-09-05,4,6454.5165,483,High-value churn risk
+619,Austin Schultz,Toronto,Canada,2023-11-21,3,6444.0315,406,High-value churn risk
+1485,Jeffery Taylor,Manchester,UK,2024-09-30,4,6392.655500000001,92,High-value churn risk
+1312,Kim Underwood,Munich,Germany,2023-10-28,4,6380.3475,430,High-value churn risk
+243,Matthew Le,Paris,France,2024-06-28,4,6376.746,186,High-value churn risk
+2403,James Whitaker,London,UK,2024-10-01,5,6336.6635,91,High-value churn risk
+2195,Bryce Fox,Vancouver,Canada,2023-09-15,2,6273.3695,473,High-value churn risk
+1889,William Craig,Bangkok,Thailand,2024-09-09,3,6252.4985,113,High-value churn risk
+1596,Denise Brown,Chicago,USA,2024-02-19,3,6220.812000000001,316,High-value churn risk
+1664,Keith Kennedy,Singapore,Singapore,2024-08-15,5,6151.101,138,High-value churn risk
+2050,Danielle Stein,Paris,France,2024-04-02,3,6140.816,273,High-value churn risk
+1521,Martha Jacobs,Vancouver,Canada,2023-11-19,3,6122.429999999999,408,High-value churn risk
+1138,Mary Jones,Los Angeles,USA,2023-03-08,3,6116.8765,664,High-value churn risk
+2273,Laura Adams,Munich,Germany,2024-04-04,3,6078.4545,271,High-value churn risk
+1187,Alexandra Adams,Chicago,USA,2024-07-22,3,6051.9664999999995,162,High-value churn risk
+762,Brian Mullen,Singapore,Singapore,2024-09-12,6,6025.67,110,High-value churn risk
+558,Ronald Johns,Chicago,USA,2024-04-13,2,6016.5125,262,High-value churn risk
+1171,Miguel Gonzalez,Sydney,Australia,2024-08-22,5,6001.1885,131,High-value churn risk
+355,Christopher Moore,Bangkok,Thailand,2024-05-07,2,5968.6050000000005,238,High-value churn risk
+132,Ashlee Jackson,Sydney,Australia,2024-07-20,4,5952.331,164,High-value churn risk
+360,Harold Ellis,Bangkok,Thailand,2024-09-17,4,5877.701,105,High-value churn risk
+1547,Joseph Best,Singapore,Singapore,2023-07-03,4,5872.849999999999,547,High-value churn risk
+570,Danielle Gonzalez,Vancouver,Canada,2023-07-23,2,5857.247,527,High-value churn risk
+1652,Scott Porter,Sydney,Australia,2024-07-12,2,5829.412,172,High-value churn risk
+981,Danielle Jimenez,Singapore,Singapore,2023-01-31,3,5829.0605,700,High-value churn risk
+1081,Aaron Lee,Paris,France,2024-01-21,3,5796.6385,345,High-value churn risk
+1750,Tricia Sullivan,,UK,2024-01-09,2,5775.24,357,High-value churn risk
+1058,Paul Willis,Vancouver,Canada,2023-09-10,4,5774.74,478,High-value churn risk
+2487,Erin Carter,Berlin,Germany,2024-09-17,5,5737.9385,105,High-value churn risk
+872,Joshua Martin,Vancouver,Canada,2024-02-25,4,5731.3205,310,High-value churn risk
+1476,Shane Moore,Bangkok,Thailand,2024-09-29,5,5728.321,93,High-value churn risk
+2073,Felicia Williams,Munich,Germany,2024-09-26,2,5726.92,96,High-value churn risk
+1182,April Jones,Singapore,Singapore,2024-04-24,4,5723.742,251,High-value churn risk
+952,Jasmine Browning,Los Angeles,USA,2024-01-21,5,5721.5154999999995,345,High-value churn risk
+1214,Frank Moody,London,UK,2024-07-08,3,5692.2435,176,High-value churn risk
+1064,Gregory Chen,Melbourne,Australia,2024-08-17,4,5678.1975,136,High-value churn risk
+179,Paul Thompson,Los Angeles,USA,2024-06-29,6,5675.3855,185,High-value churn risk
+1540,Sarah Wallace,Paris,France,2023-02-20,3,5630.773499999999,680,High-value churn risk
+257,Andrew Reeves,Singapore,Singapore,2024-04-23,3,5615.227,252,High-value churn risk
+2115,Michael Lee,Berlin,Germany,2024-01-09,4,5604.8585,357,High-value churn risk
+137,Ryan Gonzalez,Melbourne,Australia,2024-07-12,3,5579.486,172,High-value churn risk
+309,Autumn Key,Vancouver,Canada,2023-11-10,4,5569.427,417,High-value churn risk
+789,Ashley Olson,,USA,2024-02-15,2,5544.53,320,High-value churn risk
+1188,Joseph Smith,Los Angeles,USA,2024-08-19,4,5536.2095,134,High-value churn risk
+661,Ray Ramos,Manchester,UK,2024-02-27,2,5518.003,308,High-value churn risk
+1410,Wesley Brown,Bangkok,Thailand,2024-09-22,6,5513.552000000001,100,High-value churn risk
+761,Dustin Patel,Manchester,UK,2024-08-07,5,5498.7705,146,High-value churn risk
+1811,Mr. William Davis DDS,New York,USA,2024-09-12,3,5486.879,110,High-value churn risk
+1325,Lisa Jones,Mumbai,India,2024-05-31,2,5479.7015,214,High-value churn risk
+400,Gregory Holmes PhD,New York,USA,2024-05-15,5,5474.891,230,High-value churn risk
+2143,Taylor Mullins,Toronto,Canada,2023-11-24,4,5433.1765,403,High-value churn risk
+2121,Nathaniel Floyd,Berlin,Germany,2023-03-31,3,5407.1125,641,High-value churn risk
+657,Diane Martinez,Berlin,Germany,2024-07-23,3,5389.3085,161,High-value churn risk
+1014,Dean Rhodes,London,UK,2024-09-02,2,5388.291499999999,120,High-value churn risk
+1605,Julie Wilson,Toronto,Canada,2023-12-20,2,5371.1755,377,High-value churn risk
+1554,Nicholas Morgan,Los Angeles,USA,2023-09-28,4,5340.8005,460,High-value churn risk
+2054,Jennifer Lewis,Melbourne,Australia,2024-08-16,4,5332.01,137,High-value churn risk
+1610,Jack Barton,Manchester,UK,2024-05-07,4,5311.0335,238,High-value churn risk
+2013,Melissa Elliott,Berlin,Germany,2024-04-24,4,5308.883,251,High-value churn risk
+1629,Nicole Melendez,Melbourne,Australia,2023-10-28,3,5274.155500000001,430,High-value churn risk
+1628,Stephen Thompson,Paris,France,2024-07-24,3,5251.633,160,High-value churn risk
+2296,John Boyd,Chicago,USA,2024-08-10,4,5242.532999999999,143,High-value churn risk
+773,Daniel Benson,Toronto,Canada,2024-03-09,5,5241.0779999999995,297,High-value churn risk
+296,Kimberly Patel,Los Angeles,USA,2022-09-29,3,5238.7695,824,High-value churn risk
+1815,Louis Rogers,New York,USA,2024-09-06,3,5198.823,116,High-value churn risk
+2372,Donna Carroll,Vancouver,Canada,2024-10-02,6,5172.731000000001,90,High-value churn risk
+2144,Mary Lee,Singapore,Singapore,2023-06-14,2,5156.205,566,High-value churn risk
+1493,Katelyn Miller,Manchester,UK,2024-07-29,5,5142.316,155,High-value churn risk
+306,Tammy Boone,Berlin,Germany,2023-01-14,2,5119.621,717,High-value churn risk
+855,Faith Johnson,Los Angeles,USA,2023-09-25,2,5106.675,463,High-value churn risk
+933,Austin Solis,Vancouver,Canada,2024-06-26,2,5093.443,188,High-value churn risk
+2284,Robert West,London,UK,2024-07-19,3,5075.744,165,High-value churn risk
+2473,Chad Adams,Los Angeles,USA,2024-02-10,3,5060.666,325,High-value churn risk
+285,Tyler Mendoza,Sydney,Australia,2024-03-12,4,5059.821,294,High-value churn risk
+1307,Jonathan Wood,Munich,Germany,2024-07-07,4,5054.5745,177,High-value churn risk
+853,Mrs. Maureen Martin DDS,Bangkok,Thailand,2023-09-12,2,5053.165,476,High-value churn risk
+1015,Gail Wilson,Vancouver,Canada,2024-01-08,2,5038.5725,358,High-value churn risk
+1563,Pamela Perry,Manchester,UK,2024-08-08,3,5035.433999999999,145,High-value churn risk
+2047,Kelsey Contreras,,Australia,2024-07-28,4,5027.5355,156,High-value churn risk
+2489,John Wilson,Paris,France,2024-06-18,5,5023.782,196,High-value churn risk
+112,Pamela Thompson,Singapore,Singapore,2023-07-31,3,5012.8605,519,High-value churn risk
+611,Tara Holmes,Sydney,Australia,2024-12-26,3,145169.054,5,High-value active
+528,Brent Hopkins,Vancouver,Canada,2024-11-21,6,72405.361,40,High-value active
+2445,Virginia Rose,Bangkok,Thailand,2024-12-19,3,72021.0895,12,High-value active
+1533,Lauren Anthony,Vancouver,Canada,2024-12-07,5,59602.71400000001,24,High-value active
+1316,Susan Sanchez,Bangkok,Thailand,2024-12-07,5,40678.1115,24,High-value active
+1455,Mark Lopez,,Canada,2024-11-15,3,38024.309,46,High-value active
+2255,Melissa Sullivan,Paris,France,2024-11-10,2,37956.427,51,High-value active
+469,Alicia Roth,Vancouver,Canada,2024-12-14,5,37892.18,17,High-value active
+410,Dr. Morgan Payne PhD,New York,USA,2024-12-31,2,37608.97,0,High-value active
+835,Michelle Salazar,Singapore,Singapore,2024-10-26,5,37055.887500000004,66,High-value active
+1854,Cindy Thomas,Munich,Germany,2024-11-08,4,35856.354,53,High-value active
+1417,Gene Alexander,Singapore,Singapore,2024-11-16,3,33978.791000000005,45,High-value active
+1530,Clifford Cannon,Munich,Germany,2024-10-21,2,26588.08,71,High-value active
+240,Amy Martinez,Munich,Germany,2024-12-03,4,23088.072,28,High-value active
+1539,Jeremy Martinez,Mumbai,India,2024-12-13,5,18008.623499999998,18,High-value active
+1676,Richard Lyons,Vancouver,Canada,2024-11-16,5,17177.05,45,High-value active
+1328,Daniel Smith,Sydney,Australia,2024-11-25,2,16359.141999999998,36,High-value active
+916,David Dunlap Jr.,Melbourne,Australia,2024-10-29,5,15819.357,63,High-value active
+229,Amanda Hernandez,Singapore,Singapore,2024-11-07,7,15743.821,54,High-value active
+2241,Jon Berry,London,UK,2024-11-10,4,15594.7405,51,High-value active
+1940,Jordan Tanner,Sydney,Australia,2024-10-07,6,14953.306499999999,85,High-value active
+601,Angela George,Singapore,Singapore,2024-11-23,2,14662.404,38,High-value active
+73,Alicia Gilmore,Los Angeles,USA,2024-11-16,5,14570.2025,45,High-value active
+1075,Sergio Carroll,Mumbai,India,2024-10-18,3,14332.332,74,High-value active
+2068,Laurie Pineda,Manchester,UK,2024-11-17,3,14160.519,44,High-value active
+2399,Kathleen Baker,Mumbai,India,2024-11-09,2,13576.273,52,High-value active
+989,Kyle Davis,London,UK,2024-11-15,1,13393.632,46,High-value active
+498,James Chapman,New York,USA,2024-11-16,3,13064.44,45,High-value active
+1246,William Lindsey,London,UK,2024-10-07,2,12932.1925,85,High-value active
+1835,Deborah Juarez,London,UK,2024-12-13,3,12425.87,18,High-value active
+1911,Alexandra Green,Chicago,USA,2024-10-31,3,12399.628499999999,61,High-value active
+1382,Christopher Bradley,Singapore,Singapore,2024-11-23,3,11770.505000000001,38,High-value active
+1104,Stacey Morgan,Sydney,Australia,2024-12-22,3,11668.371,9,High-value active
+276,Jennifer Simpson DVM,Los Angeles,USA,2024-12-18,4,11516.446,13,High-value active
+1126,Rebecca Mcintyre,Chicago,USA,2024-11-03,3,10401.836,58,High-value active
+290,Jose Bryant,Singapore,Singapore,2024-11-16,2,10354.628,45,High-value active
+1469,Christina Henry,Chicago,USA,2024-12-12,6,10286.3375,19,High-value active
+726,Danielle Medina,Los Angeles,USA,2024-12-08,6,10041.0495,23,High-value active
+1590,Sandra Dawson,Toronto,Canada,2024-12-11,2,9907.246,20,High-value active
+1245,Nicholas Villegas,Melbourne,Australia,2024-11-05,3,9505.74,56,High-value active
+2180,Gina Vega,Singapore,Singapore,2024-12-06,5,9433.76,25,High-value active
+2203,Jesus Flores,Bangkok,Thailand,2024-12-19,2,9342.78,12,High-value active
+1085,Patricia Harvey,Toronto,Canada,2024-12-09,6,9323.287,22,High-value active
+131,Yolanda Francis,Vancouver,Canada,2024-11-20,3,8847.9995,41,High-value active
+1309,Ashley Simmons,London,UK,2024-10-08,7,8799.0935,84,High-value active
+1494,Christine Watson,Chicago,USA,2024-12-19,6,8549.1985,12,High-value active
+482,Brian Brown,Chicago,USA,2024-10-22,6,8443.4625,70,High-value active
+1556,Joshua Clements,Toronto,Canada,2024-12-16,7,8305.2635,15,High-value active
+1772,Danielle Kelly,Mumbai,India,2024-12-21,8,8263.887499999999,10,High-value active
+94,Kara Schmidt,,Canada,2024-10-06,5,7635.8625,86,High-value active
+1613,Andre Wilson,New York,USA,2024-11-22,4,7476.371,39,High-value active
+1362,Pamela Wilson,Munich,Germany,2024-10-16,4,7366.8814999999995,76,High-value active
+1901,Amy West,Singapore,Singapore,2024-10-04,3,7194.71,88,High-value active
+2077,Christina Carrillo,Paris,France,2024-12-24,4,7154.9435,7,High-value active
+576,Stephen Jones,Paris,France,2024-12-22,2,7134.6140000000005,9,High-value active
+2193,Samantha Carlson,Chicago,USA,2024-12-13,6,7088.421,18,High-value active
+532,Leah Barton,Berlin,Germany,2024-12-01,8,7066.000999999999,30,High-value active
+2454,Sabrina Lopez,,Thailand,2024-10-25,5,6993.724,67,High-value active
+162,Katherine Browning,New York,USA,2024-12-17,3,6641.137,14,High-value active
+284,Stephanie Padilla,Singapore,Singapore,2024-12-28,4,6615.394,3,High-value active
+1066,Jonathan Pham,London,UK,2024-10-14,4,6429.68,78,High-value active
+1100,Jamie Ross,Chicago,USA,2024-12-29,6,6412.872,2,High-value active
+1167,Karen Tapia,Paris,France,2024-12-30,5,6342.3755,1,High-value active
+1379,Douglas Kline,Sydney,Australia,2024-12-30,5,6328.3925,1,High-value active
+354,Ashley Sweeney,Toronto,Canada,2024-10-11,7,6321.094,81,High-value active
+1890,Laura Acosta,Vancouver,Canada,2024-12-17,3,6320.8265,14,High-value active
+921,Matthew Chan,Munich,Germany,2024-12-15,7,6270.3495,16,High-value active
+1981,Andrea Estrada,Chicago,USA,2024-12-02,7,6225.7675,29,High-value active
+733,Krystal Keller,Singapore,Singapore,2024-12-11,5,6076.7355,20,High-value active
+1269,Scott Fuller,Chicago,USA,2024-12-14,4,6020.416,17,High-value active
+573,Caroline Edwards,Berlin,Germany,2024-11-12,3,6003.973,49,High-value active
+1929,Larry Curtis,Chicago,USA,2024-11-24,7,5930.3835,37,High-value active
+1603,Lee Barker,Singapore,Singapore,2024-11-28,5,5891.668,33,High-value active
+949,Donald Mueller,Singapore,Singapore,2024-10-20,3,5785.284000000001,72,High-value active
+1739,Alexander Johnson,,USA,2024-11-17,5,5768.896,44,High-value active
+1770,Zachary Morrison,New York,USA,2024-10-04,4,5762.443499999999,88,High-value active
+426,Jessica Ramsey,,France,2024-10-19,4,5731.747,73,High-value active
+1719,Jessica Hill,Toronto,Canada,2024-11-30,5,5699.008,31,High-value active
+1773,Connie Hamilton,Los Angeles,USA,2024-12-29,5,5685.3935,2,High-value active
+325,Shannon Davis,Singapore,Singapore,2024-12-28,6,5667.659,3,High-value active
+1478,Thomas Baker,Berlin,Germany,2024-12-06,4,5640.1085,25,High-value active
+1614,James Chapman,Bangkok,Thailand,2024-11-06,6,5547.3115,55,High-value active
+2240,Brian Christensen,Melbourne,Australia,2024-12-24,5,5529.4345,7,High-value active
+1450,Meredith Black,Chicago,USA,2024-12-16,4,5519.8015,15,High-value active
+920,Barbara Cole,Melbourne,Australia,2024-11-30,3,5510.366,31,High-value active
+727,Cheryl Gonzales,Paris,France,2024-10-23,3,5488.224,69,High-value active
+2109,Jennifer Barrett,,USA,2024-12-14,4,5443.8265,17,High-value active
+121,Thomas Romero,Vancouver,Canada,2024-11-22,4,5428.727999999999,39,High-value active
+264,Tami Salas,Manchester,UK,2024-12-12,3,5413.5395,19,High-value active
+2466,Stephanie Knight,Chicago,USA,2024-11-16,4,5384.5470000000005,45,High-value active
+2426,Nathan Sparks,Paris,France,2024-10-22,4,5376.8265,70,High-value active
+1686,Angela Yates,Manchester,UK,2024-12-10,3,5371.9795,21,High-value active
+142,Richard Johnson,Sydney,Australia,2024-11-24,4,5365.8685,37,High-value active
+2082,Trevor Cole,Mumbai,India,2024-11-24,3,5353.4435,37,High-value active
+449,Fernando Lynn,Melbourne,Australia,2024-10-08,4,5304.5755,84,High-value active
+260,Veronica Silva,Bangkok,Thailand,2024-11-20,4,5301.951,41,High-value active
+1487,Paul Morton,Bangkok,Thailand,2024-11-12,3,5221.5675,49,High-value active
+1702,Eric Acosta,Melbourne,Australia,2024-12-25,6,5215.594,6,High-value active
+1637,Jose Mendez,Vancouver,Canada,2024-11-17,2,5215.506,44,High-value active
+2415,Adrian Gibbs,Bangkok,Thailand,2024-11-20,3,5177.433,41,High-value active
+341,Erin Cook,Munich,Germany,2024-12-20,4,5143.099999999999,11,High-value active
+1044,Alfred Thomas,Toronto,Canada,2024-10-07,6,5122.611,85,High-value active
+2343,Paula Johnson,Toronto,Canada,2024-11-06,3,5112.463,55,High-value active
+1492,Steven Flores,Paris,France,2024-10-23,5,5065.1415,69,High-value active
+251,Kathleen Davis,Bangkok,Thailand,2024-12-05,4,5011.98,26,High-value active
+1624,Jacqueline Woods,Chicago,USA,2024-04-18,2,4974.4664999999995,257,Inactive
+918,Kelly Vasquez,Berlin,Germany,2023-10-21,3,4962.088,437,Inactive
+97,Paige Carlson,Sydney,Australia,2023-01-03,3,4950.239,728,Inactive
+2184,Amy Farrell,Toronto,Canada,2024-08-15,4,4936.167,138,Inactive
+2293,Robin Patterson,Munich,Germany,2023-11-18,2,4933.1835,409,Inactive
+329,Jasmine Mosley,Melbourne,Australia,2023-09-25,3,4908.095,463,Inactive
+2405,Theresa Gardner,Mumbai,India,2023-11-16,3,4904.338,411,Inactive
+95,Jesse Parker,Sydney,Australia,2024-06-19,3,4848.6630000000005,195,Inactive
+2475,Juan Becker,Los Angeles,USA,2024-09-29,4,4840.7685,93,Inactive
+1658,Christopher Waters,Sydney,Australia,2023-11-07,3,4831.43,420,Inactive
+504,Michael Harris,Sydney,Australia,2023-12-31,4,4802.834,366,Inactive
+1449,Melissa Lin,Chicago,USA,2024-06-10,5,4795.0035,204,Inactive
+215,Rachel Romero,New York,USA,2023-10-12,3,4789.381,446,Inactive
+1519,David Sanchez,Munich,Germany,2024-02-27,4,4787.3525,308,Inactive
+2212,Loretta Garrett,Toronto,Canada,2024-09-13,4,4778.6955,109,Inactive
+572,Matthew Steele,Berlin,Germany,2024-05-03,4,4767.945,242,Inactive
+1979,Elizabeth Cain,Sydney,Australia,2022-09-29,3,4747.6375,824,Inactive
+96,Tiffany Vaughn,Paris,France,2024-03-31,5,4741.057,275,Inactive
+1743,Matthew Diaz,Mumbai,India,2024-08-25,2,4723.712,128,Inactive
+1898,Lisa Thomas,,Canada,2024-01-03,2,4719.8189999999995,363,Inactive
+908,Michele Hawkins,Bangkok,Thailand,2023-03-31,3,4703.4685,641,Inactive
+581,Travis Hopkins,Singapore,Singapore,2024-05-15,4,4684.5455,230,Inactive
+48,Rebecca Valencia,Vancouver,Canada,2023-11-12,3,4677.3465,415,Inactive
+17,Patricia Peterson,Paris,France,2023-03-11,2,4663.4304999999995,661,Inactive
+2196,John Massey,Mumbai,India,2024-09-10,3,4651.7375,112,Inactive
+995,Julie Hartman,London,UK,2023-10-19,4,4651.708,439,Inactive
+436,Sara Cochran,Munich,Germany,2024-07-04,2,4645.973,180,Inactive
+1696,Steven Hicks,Chicago,USA,2023-05-13,2,4642.021,598,Inactive
+2271,Paul Phelps,Chicago,USA,2022-11-01,2,4626.438999999999,791,Inactive
+2129,Brett Atkins,,Canada,2024-08-06,2,4600.74,147,Inactive
+1907,Helen Strickland,Vancouver,Canada,2024-07-18,3,4591.3035,166,Inactive
+1834,Patrick Moses,Sydney,Australia,2024-06-07,3,4589.358,207,Inactive
+880,Dustin Bell,London,UK,2024-07-20,5,4585.339,164,Inactive
+2332,Audrey Reyes,Vancouver,Canada,2024-10-01,6,4580.618,91,Inactive
+275,Taylor Gentry,Toronto,Canada,2024-05-17,2,4577.298000000001,228,Inactive
+439,Patricia Mathis,,Australia,2023-12-03,2,4575.6515,394,Inactive
+1448,Anthony Brown,Berlin,Germany,2023-01-09,2,4573.6255,722,Inactive
+2139,Stacy Orozco,Mumbai,India,2023-06-05,5,4570.855500000001,575,Inactive
+898,Brenda Perez,London,UK,2024-06-17,5,4563.1305,197,Inactive
+1562,Bonnie Yang,Chicago,USA,2023-12-09,4,4561.772,388,Inactive
+1056,Lucas Nguyen,Munich,Germany,2023-05-06,1,4561.5199999999995,605,Inactive
+2428,Michael Blair,Sydney,Australia,2024-03-28,3,4545.6285,278,Inactive
+813,Matthew Rodriguez,Vancouver,Canada,2024-05-18,2,4541.664,227,Inactive
+2078,Zachary Bryant,New York,USA,2024-08-05,4,4525.5325,148,Inactive
+725,Laura Herrera,Mumbai,India,2024-04-21,2,4516.3475,254,Inactive
+133,James Thomas,Toronto,Canada,2023-08-03,4,4511.196,516,Inactive
+2221,Toni Clay,Chicago,USA,2023-12-11,4,4503.356,386,Inactive
+1094,Larry Carter,Sydney,Australia,2024-07-13,3,4502.279500000001,171,Inactive
+2107,Ryan Pierce,Chicago,USA,2024-05-31,3,4485.491,214,Inactive
+1830,Michelle Barrera,Munich,Germany,2024-06-17,3,4485.026,197,Inactive
+2345,Jessica Griffith,New York,USA,2024-03-04,3,4478.7055,302,Inactive
+1937,Jay Walter,Los Angeles,USA,2024-05-30,3,4472.7325,215,Inactive
+2417,Alyssa Anderson,Vancouver,Canada,2024-05-24,3,4449.6375,221,Inactive
+1456,John Roberts,Sydney,Australia,2024-09-28,3,4447.3945,94,Inactive
+2378,Tanya Shannon,Los Angeles,USA,2024-08-27,4,4444.516,126,Inactive
+1732,Tracy Copeland,Vancouver,Canada,2024-01-19,3,4432.842,347,Inactive
+2218,Joyce Butler,Paris,France,2024-03-22,3,4405.872,284,Inactive
+826,Charles Valdez,New York,USA,2023-05-12,2,4398.129,599,Inactive
+345,Sandra Jones,Mumbai,India,2024-03-31,4,4397.9945,275,Inactive
+839,Dominique Hamilton,Chicago,USA,2024-03-29,3,4397.6085,277,Inactive
+1166,David Mitchell,Chicago,USA,2023-07-10,2,4382.6955,540,Inactive
+977,Andrew Green,Melbourne,Australia,2024-08-24,4,4370.198,129,Inactive
+1971,Katherine Reeves,Munich,Germany,2024-07-31,6,4348.208,153,Inactive
+1052,Timothy White,Los Angeles,USA,2024-01-11,4,4319.6215,355,Inactive
+328,Michelle Sanders,Melbourne,Australia,2024-08-25,3,4299.982,128,Inactive
+392,Jonathan Wheeler,Manchester,UK,2022-11-03,2,4296.8615,789,Inactive
+1290,Anthony Cabrera,Singapore,Singapore,2022-11-21,2,4294.437,771,Inactive
+175,Sophia Moore,Singapore,Singapore,2024-03-29,4,4290.55,277,Inactive
+1635,Priscilla Joseph,,UK,2024-08-30,2,4265.1055,123,Inactive
+1341,Katherine Cox,Munich,Germany,2023-12-10,2,4263.91,387,Inactive
+1475,Alison Nicholson,Chicago,USA,2024-09-16,2,4255.5755,106,Inactive
+1387,Craig Mathis,Munich,Germany,2024-09-16,4,4236.7535,106,Inactive
+729,Ashley Osborne,Bangkok,Thailand,2024-07-07,4,4233.1965,177,Inactive
+484,Rebekah Greene,Munich,Germany,2024-03-13,2,4230.148,293,Inactive
+2338,Vicki Hernandez,Manchester,UK,2024-03-09,3,4211.893,297,Inactive
+811,Richard Ramirez,Vancouver,Canada,2024-07-22,3,4211.845,162,Inactive
+1370,Alexander Gibbs,Melbourne,Australia,2023-11-20,4,4208.2925,407,Inactive
+461,Lisa Martinez,Singapore,Singapore,2024-04-25,3,4199.034,250,Inactive
+1691,Jeremy Alvarez,Melbourne,Australia,2023-12-03,3,4194.968,394,Inactive
+2261,Lisa Spencer,Mumbai,India,2024-01-26,5,4187.093,340,Inactive
+891,Tina Williams,Chicago,USA,2023-01-15,3,4184.7035000000005,716,Inactive
+1118,Patricia Bruce,Toronto,Canada,2024-02-15,2,4181.458,320,Inactive
+1006,Monique Duarte,London,UK,2023-12-30,3,4162.975,367,Inactive
+1001,Alan Waller,Chicago,USA,2024-03-30,3,4157.2435,276,Inactive
+1518,Lisa Hopkins,Sydney,Australia,2023-09-15,3,4147.49,473,Inactive
+959,Bradley Moore,Sydney,Australia,2023-10-18,3,4117.3769999999995,440,Inactive
+1265,Gregory Smith,London,UK,2023-11-10,4,4111.9155,417,Inactive
+786,Stephanie Dominguez,Paris,France,2024-08-30,3,4105.999,123,Inactive
+1120,Norma Smith,New York,USA,2023-03-14,3,4100.5895,658,Inactive
+2375,Mary Mccoy,Manchester,UK,2024-02-21,4,4091.3804999999998,314,Inactive
+913,William Morgan,Bangkok,Thailand,2024-09-27,4,4082.2355,95,Inactive
+571,Cynthia Mitchell,New York,USA,2024-04-14,4,4070.532,261,Inactive
+1878,Alexandra Smith,New York,USA,2023-07-05,4,4047.351,545,Inactive
+1669,Andrea Goodman,New York,USA,2022-12-23,1,4036.9064999999996,739,Inactive
+2434,Angela Gonzales,Los Angeles,USA,2024-02-14,2,4025.14,321,Inactive
+783,Christopher Taylor,Toronto,Canada,2024-09-08,4,4023.3644999999997,114,Inactive
+2308,Brian Brown,Sydney,Australia,2024-06-20,3,4021.66,194,Inactive
+2017,Thomas Davis,Vancouver,Canada,2024-09-07,5,4018.952,115,Inactive
+2120,Michelle Greer,Manchester,UK,2024-07-18,4,3996.6895,166,Inactive
+311,Elizabeth Ward,Melbourne,Australia,2024-07-22,2,3996.165,162,Inactive
+2011,Michael Burke,Toronto,Canada,2022-10-30,2,3952.0420000000004,793,Inactive
+793,Thomas Curry,Berlin,Germany,2024-04-20,5,3936.1545,255,Inactive
+641,Eddie Adams,Los Angeles,USA,2024-09-29,4,3929.2985,93,Inactive
+2192,Dana Bennett,Mumbai,India,2024-09-30,2,3926.45,92,Inactive
+1488,Anthony Brown,Singapore,Singapore,2024-08-16,4,3925.7965,137,Inactive
+838,Tracy Wells,Sydney,Australia,2023-08-07,3,3923.4205,512,Inactive
+2406,Jessica Conrad,London,UK,2024-07-25,2,3914.1420000000003,159,Inactive
+1009,Todd Reed DDS,Berlin,Germany,2024-07-23,3,3908.5295,161,Inactive
+2165,Roger Roberts,Melbourne,Australia,2023-07-14,2,3906.9325,536,Inactive
+2357,Joseph Hill,,Thailand,2024-02-18,4,3897.553,317,Inactive
+1736,Jacqueline Perry,Manchester,UK,2024-04-12,3,3895.7045,263,Inactive
+228,Jessica Martinez,Singapore,Singapore,2024-06-03,4,3886.7495,211,Inactive
+100,John Peterson,London,UK,2024-04-15,3,3880.641,260,Inactive
+1867,Marcus Byrd,Los Angeles,USA,2024-01-04,2,3875.889,362,Inactive
+1331,Molly Dickson,Paris,France,2024-01-15,2,3869.075,351,Inactive
+2397,Jason Smith,Melbourne,Australia,2023-09-08,3,3854.1725,480,Inactive
+1030,Craig Turner,Manchester,UK,2024-09-09,6,3852.097,113,Inactive
+187,Justin Riley,Sydney,Australia,2023-11-02,2,3849.7915,425,Inactive
+2104,Jonathan Rodgers,Sydney,Australia,2024-05-28,3,3849.351,217,Inactive
+2146,Amanda Swanson,Paris,France,2024-02-01,4,3841.029,334,Inactive
+986,Daniel Price,Munich,Germany,2024-08-04,2,3833.9880000000003,149,Inactive
+2148,Phillip Lewis,New York,USA,2023-05-20,1,3833.014,591,Inactive
+1131,Sharon Anderson,Manchester,UK,2024-08-02,4,3827.448,151,Inactive
+938,Paul Cannon,Paris,France,2024-09-07,3,3826.033,115,Inactive
+1894,Lynn Ross MD,Toronto,Canada,2024-05-06,4,3824.7605,239,Inactive
+2102,Rodney Carter,Singapore,Singapore,2023-11-28,3,3821.4835000000003,399,Inactive
+1531,Matthew Gray,Berlin,Germany,2023-04-04,3,3819.3250000000003,637,Inactive
+1400,Jennifer Turner,Singapore,Singapore,2023-12-12,2,3814.5305000000003,385,Inactive
+164,Larry Garcia,Chicago,USA,2023-07-30,2,3811.8030000000003,520,Inactive
+2056,Omar Hernandez,Berlin,Germany,2024-09-28,3,3796.6765,94,Inactive
+2330,Mark Dennis,Paris,France,2024-07-14,3,3794.454,170,Inactive
+960,Shane Anderson,London,UK,2023-06-20,3,3780.011,560,Inactive
+1313,Paula Shepherd,Manchester,UK,2024-04-09,3,3779.206,266,Inactive
+992,William Sutton,Melbourne,Australia,2024-07-19,5,3773.5570000000002,165,Inactive
+2369,Kevin Jennings,Los Angeles,USA,2024-08-16,3,3772.784,137,Inactive
+239,Michael Cooper,Munich,Germany,2023-06-03,2,3762.0805,577,Inactive
+1920,Richard Neal,Melbourne,Australia,2024-03-22,2,3753.183,284,Inactive
+2037,Debra Johnson,Toronto,Canada,2024-01-19,3,3742.58,347,Inactive
+1173,Martin Chapman MD,,Australia,2024-07-05,5,3742.343,179,Inactive
+705,Lisa Brown,New York,USA,2022-12-14,3,3741.678,748,Inactive
+671,Kimberly Gibson,New York,USA,2024-02-19,3,3734.38,316,Inactive
+1672,Heidi Moran,Berlin,Germany,2024-01-20,2,3720.0445,346,Inactive
+1489,Matthew Sanchez,New York,USA,2023-12-01,3,3712.0,396,Inactive
+685,Andrew Mitchell,Munich,Germany,2024-04-28,2,3693.6085,247,Inactive
+1462,James Hendricks,Paris,France,2024-05-01,4,3690.109,244,Inactive
+1781,William Baker,Bangkok,Thailand,2022-11-03,3,3686.4784999999997,789,Inactive
+111,David Davis,Vancouver,Canada,2024-08-23,1,3685.0645,130,Inactive
+2130,Ashley Roach,Vancouver,Canada,2024-04-27,3,3678.482,248,Inactive
+1398,Richard Johnston,Chicago,USA,2024-06-15,4,3674.601,199,Inactive
+1233,Cole Evans,Vancouver,Canada,2024-08-08,4,3669.6014999999998,145,Inactive
+270,Thomas Douglas,Sydney,Australia,2022-02-25,2,3663.5550000000003,1040,Inactive
+1679,James Walsh,Paris,France,2024-07-27,2,3654.5115,157,Inactive
+1633,Carl Hunter,London,UK,2023-12-08,3,3651.346,389,Inactive
+790,Blake Wu,Manchester,UK,2024-07-24,3,3650.9525,160,Inactive
+1507,Jessica Scott,Bangkok,Thailand,2024-04-19,4,3644.2025,256,Inactive
+286,Joshua Ruiz,London,UK,2022-09-08,2,3643.4415,845,Inactive
+60,Stephanie Gilbert,New York,USA,2024-08-22,1,3627.5,131,Inactive
+495,Jeffrey Jordan,Los Angeles,USA,2023-04-25,3,3625.924,616,Inactive
+2453,Brian Kent,Chicago,USA,2023-06-23,2,3598.8534999999997,557,Inactive
+820,Julian Ponce,Manchester,UK,2023-06-02,2,3591.3145,578,Inactive
+1744,Daniel Anderson,Chicago,USA,2024-06-13,3,3581.8810000000003,201,Inactive
+2178,Shane Short,Los Angeles,USA,2024-06-06,5,3581.0785,208,Inactive
+58,Lisa Alvarado,Bangkok,Thailand,2024-09-25,2,3574.3410000000003,97,Inactive
+1762,Thomas Austin,Chicago,USA,2024-10-01,3,3571.877,91,Inactive
+1514,Elizabeth Johnson,Berlin,Germany,2023-06-13,1,3570.1099999999997,567,Inactive
+430,Rachael Howard DDS,Melbourne,Australia,2024-03-15,3,3568.853,291,Inactive
+1721,Abigail Clayton,Mumbai,India,2024-07-01,7,3563.901,183,Inactive
+101,Jennifer Jones,Toronto,Canada,2024-08-08,3,3562.132,145,Inactive
+703,Christina Mills,Toronto,Canada,2024-08-26,5,3550.5985,127,Inactive
+1384,Kelly Hodges,Chicago,USA,2024-07-08,3,3548.9210000000003,176,Inactive
+1715,John Williams,Munich,Germany,2024-07-25,3,3533.7955,159,Inactive
+862,Judith Miller,Berlin,Germany,2024-06-07,3,3530.678,207,Inactive
+2246,Roy Fowler,Melbourne,Australia,2023-05-23,3,3522.18,588,Inactive
+1412,Jonathan Sloan,Berlin,Germany,2022-08-23,2,3514.562,861,Inactive
+2167,Glenn Ward,New York,USA,2024-07-30,4,3512.484,154,Inactive
+1852,Maurice Anderson,Sydney,Australia,2024-06-03,1,3486.645,211,Inactive
+2099,Mariah Perry,Manchester,UK,2023-07-23,1,3481.66,527,Inactive
+122,Richard Adams,Munich,Germany,2023-10-06,2,3466.4700000000003,452,Inactive
+105,Brad Allen,Melbourne,Australia,2024-05-21,4,3462.121,224,Inactive
+969,Valerie Sanders,Berlin,Germany,2023-07-31,3,3460.668,519,Inactive
+1926,Sandra Sanders,London,UK,2024-02-24,3,3460.363,311,Inactive
+2320,Alfred Leonard,Melbourne,Australia,2024-02-16,1,3451.558,319,Inactive
+597,Kim Goodwin,London,UK,2024-05-12,4,3451.3925,233,Inactive
+1315,Heather Atkinson,Singapore,Singapore,2023-01-18,3,3445.5205,713,Inactive
+2108,Kimberly Escobar,Toronto,Canada,2024-09-25,4,3444.1915,97,Inactive
+248,Kayla Rodriguez,Chicago,USA,2024-07-11,3,3440.5384999999997,173,Inactive
+1243,Robert Byrd,Melbourne,Australia,2024-05-23,2,3436.3885,222,Inactive
+791,Angela Schultz,Vancouver,Canada,2023-06-09,1,3435.015,571,Inactive
+615,Jordan Powell,Melbourne,Australia,2022-12-27,1,3432.795,735,Inactive
+645,Luke Miller,New York,USA,2024-05-25,5,3429.9705,220,Inactive
+923,Karen Dickerson,Sydney,Australia,2024-08-15,2,3418.035,138,Inactive
+12,Jennifer Rocha,Chicago,USA,2023-12-13,3,3413.9665,384,Inactive
+167,Bradley Reynolds,Berlin,Germany,2024-09-12,2,3412.0975000000003,110,Inactive
+531,Richard Love,Chicago,USA,2023-01-22,2,3387.017,709,Inactive
+1790,Michael Robinson,Mumbai,India,2022-12-09,2,3377.1295,753,Inactive
+2294,Eric Fowler,London,UK,2023-06-20,2,3373.756,560,Inactive
+1875,Tommy Ball,Bangkok,Thailand,2022-11-14,3,3368.5675,778,Inactive
+540,Mary Butler,Toronto,Canada,2023-07-06,3,3366.091,544,Inactive
+991,Maria Miller,Chicago,USA,2024-08-25,2,3360.9895,128,Inactive
+2216,Richard Weiss,Mumbai,India,2023-11-27,1,3360.078,400,Inactive
+1634,Raymond Turner,Bangkok,Thailand,2023-06-03,1,3357.926,577,Inactive
+2418,Cathy Barnes,Sydney,Australia,2023-11-24,2,3354.6925,403,Inactive
+235,Michelle Ho,New York,USA,2024-02-19,2,3350.727,316,Inactive
+437,Anthony Guzman,Singapore,Singapore,2024-07-29,3,3348.264,155,Inactive
+866,Grant Lucas,Paris,France,2023-08-16,3,3341.195,503,Inactive
+551,Joshua Davis,Chicago,USA,2024-03-09,3,3337.1485000000002,297,Inactive
+2226,Jennifer Hernandez,Toronto,Canada,2024-06-07,2,3328.972,207,Inactive
+964,Carolyn Bradley,London,UK,2022-04-05,2,3319.714,1001,Inactive
+1774,Jamie Stone,Berlin,Germany,2024-08-17,3,3317.644,136,Inactive
+416,Samuel Howe,London,UK,2023-11-19,3,3308.7015,408,Inactive
+1426,Shane Kennedy,Munich,Germany,2024-07-15,2,3295.4345,169,Inactive
+1785,Mr. Jeffrey Ward,New York,USA,2023-06-15,2,3288.295,565,Inactive
+1608,Michael Thompson,Sydney,Australia,2023-05-30,2,3283.924,581,Inactive
+2339,Holly Ponce,Toronto,Canada,2024-07-12,4,3280.5115,172,Inactive
+1242,Diane Nelson,,UK,2024-03-26,2,3278.1924999999997,280,Inactive
+1184,Robert Lopez,Melbourne,Australia,2023-10-09,2,3260.224,449,Inactive
+2290,Edwin Jackson,Manchester,UK,2023-11-29,2,3250.08,398,Inactive
+2214,Richard Riley,Berlin,Germany,2024-03-29,2,3241.62,277,Inactive
+1257,Edwin Rodriguez,New York,USA,2023-02-19,1,3235.875,681,Inactive
+1419,David Rodriguez,London,UK,2024-07-29,3,3228.1335,155,Inactive
+1538,Chloe Freeman,Bangkok,Thailand,2024-01-11,2,3224.6825,355,Inactive
+2496,Janet Jarvis,Chicago,USA,2024-09-07,3,3221.01,115,Inactive
+1220,Eric Carlson,Bangkok,Thailand,2024-02-01,2,3215.9210000000003,334,Inactive
+1077,Timothy Foley,New York,USA,2024-07-19,2,3212.733,165,Inactive
+2197,Brooke Lewis,Mumbai,India,2024-05-31,2,3207.25,214,Inactive
+1133,William Griffin,Melbourne,Australia,2023-12-07,3,3205.7755,390,Inactive
+1367,Tiffany Bell,Manchester,UK,2022-03-25,3,3205.4135,1012,Inactive
+1505,Sarah Wallace,Singapore,Singapore,2024-05-11,1,3205.05,234,Inactive
+266,Megan Dillon,New York,USA,2024-06-27,3,3203.93,187,Inactive
+608,Samantha Ruiz,Los Angeles,USA,2024-07-25,2,3190.6730000000002,159,Inactive
+1994,Heather Daniels,Melbourne,Australia,2022-09-19,2,3182.989,834,Inactive
+1840,Amy James,Mumbai,India,2024-08-31,3,3175.8685,122,Inactive
+1336,Scott Jordan,Munich,Germany,2024-06-04,3,3175.772,210,Inactive
+687,Tammy Moore,Mumbai,India,2024-09-10,4,3162.016,112,Inactive
+51,Sharon Cochran,Toronto,Canada,2023-07-05,1,3160.7070000000003,545,Inactive
+565,Traci Camacho,Singapore,Singapore,2024-04-01,1,3158.2045,274,Inactive
+1868,Mark Carter,Singapore,Singapore,2024-03-08,4,3148.25,298,Inactive
+2421,Emily Taylor,Melbourne,Australia,2024-02-22,3,3146.4049999999997,313,Inactive
+553,Michael Griffin,Los Angeles,USA,2024-05-29,2,3146.401,216,Inactive
+2095,Gerald Price,Berlin,Germany,2023-02-20,1,3142.981,680,Inactive
+1912,Angela Marshall,Sydney,Australia,2024-02-28,2,3134.909,307,Inactive
+1683,Lee Daniel,Bangkok,Thailand,2023-01-15,2,3134.4965,716,Inactive
+349,Matthew Williams,Sydney,Australia,2024-04-27,2,3127.172,248,Inactive
+633,James Thomas,Munich,Germany,2023-10-27,1,3126.1645,431,Inactive
+2370,Jason Reyes,Chicago,USA,2023-03-11,5,3124.31,661,Inactive
+2480,Susan Black,Mumbai,India,2024-08-20,2,3124.0745,133,Inactive
+999,Michael Melton,New York,USA,2024-08-12,1,3118.401,141,Inactive
+2157,Christine Pratt,Munich,Germany,2023-04-19,2,3115.493,622,Inactive
+2005,Alicia Martin,New York,USA,2024-09-19,3,3111.403,103,Inactive
+1975,Dana Reilly,Melbourne,Australia,2024-09-24,3,3111.3915,98,Inactive
+42,Victoria Valdez,Sydney,Australia,2024-01-22,2,3107.957,344,Inactive
+1466,Ashley Gilmore,Manchester,UK,2023-07-22,2,3105.777,528,Inactive
+822,Nathan Watkins,Singapore,Singapore,2023-10-24,2,3105.688,434,Inactive
+2481,Xavier Jones,Singapore,Singapore,2024-07-07,2,3101.609,177,Inactive
+1546,Jeffrey Henry,Chicago,USA,2024-08-09,3,3096.06,144,Inactive
+2462,Mrs. Jillian Nguyen,New York,USA,2024-09-26,3,3088.6614999999997,96,Inactive
+1049,Tina Wu,Singapore,Singapore,2022-11-28,3,3080.129,764,Inactive
+1694,Katherine Thompson,,USA,2023-01-28,2,3079.139,703,Inactive
+178,Eric Clark,Berlin,Germany,2024-09-20,3,3078.8845,102,Inactive
+720,Michael Howard,Paris,France,2024-02-10,3,3072.3399999999997,325,Inactive
+2341,Crystal Chavez,Bangkok,Thailand,2024-05-15,3,3071.6020000000003,230,Inactive
+2400,Denise French,New York,USA,2024-06-04,3,3069.294,210,Inactive
+453,Kenneth Larsen,Sydney,Australia,2024-03-11,2,3068.4165,295,Inactive
+1041,Walter Palmer,Manchester,UK,2024-09-28,2,3068.0449999999996,94,Inactive
+1430,Alicia Irwin,Chicago,USA,2024-09-22,2,3065.83,100,Inactive
+575,Mr. Matthew Miller,Chicago,USA,2024-06-01,3,3065.284,213,Inactive
+696,Patricia Anderson,London,UK,2023-08-03,2,3062.1795,516,Inactive
+36,Kim Brown,Mumbai,India,2024-08-16,3,3060.8345,137,Inactive
+2200,Timothy Patterson,Chicago,USA,2022-06-24,2,3049.766,921,Inactive
+2371,Mr. David Rivas,New York,USA,2024-09-21,2,3044.1899999999996,101,Inactive
+319,Jennifer Smith,Munich,Germany,2024-02-09,2,3043.89,326,Inactive
+2311,Susan Lewis,Bangkok,Thailand,2023-09-09,2,3037.3485,479,Inactive
+800,James Turner,Los Angeles,USA,2024-07-23,2,3026.251,161,Inactive
+473,Samuel Suarez,Manchester,UK,2024-09-05,3,3016.7720000000004,117,Inactive
+78,David Murphy,Chicago,USA,2023-11-16,2,3014.7375,411,Inactive
+2084,Patricia Alvarado,Los Angeles,USA,2023-12-27,3,3008.4565000000002,370,Inactive
+1361,Mariah Bryant,Toronto,Canada,2024-02-25,2,3007.359,310,Inactive
+1424,Steven Thomas,Mumbai,India,2023-12-27,3,2984.5585,370,Inactive
+1767,Elizabeth Martinez,London,UK,2024-05-01,2,2973.493,244,Inactive
+184,Eric Morgan,Melbourne,Australia,2024-05-06,1,2966.3199999999997,239,Inactive
+658,Johnny Peterson,London,UK,2024-09-20,3,2964.629,102,Inactive
+2250,Darryl Christensen,Sydney,Australia,2022-07-25,2,2960.5695,890,Inactive
+294,Susan Bennett,Chicago,USA,2024-07-12,1,2957.3799999999997,172,Inactive
+1931,Michael Lewis,Manchester,UK,2024-08-23,2,2954.08,130,Inactive
+2361,Sara Preston,Singapore,Singapore,2023-09-04,4,2951.489,484,Inactive
+2458,Paul Moon,Mumbai,India,2024-09-22,2,2949.4959999999996,100,Inactive
+363,Melissa Brewer,Berlin,Germany,2023-12-26,2,2948.7219999999998,371,Inactive
+512,Charles Holland,Munich,Germany,2024-05-28,2,2948.531,217,Inactive
+250,Michelle Lee,Paris,France,2023-09-20,2,2946.6655,468,Inactive
+1796,Gregory Park,New York,USA,2024-02-28,2,2946.075,307,Inactive
+1776,Michelle Munoz,Melbourne,Australia,2024-09-02,3,2934.6215,120,Inactive
+1156,Samuel Olson,Manchester,UK,2023-07-29,1,2929.71,521,Inactive
+1092,Jason Hardy,Sydney,Australia,2024-08-22,6,2925.014,131,Inactive
+1592,Savannah Townsend,,France,2024-09-15,4,2924.511,107,Inactive
+922,Phillip Carroll,Manchester,UK,2024-04-12,3,2923.521,263,Inactive
+772,Jennifer Gutierrez,Bangkok,Thailand,2024-08-29,2,2923.1040000000003,124,Inactive
+1034,Heather Williams,Manchester,UK,2023-06-20,1,2916.6800000000003,560,Inactive
+1278,Cheryl Griffin,Sydney,Australia,2024-03-05,2,2915.958,301,Inactive
+1944,Rita Forbes,Melbourne,Australia,2022-11-11,2,2908.8945,781,Inactive
+948,Amy Ferguson,Munich,Germany,2024-05-11,1,2908.0989999999997,234,Inactive
+56,William Wilson,Manchester,UK,2024-09-20,3,2906.377,102,Inactive
+1366,Sarah Lewis,Manchester,UK,2023-11-19,2,2897.6,408,Inactive
+2282,Christine Parker,Paris,France,2024-01-27,2,2897.4865,339,Inactive
+441,Marie Thompson,Manchester,UK,2023-10-18,4,2896.3650000000002,440,Inactive
+347,Karen Morales DDS,Vancouver,Canada,2024-02-18,3,2889.6555,317,Inactive
+612,Lisa Craig,Paris,France,2024-07-15,2,2889.317,169,Inactive
+2116,Donna Wright,Bangkok,Thailand,2024-05-20,2,2887.19,225,Inactive
+588,Jack Love,Paris,France,2023-08-15,2,2885.8590000000004,504,Inactive
+1720,Angel Holland,Toronto,Canada,2024-09-11,2,2882.6369999999997,111,Inactive
+1917,Jorge Sharp,Singapore,Singapore,2023-10-02,2,2881.2765,456,Inactive
+513,Anna Briggs,London,UK,2023-12-20,2,2878.0,377,Inactive
+269,Jennifer Reed,London,UK,2024-07-19,4,2875.611,165,Inactive
+1436,Mary Torres,Vancouver,Canada,2024-08-03,4,2874.2325,150,Inactive
+1271,Joseph Graves,New York,USA,2024-08-08,3,2873.2470000000003,145,Inactive
+460,James Nash,Paris,France,2022-06-20,1,2872.957,925,Inactive
+1007,Taylor Stein,Munich,Germany,2024-09-08,2,2872.0885000000003,114,Inactive
+2312,Gabriel Nash,New York,USA,2024-04-24,1,2871.93,251,Inactive
+994,Laura King,Mumbai,India,2024-08-14,2,2870.361,139,Inactive
+1864,Susan Davis,New York,USA,2023-10-07,2,2870.1,451,Inactive
+2356,Brian Brown,Bangkok,Thailand,2023-12-28,3,2869.1,369,Inactive
+649,Gregory Fernandez,Chicago,USA,2023-04-15,4,2861.0344999999998,626,Inactive
+1778,Jessica Odonnell,Singapore,Singapore,2024-04-07,3,2860.3155,268,Inactive
+1593,Tammie Lee,Chicago,USA,2024-03-24,2,2858.223,282,Inactive
+2060,Stephanie Holloway,Manchester,UK,2024-07-14,2,2847.8775,170,Inactive
+1239,Mark Cox,Melbourne,Australia,2022-10-23,3,2847.8245,800,Inactive
+1346,Christopher Rodriguez,Paris,France,2023-02-10,3,2844.1389999999997,690,Inactive
+1011,Jeanette Butler,Melbourne,Australia,2024-05-14,1,2840.5879999999997,231,Inactive
+124,Kimberly Gibson,Berlin,Germany,2024-05-26,2,2838.4335,219,Inactive
+915,Victoria Dixon,Singapore,Singapore,2024-02-15,3,2837.6335,320,Inactive
+1967,Donald Cunningham,Toronto,Canada,2024-05-12,3,2837.6275,233,Inactive
+1543,Timothy Bauer,Bangkok,Thailand,2022-11-20,3,2830.423,772,Inactive
+1149,Tyler Davis,Vancouver,Canada,2024-09-07,3,2829.3955,115,Inactive
+272,David Garcia,Berlin,Germany,2023-06-26,2,2826.14,554,Inactive
+314,Kelly Sanchez,Mumbai,India,2024-05-29,2,2811.95,216,Inactive
+1403,Wyatt Callahan,Mumbai,India,2024-01-08,1,2804.85,358,Inactive
+353,Brent Bowen,London,UK,2024-03-19,3,2800.9655,287,Inactive
+13,Kimberly Burgess,Melbourne,Australia,2024-08-04,2,2800.4345,149,Inactive
+1439,Michelle Thomas,Sydney,Australia,2024-07-03,3,2799.223,181,Inactive
+1155,Miss Megan Compton,Toronto,Canada,2024-02-20,3,2787.429,315,Inactive
+408,John Campbell,Mumbai,India,2024-05-05,2,2787.1285,240,Inactive
+2149,Deborah Meyer,Berlin,Germany,2024-09-09,3,2783.243,113,Inactive
+2380,Timothy Ryan,Singapore,Singapore,2023-05-10,1,2782.0045,601,Inactive
+1391,Jason Munoz,New York,USA,2024-08-04,2,2779.145,149,Inactive
+684,Joshua Brooks,Sydney,Australia,2024-06-30,3,2772.753,184,Inactive
+2031,Kevin Blake,Los Angeles,USA,2024-08-28,3,2770.9320000000002,125,Inactive
+1299,Mark Smith,Vancouver,Canada,2023-03-20,3,2763.5075,652,Inactive
+674,Brent Hopkins,Paris,France,2024-09-04,2,2760.7855,118,Inactive
+1023,Darren Pham,Los Angeles,USA,2024-03-06,4,2755.7554999999998,300,Inactive
+1557,Harold Miranda,Los Angeles,USA,2023-12-25,3,2751.195,372,Inactive
+406,Courtney Wright,Sydney,Australia,2024-02-10,3,2750.9339999999997,325,Inactive
+1886,Jason Davidson,Chicago,USA,2024-01-03,2,2745.022,363,Inactive
+1148,Alan Johnson,London,UK,2024-07-04,3,2742.3395,180,Inactive
+14,Zachary Hicks,Mumbai,India,2023-05-26,1,2730.2599999999998,585,Inactive
+2248,Katherine Simon,Toronto,Canada,2023-03-20,5,2724.4505,652,Inactive
+1717,Austin Jones,Mumbai,India,2023-09-22,1,2724.41,466,Inactive
+1205,Erik James,Bangkok,Thailand,2024-09-13,2,2718.468,109,Inactive
+1551,Stephen Larsen,Chicago,USA,2024-09-03,2,2715.741,119,Inactive
+1050,Patricia Parker,Manchester,UK,2024-01-11,3,2712.34,355,Inactive
+750,John Johnson,Paris,France,2023-12-08,2,2705.95,389,Inactive
+699,Kirk Johnson,Bangkok,Thailand,2024-05-22,3,2698.0339999999997,223,Inactive
+795,Richard King,Melbourne,Australia,2024-07-01,2,2693.2635,183,Inactive
+2141,Peter Chandler,New York,USA,2024-09-02,2,2691.2055,120,Inactive
+673,Michael Cannon,Manchester,UK,2024-02-06,4,2683.2005,329,Inactive
+675,John Garcia,Singapore,Singapore,2024-06-04,2,2676.9385,210,Inactive
+1957,Tiffany Lee,Toronto,Canada,2023-06-09,3,2675.821,571,Inactive
+1798,Matthew Huang,Melbourne,Australia,2023-07-19,2,2674.871,531,Inactive
+1442,Randall Wright,New York,USA,2024-06-26,3,2671.6299999999997,188,Inactive
+996,Kevin Gibson,Melbourne,Australia,2024-09-19,2,2660.007,103,Inactive
+2314,Justin Parker,Sydney,Australia,2024-04-24,3,2657.0494999999996,251,Inactive
+1572,Jennifer Smith,Melbourne,Australia,2024-06-30,2,2656.7845,184,Inactive
+2277,Melissa Garcia,Singapore,Singapore,2022-08-05,2,2650.5005,879,Inactive
+501,Mrs. Alison Wagner,London,UK,2023-08-03,2,2647.87,516,Inactive
+1783,Joshua Trujillo,Vancouver,Canada,2023-11-27,2,2647.6724999999997,400,Inactive
+1501,William Nichols,Toronto,Canada,2023-07-06,2,2643.469,544,Inactive
+1125,Kevin Bradley,Chicago,USA,2023-05-10,2,2642.497,601,Inactive
+2112,Mercedes Garcia,Chicago,USA,2023-08-05,4,2633.7754999999997,514,Inactive
+844,James Ellis,,Germany,2024-01-19,3,2631.88,347,Inactive
+731,Susan Hogan,Paris,France,2024-05-09,2,2625.333,236,Inactive
+255,William Becker,Mumbai,India,2022-12-14,2,2624.3385000000003,748,Inactive
+584,Michael Boyd,Vancouver,Canada,2023-12-09,2,2622.737,388,Inactive
+1228,Melissa Smith,Singapore,Singapore,2023-11-22,3,2622.5665,405,Inactive
+1463,Laura Pennington,Chicago,USA,2023-08-17,2,2621.46,502,Inactive
+906,Tyler White,Mumbai,India,2023-10-11,3,2616.152,447,Inactive
+864,Jason Fleming,New York,USA,2024-09-19,2,2615.7195,103,Inactive
+1727,Travis Johnson,Berlin,Germany,2024-09-28,3,2612.363,94,Inactive
+1985,Karen Avery,Manchester,UK,2022-09-25,2,2608.426,828,Inactive
+660,Catherine Huang,Berlin,Germany,2024-01-30,2,2607.772,336,Inactive
+2486,John Escobar,,France,2024-07-23,3,2604.251,161,Inactive
+2229,Angela Barnett,Los Angeles,USA,2023-12-10,3,2604.158,387,Inactive
+2443,Kristen Smith,Sydney,Australia,2023-11-03,3,2604.122,424,Inactive
+330,Haley Davis,Sydney,Australia,2024-04-26,1,2602.951,249,Inactive
+1958,Melanie Jones,Berlin,Germany,2023-07-04,2,2600.316,546,Inactive
+1660,Courtney Powell,Los Angeles,USA,2023-06-27,2,2597.536,553,Inactive
+1823,Laura Thompson,Bangkok,Thailand,2022-01-28,2,2597.437,1068,Inactive
+192,Mrs. Maria Williams,Paris,France,2023-09-30,1,2589.3439999999996,458,Inactive
+1651,James Spears,Manchester,UK,2022-12-25,2,2585.406,737,Inactive
+1305,Tim Miller,Munich,Germany,2024-04-16,3,2582.0315,259,Inactive
+598,April Pace,Bangkok,Thailand,2023-01-30,1,2579.9075,701,Inactive
+1510,Vanessa Smith DVM,Melbourne,Australia,2023-05-24,2,2579.423,587,Inactive
+69,Paul Larsen,Paris,France,2024-09-24,2,2576.4905000000003,98,Inactive
+1561,Eric Hall,New York,USA,2024-07-10,2,2575.5600000000004,174,Inactive
+809,Cathy Rodriguez,New York,USA,2024-09-09,3,2572.972,113,Inactive
+716,Krystal Moore,Chicago,USA,2024-01-14,2,2571.84,352,Inactive
+1247,Robin Torres,Manchester,UK,2023-09-12,4,2570.324,476,Inactive
+2111,Brian Moore,Paris,France,2024-01-29,5,2568.6375,337,Inactive
+2227,Carly Goodwin,Paris,France,2024-07-09,3,2566.0204999999996,175,Inactive
+2052,Erik Small,Bangkok,Thailand,2024-07-29,3,2555.346,155,Inactive
+2103,Robyn Kidd,Paris,France,2024-09-08,2,2552.951,114,Inactive
+429,James Barnes,Toronto,Canada,2023-09-28,2,2547.54,460,Inactive
+109,Tammy Gonzales,Berlin,Germany,2024-08-28,2,2538.0265,125,Inactive
+1211,Tammy Parsons,Sydney,Australia,2024-09-10,4,2537.747,112,Inactive
+1284,Jennifer Nelson,Los Angeles,USA,2024-04-12,2,2535.554,263,Inactive
+2066,Zachary Martinez,Manchester,UK,2024-04-19,1,2526.831,256,Inactive
+1168,Leon Hamilton,Munich,Germany,2023-11-18,1,2524.9945,409,Inactive
+299,Andrew Gonzales,Melbourne,Australia,2024-06-21,1,2516.143,193,Inactive
+1210,Vincent Brown,Manchester,UK,2024-05-11,5,2511.764,234,Inactive
+2209,Nathaniel Brown,Vancouver,Canada,2022-07-29,2,2510.954,886,Inactive
+2093,Danielle Smith,Manchester,UK,2023-04-28,2,2506.69,613,Inactive
+1304,William Walker DVM,Melbourne,Australia,2024-04-24,2,2502.72,251,Inactive
+2337,Melanie Garrett,Bangkok,Thailand,2023-08-02,2,2501.01,517,Inactive
+1134,Keith Henry,Bangkok,Thailand,2024-03-12,3,2490.4165000000003,294,Inactive
+2117,Dr. Jared Lee III,Sydney,Australia,2023-08-04,2,2484.645,515,Inactive
+2051,Jennifer Rivera,London,UK,2024-04-28,4,2483.8575,247,Inactive
+2365,Lauren Stephens,New York,USA,2023-12-15,2,2481.8765000000003,382,Inactive
+2381,Francisco Estrada,London,UK,2024-02-11,2,2476.79,324,Inactive
+1057,Jason Nguyen,Mumbai,India,2024-09-02,3,2475.1905,120,Inactive
+1141,Jennifer Smith,,France,2024-02-26,1,2473.6679999999997,309,Inactive
+2431,Jessica Torres,Munich,Germany,2023-04-25,3,2472.792,616,Inactive
+930,John Vazquez,Sydney,Australia,2024-01-12,2,2468.36,354,Inactive
+767,Anna Lang,Chicago,USA,2023-04-20,2,2468.1304999999998,621,Inactive
+1665,Martha Arnold,Mumbai,India,2024-09-06,2,2466.7955,116,Inactive
+450,Kimberly Villanueva,Los Angeles,USA,2024-09-19,1,2462.924,103,Inactive
+2217,Teresa Russell,Chicago,USA,2023-01-17,2,2459.125,714,Inactive
+1892,John Murray,Vancouver,Canada,2024-05-16,3,2453.155,229,Inactive
+2322,Robert Parks MD,Toronto,Canada,2024-01-21,1,2452.0205,345,Inactive
+812,Robert Thompson,Sydney,Australia,2023-05-08,1,2441.478,603,Inactive
+2133,Danielle Ballard,Sydney,Australia,2023-11-07,4,2434.0699999999997,420,Inactive
+617,Laura Benson,Bangkok,Thailand,2024-04-17,3,2433.8065,258,Inactive
+1659,Kyle Flores,Berlin,Germany,2024-09-26,2,2431.7555,96,Inactive
+2482,Margaret Mullins,London,UK,2024-09-30,3,2426.4305,92,Inactive
+169,Michelle Schmitt,London,UK,2023-05-28,2,2420.9595,583,Inactive
+274,Matthew Velez,Vancouver,Canada,2024-07-04,3,2420.0009999999997,180,Inactive
+413,Valerie Thomas,Melbourne,Australia,2024-07-31,2,2417.3955,153,Inactive
+1036,Brenda Gray,New York,USA,2024-10-01,3,2410.408,91,Inactive
+425,Carl Stein,Singapore,Singapore,2024-04-11,2,2409.046,264,Inactive
+668,Michael Howard,Mumbai,India,2023-05-03,1,2406.9449999999997,608,Inactive
+67,Robert Contreras,Vancouver,Canada,2023-04-04,2,2397.36,637,Inactive
+2188,Mathew Key,Bangkok,Thailand,2023-05-16,2,2396.8735,595,Inactive
+852,Melissa Russell,Berlin,Germany,2024-08-02,5,2396.7000000000003,151,Inactive
+71,Chris Reyes,Bangkok,Thailand,2023-11-08,2,2386.23,419,Inactive
+211,Lisa Henderson,Toronto,Canada,2023-10-24,1,2379.7545,434,Inactive
+1025,Angela Edwards,Manchester,UK,2024-07-31,1,2378.811,153,Inactive
+2344,Christopher Hall,Vancouver,Canada,2024-06-26,2,2375.097,188,Inactive
+629,Jamie Garcia,Munich,Germany,2024-07-30,3,2369.2889999999998,154,Inactive
+1335,Kelly Mack,New York,USA,2024-03-06,2,2368.69,300,Inactive
+2023,Alicia Wagner,Sydney,Australia,2024-09-20,2,2367.3930000000005,102,Inactive
+219,Chad Baldwin,Manchester,UK,2024-04-19,3,2360.916,256,Inactive
+741,Anna Evans,Manchester,UK,2024-07-13,2,2359.8535,171,Inactive
+110,Kathryn Snyder,Paris,France,2024-01-06,2,2357.0085,360,Inactive
+982,Mrs. Jacqueline Hickman,Paris,France,2024-01-24,2,2349.607,342,Inactive
+1274,Terry Garcia,,India,2023-10-23,3,2344.779,435,Inactive
+1035,William Trujillo,Los Angeles,USA,2024-08-22,4,2342.5860000000002,131,Inactive
+150,David Medina,Berlin,Germany,2023-07-24,2,2342.2725,526,Inactive
+526,Jordan Clark,Chicago,USA,2024-01-17,2,2342.2485,349,Inactive
+118,Michael Martinez,Munich,Germany,2023-05-07,3,2336.61,604,Inactive
+798,Samantha Monroe,Mumbai,India,2024-04-20,1,2330.098,255,Inactive
+120,Dr. Jordan Hill PhD,Toronto,Canada,2023-07-17,2,2329.725,533,Inactive
+326,Karen Williams,Sydney,Australia,2024-05-15,2,2328.942,230,Inactive
+1337,Christian Burton,Manchester,UK,2023-01-26,2,2327.426,705,Inactive
+459,Joseph Camacho,Berlin,Germany,2024-04-30,2,2320.642,245,Inactive
+2042,Andrew Smith,Mumbai,India,2023-03-03,1,2318.044,669,Inactive
+2281,Carmen Gonzalez,Mumbai,India,2024-06-18,3,2314.0435,196,Inactive
+2172,Sharon King,Melbourne,Australia,2024-01-15,3,2310.056,351,Inactive
+2238,Timothy Harris,Singapore,Singapore,2024-03-27,2,2307.6755,279,Inactive
+1632,Ashley Drake,Mumbai,India,2023-10-20,3,2306.9525,438,Inactive
+919,Dennis Cooper PhD,Berlin,Germany,2024-05-08,3,2306.319,237,Inactive
+1186,Caleb Brown,Bangkok,Thailand,2024-08-01,2,2303.774,152,Inactive
+2367,Richard Williams,Bangkok,Thailand,2024-08-18,2,2303.7475,135,Inactive
+1991,Linda Perez,Mumbai,India,2024-07-21,3,2291.171,163,Inactive
+877,Christie Fox,Munich,Germany,2024-04-23,2,2287.562,252,Inactive
+370,Scott Miller,Sydney,Australia,2024-06-18,3,2279.3215,196,Inactive
+1277,Brian Soto,Melbourne,Australia,2022-12-10,1,2275.8669999999997,752,Inactive
+1397,Jesse Guzman,Toronto,Canada,2023-05-23,1,2272.796,588,Inactive
+57,Renee Mcdaniel,Vancouver,Canada,2024-09-07,3,2271.3505,115,Inactive
+357,Jeffrey Smith,London,UK,2024-07-14,2,2269.652,170,Inactive
+956,Thomas Garcia,Mumbai,India,2024-09-20,2,2259.3925,102,Inactive
+1963,Olivia Miller,London,UK,2023-07-16,2,2258.0969999999998,534,Inactive
+1162,Mary Wright,Singapore,Singapore,2023-08-03,2,2257.333,516,Inactive
+1936,James Carroll,Los Angeles,USA,2023-10-04,1,2254.8235,454,Inactive
+1031,Beth Braun,Melbourne,Australia,2024-09-21,3,2250.4465,101,Inactive
+1359,Joshua Martin,Los Angeles,USA,2024-03-22,1,2250.3525,284,Inactive
+521,Mason Moore,Chicago,USA,2024-07-03,2,2250.038,181,Inactive
+2425,Shannon Thompson,Bangkok,Thailand,2024-02-08,4,2249.047,327,Inactive
+2358,Allison Cunningham,Mumbai,India,2023-07-30,4,2245.3759999999997,520,Inactive
+1819,Joseph Andrews,Vancouver,Canada,2024-06-05,3,2240.288,209,Inactive
+2499,Alexandra Johnson,New York,USA,2024-09-13,4,2237.02,109,Inactive
+1876,Angela Wade,Melbourne,Australia,2024-08-12,2,2233.465,141,Inactive
+1114,Jose Rogers,Singapore,Singapore,2024-08-09,3,2231.707,144,Inactive
+974,Carl Savage,Berlin,Germany,2022-10-24,3,2230.967,799,Inactive
+2002,Matthew Brown,Manchester,UK,2024-09-20,2,2229.3705,102,Inactive
+1105,Teresa Rowland,Paris,France,2024-05-06,2,2211.27,239,Inactive
+937,Sarah Meadows,Bangkok,Thailand,2024-03-23,2,2202.4700000000003,283,Inactive
+1144,Jeanne Jones,New York,USA,2023-12-29,2,2201.2075,368,Inactive
+1414,Sergio Wong,Sydney,Australia,2024-02-09,3,2200.2295,326,Inactive
+396,Kimberly Hernandez,New York,USA,2024-04-08,4,2196.757,267,Inactive
+722,Jason Novak,Chicago,USA,2024-06-24,4,2189.094,190,Inactive
+166,Brandon Simmons,Chicago,USA,2024-06-29,2,2188.8065,185,Inactive
+747,Mrs. Felicia Castro DDS,Singapore,Singapore,2023-04-10,1,2186.2455,631,Inactive
+1422,Kyle Gross,Berlin,Germany,2024-03-17,2,2185.4505,289,Inactive
+764,Amber Johnson,Mumbai,India,2024-03-06,3,2180.728,300,Inactive
+1760,Diana Haley,Munich,Germany,2024-06-23,2,2178.8445,191,Inactive
+1579,Sarah Taylor,Bangkok,Thailand,2024-06-21,1,2175.544,193,Inactive
+2413,Anthony Knapp,London,UK,2024-08-07,3,2173.645,146,Inactive
+1169,Jessica Miller,Manchester,UK,2024-02-29,1,2151.9269999999997,306,Inactive
+552,Daniel Goodwin,Chicago,USA,2022-11-25,3,2151.476,767,Inactive
+1978,Alexandra Brown,Toronto,Canada,2023-06-07,2,2147.8355,573,Inactive
+873,Theresa Reilly,Toronto,Canada,2023-10-17,3,2138.412,441,Inactive
+462,Beth Henderson,Paris,France,2022-01-22,1,2137.1859999999997,1074,Inactive
+149,Elizabeth Ortiz,Bangkok,Thailand,2024-08-28,2,2134.546,125,Inactive
+697,Christina Gilbert,Munich,Germany,2024-08-20,1,2134.4145,133,Inactive
+1850,Sarah Archer,Munich,Germany,2024-09-25,3,2132.3624999999997,97,Inactive
+2036,Corey Weeks,Chicago,USA,2024-05-31,4,2131.8325,214,Inactive
+816,Gary Myers,Berlin,Germany,2023-10-17,5,2128.266,441,Inactive
+845,Andrew Carroll,Manchester,UK,2024-01-10,1,2127.632,356,Inactive
+1163,Mark Brown,London,UK,2024-04-01,2,2126.4,274,Inactive
+644,Shawn Kelley,Vancouver,Canada,2024-03-17,3,2125.18,289,Inactive
+1038,Stephen Alvarez,Chicago,USA,2024-07-03,3,2124.214,181,Inactive
+1207,Courtney Foster,Sydney,Australia,2023-04-04,1,2123.4759999999997,637,Inactive
+1729,Barbara Sherman,Manchester,UK,2024-03-31,2,2117.401,275,Inactive
+242,Denise Weber,Los Angeles,USA,2024-07-01,1,2112.5764999999997,183,Inactive
+801,Joseph Graham,Singapore,Singapore,2024-02-25,1,2112.1655,310,Inactive
+1256,Stephanie Walls,Mumbai,India,2023-12-24,4,2111.4405,373,Inactive
+583,Heather Harrison,Vancouver,Canada,2024-08-09,4,2107.3559999999998,144,Inactive
+2386,Jeffery Snyder,Chicago,USA,2024-03-22,2,2100.2305,284,Inactive
+2160,Shari Sharp,Manchester,UK,2024-05-10,2,2099.3375,235,Inactive
+26,Shannon Jones,Los Angeles,USA,2023-11-27,2,2098.002,400,Inactive
+327,Amanda Mcfarland,New York,USA,2022-12-01,2,2097.321,761,Inactive
+523,Robert Miller,Chicago,USA,2023-12-07,3,2095.174,390,Inactive
+210,Luis Bullock,Mumbai,India,2022-11-11,2,2091.129,781,Inactive
+2289,Tyler Shields,Los Angeles,USA,2022-10-13,1,2089.0905,810,Inactive
+1074,Johnathan Padilla,Singapore,Singapore,2024-08-06,2,2088.1994999999997,147,Inactive
+2427,Tamara Brown,London,UK,2024-01-01,3,2085.966,365,Inactive
+1021,Adriana Davenport,Paris,France,2024-03-02,1,2084.835,304,Inactive
+307,Michael Morrison,Paris,France,2024-07-02,5,2074.7145,182,Inactive
+1483,Allison Casey,Munich,Germany,2024-04-09,2,2074.02,266,Inactive
+278,Todd Rosales MD,Vancouver,Canada,2024-02-01,3,2073.8005,334,Inactive
+2063,Samuel Ortega,Melbourne,Australia,2024-06-22,1,2067.724,192,Inactive
+1473,Sarah Solis,Toronto,Canada,2024-03-23,2,2064.624,283,Inactive
+1282,Tyler Brown,Berlin,Germany,2022-09-18,1,2060.3965,835,Inactive
+1935,Aaron Johnson,Bangkok,Thailand,2023-12-30,1,2060.044,367,Inactive
+287,Angela Griffin,Chicago,USA,2023-12-28,2,2060.035,369,Inactive
+431,Devin Johnson,Singapore,Singapore,2024-05-13,1,2056.27,232,Inactive
+140,Crystal Pham,Paris,France,2023-11-20,2,2053.084,407,Inactive
+451,Jessica Valdez,Sydney,Australia,2024-02-22,1,2052.248,313,Inactive
+1159,James May,Berlin,Germany,2024-06-06,1,2052.0119999999997,208,Inactive
+226,Heather Bolton,Berlin,Germany,2024-08-12,2,2050.5775,141,Inactive
+895,Jonathan Decker,New York,USA,2024-09-11,2,2048.0015,111,Inactive
+2385,Henry Reeves,Munich,Germany,2024-03-23,1,2046.5839999999998,283,Inactive
+1989,Seth Barker,Los Angeles,USA,2024-07-01,2,2039.4635,183,Inactive
+871,Jacob Harris,Melbourne,Australia,2023-04-13,2,2038.879,628,Inactive
+1179,Jeffery Holt,Vancouver,Canada,2023-03-20,4,2038.7869999999998,652,Inactive
+848,Cindy Wells,Los Angeles,USA,2023-02-11,1,2038.674,689,Inactive
+1964,Lynn Davis,Singapore,Singapore,2024-06-23,2,2037.9360000000001,191,Inactive
+442,Michael Anderson,Los Angeles,USA,2023-11-19,2,2035.756,408,Inactive
+1913,Olivia Rodriguez,Melbourne,Australia,2023-10-13,2,2034.4134999999999,445,Inactive
+1461,Carrie Hernandez,Sydney,Australia,2023-12-17,1,2034.274,380,Inactive
+1942,Jennifer Dudley,Bangkok,Thailand,2023-10-07,3,2031.3975,451,Inactive
+935,David Robertson,Munich,Germany,2024-03-10,2,2030.9025,296,Inactive
+2395,Daniel Gallegos,Sydney,Australia,2023-02-14,2,2028.721,686,Inactive
+193,Helen Hardin,Mumbai,India,2024-08-14,2,2027.339,139,Inactive
+721,Jacqueline Christian,Melbourne,Australia,2024-01-01,1,2025.4099999999999,365,Inactive
+1851,Jason Quinn,Paris,France,2023-10-19,3,2025.2135,439,Inactive
+589,Karen Mendoza,Melbourne,Australia,2024-07-16,2,2019.165,168,Inactive
+1974,Jennifer Brown,Toronto,Canada,2024-05-18,4,2014.254,227,Inactive
+978,William Hoffman,Munich,Germany,2023-06-21,1,2012.481,559,Inactive
+1146,Margaret Moran,London,UK,2024-06-06,2,2009.093,208,Inactive
+381,William Patterson,Toronto,Canada,2023-01-20,2,2004.087,711,Inactive
+1432,Troy Fowler,Sydney,Australia,2024-04-13,2,2003.562,262,Inactive
+1008,Kenneth Tran,Mumbai,India,2024-03-30,4,2001.376,276,Inactive
+1895,James Hernandez,Mumbai,India,2024-04-23,2,1999.6585,252,Inactive
+901,Michael Webster,Munich,Germany,2023-09-18,2,1995.0240000000001,470,Inactive
+465,Ashley Hernandez,Mumbai,India,2024-09-30,2,1993.0865,92,Inactive
+1192,Danielle Hayes,Vancouver,Canada,2024-06-17,2,1985.2965,197,Inactive
+946,Robert Murphy,Chicago,USA,2023-08-04,3,1984.8155,515,Inactive
+2310,Mary Levy,Vancouver,Canada,2023-09-20,1,1984.51,468,Inactive
+806,Joseph Jennings,London,UK,2023-04-11,2,1979.9415,630,Inactive
+562,Mercedes Jones,London,UK,2024-08-01,2,1976.7585000000001,152,Inactive
+2039,Jeffrey Freeman,Manchester,UK,2024-04-08,2,1976.058,267,Inactive
+1078,Justin Gibson,New York,USA,2024-09-30,1,1974.0265,92,Inactive
+486,Micheal Parks,Los Angeles,USA,2023-06-23,4,1971.528,557,Inactive
+569,Tara Gamble,Toronto,Canada,2024-07-24,2,1970.835,160,Inactive
+2126,Jesse Turner,Chicago,USA,2024-05-12,1,1970.137,233,Inactive
+2479,Lisa Clay,Vancouver,Canada,2024-05-23,2,1967.087,222,Inactive
+1549,Stephanie Gallagher,New York,USA,2023-09-19,2,1964.0310000000002,469,Inactive
+1663,Kathy Miller,Munich,Germany,2022-03-29,2,1964.008,1008,Inactive
+2131,Kendra White,Munich,Germany,2023-11-08,1,1962.886,419,Inactive
+130,Stacy Freeman,Chicago,USA,2022-08-20,1,1959.6640000000002,864,Inactive
+1232,Erik Bartlett DVM,Chicago,USA,2024-02-22,4,1954.4499999999998,313,Inactive
+1706,Daniel Shaw,London,UK,2024-01-17,2,1953.789,349,Inactive
+1818,Susan Zimmerman,,Canada,2024-06-24,2,1952.92,190,Inactive
+394,Austin Baker,Melbourne,Australia,2023-12-15,1,1948.78,382,Inactive
+2243,Sean Carter,Singapore,Singapore,2023-10-25,2,1945.937,433,Inactive
+398,Brandon Hamilton,New York,USA,2024-08-23,2,1943.6184999999998,130,Inactive
+881,Jill Riddle,Paris,France,2024-03-04,3,1940.851,302,Inactive
+198,Susan Davis DDS,Paris,France,2023-10-02,2,1940.019,456,Inactive
+2038,Robert Stevens,Vancouver,Canada,2024-09-10,1,1937.688,112,Inactive
+104,Marc Lynch,New York,USA,2024-08-21,2,1935.3899999999999,132,Inactive
+2140,David George,Melbourne,Australia,2024-02-27,2,1934.424,308,Inactive
+43,Shawn Baker,Melbourne,Australia,2023-04-29,3,1929.671,612,Inactive
+2014,Heather Smith,Manchester,UK,2022-10-31,1,1927.84,792,Inactive
+232,Michele Lewis,Sydney,Australia,2024-03-20,1,1927.0265,286,Inactive
+1438,April King,Bangkok,Thailand,2024-09-11,3,1917.231,111,Inactive
+1566,Brandon Rasmussen,Sydney,Australia,2024-02-26,1,1916.99,309,Inactive
+677,Steve Miller PhD,Toronto,Canada,2023-12-29,2,1915.82,368,Inactive
+566,Andrew Armstrong,London,UK,2022-12-09,1,1910.3235000000002,753,Inactive
+1208,Mr. Kyle Thomas DDS,Singapore,Singapore,2024-08-17,1,1907.502,136,Inactive
+368,Ashley Wilson,Chicago,USA,2023-10-30,3,1907.3365000000001,428,Inactive
+709,Thomas Torres,Los Angeles,USA,2022-05-19,1,1906.3860000000002,957,Inactive
+115,Brandon King,Melbourne,Australia,2024-05-22,1,1906.3029999999999,223,Inactive
+1251,Jeffery Ferguson,Toronto,Canada,2022-06-18,1,1904.654,927,Inactive
+2190,Tyler Garrison,Berlin,Germany,2022-04-22,1,1902.5665,984,Inactive
+1215,Laura Ramos,Mumbai,India,2022-09-07,1,1898.292,846,Inactive
+1306,Christopher Coleman,Singapore,Singapore,2024-05-02,2,1897.806,243,Inactive
+93,Alan Phillips,Manchester,UK,2024-04-23,3,1893.1635,252,Inactive
+261,Paula Lane,Mumbai,India,2023-01-15,2,1893.001,716,Inactive
+1754,Sandra Martinez,Toronto,Canada,2024-08-08,2,1891.362,145,Inactive
+1203,Molly Valdez,Melbourne,Australia,2024-07-08,3,1890.5055,176,Inactive
+646,Mark Anderson,Paris,France,2024-05-17,3,1887.526,228,Inactive
+628,Joyce Martinez,Chicago,USA,2023-01-10,3,1876.028,721,Inactive
+591,Christopher Nielsen,Vancouver,Canada,2024-05-05,2,1873.3799999999999,240,Inactive
+1477,Kathryn Ross,Melbourne,Australia,2024-01-30,3,1871.68,336,Inactive
+1758,Yolanda Jackson,Melbourne,Australia,2022-03-16,1,1865.91,1021,Inactive
+1627,Jessica Long,,UK,2022-02-19,1,1865.81,1046,Inactive
+847,Laura Tran,Sydney,Australia,2023-05-28,1,1864.4310000000003,583,Inactive
+2205,Karina Boone,Bangkok,Thailand,2022-12-25,3,1862.35,737,Inactive
+1468,Tammy Morris,Singapore,Singapore,2022-07-31,1,1861.31,884,Inactive
+366,Jill Jackson,Chicago,USA,2024-01-27,2,1858.1909999999998,339,Inactive
+1701,Rachel Chan,Bangkok,Thailand,2024-06-20,1,1852.8535,194,Inactive
+2072,Catherine Booth,Los Angeles,USA,2022-07-24,1,1850.877,891,Inactive
+1829,Jennifer Moore,Berlin,Germany,2022-12-20,2,1848.0955000000001,742,Inactive
+1536,Thomas Zhang,Manchester,UK,2024-05-11,2,1846.3600000000001,234,Inactive
+1117,Isaac Payne,Vancouver,Canada,2023-08-11,2,1842.718,508,Inactive
+1262,Patrick Santana,Chicago,USA,2023-03-12,1,1834.962,660,Inactive
+549,Frank Williams,Berlin,Germany,2024-10-02,2,1834.77,90,Inactive
+157,Brianna Anderson,Chicago,USA,2024-05-16,2,1829.83,229,Inactive
+2491,Amanda Cook,Singapore,Singapore,2024-08-11,1,1822.08,142,Inactive
+339,Richard Ward,Toronto,Canada,2024-04-17,2,1821.771,258,Inactive
+108,Derek Thomas,Mumbai,India,2024-06-29,4,1820.9885,185,Inactive
+2401,Kari Buck,Manchester,UK,2023-04-08,1,1820.6225,633,Inactive
+1764,Corey Flowers,Paris,France,2024-08-18,1,1817.0049999999999,135,Inactive
+1861,Heidi Blankenship,Paris,France,2023-03-12,1,1814.404,660,Inactive
+950,Walter Obrien,Sydney,Australia,2024-05-16,3,1814.1205000000002,229,Inactive
+564,Daniel Francis,Mumbai,India,2023-09-14,3,1813.01,474,Inactive
+635,Brett Martin,,Australia,2023-10-19,4,1812.969,439,Inactive
+2152,Brandon Perkins,Chicago,USA,2022-06-06,2,1811.551,939,Inactive
+1427,Kelly Jackson,Chicago,USA,2024-09-14,2,1811.431,108,Inactive
+1516,Brittany Farmer,Vancouver,Canada,2024-03-26,1,1810.176,280,Inactive
+1360,Laura Smith,Berlin,Germany,2024-08-16,2,1794.15,137,Inactive
+1813,Joshua Rubio,Munich,Germany,2024-10-01,2,1792.2175000000002,91,Inactive
+1648,Christopher Mitchell,Chicago,USA,2024-08-09,2,1787.5800000000002,144,Inactive
+443,Patricia Bradley,Chicago,USA,2024-07-25,1,1787.492,159,Inactive
+86,Matthew Smith,Munich,Germany,2023-12-25,2,1786.0475000000001,372,Inactive
+256,Gina Mcmillan,London,UK,2023-12-27,1,1785.06,370,Inactive
+302,Sheryl Buck,Melbourne,Australia,2024-05-23,3,1782.945,222,Inactive
+1107,Vanessa Sanchez,New York,USA,2024-05-10,2,1782.6855,235,Inactive
+2118,Michael Anderson,Singapore,Singapore,2024-05-08,1,1782.124,237,Inactive
+2408,Catherine Kirk,Sydney,Australia,2024-05-02,2,1781.71,243,Inactive
+1903,Erin Lee,Vancouver,Canada,2024-07-22,2,1781.0455,162,Inactive
+1451,Elizabeth Collins,New York,USA,2024-10-02,3,1769.83,90,Inactive
+917,Janet Shelton,Los Angeles,USA,2023-08-19,1,1769.23,500,Inactive
+2319,John Woodard,Paris,France,2024-05-20,2,1765.3355000000001,225,Inactive
+1812,Sheryl Thompson,Los Angeles,USA,2024-02-28,2,1763.9935,307,Inactive
+1270,Corey Thomas,Mumbai,India,2022-06-09,1,1763.191,936,Inactive
+1327,Jack Maxwell,Paris,France,2023-09-01,3,1760.827,487,Inactive
+538,Miguel Parks,Berlin,Germany,2024-08-25,2,1756.3985,128,Inactive
+683,Erika Watson PhD,Vancouver,Canada,2023-06-10,2,1750.136,570,Inactive
+80,Mrs. Marie Harrington DDS,New York,USA,2022-06-09,1,1749.061,936,Inactive
+734,Eric Cross,Munich,Germany,2024-10-01,1,1744.5900000000001,91,Inactive
+1938,Stephanie Turner,Manchester,UK,2022-10-13,2,1742.2055,810,Inactive
+1437,Douglas Watkins,Chicago,USA,2024-07-04,3,1737.35,180,Inactive
+1,Allison Hill,Sydney,Australia,2023-12-25,2,1731.762,372,Inactive
+2191,Alyssa Rodriguez PhD,Manchester,UK,2024-07-24,2,1727.298,160,Inactive
+343,Douglas Hartman,Sydney,Australia,2023-02-20,1,1719.498,680,Inactive
+1960,Tamara Reid,Melbourne,Australia,2024-01-25,2,1719.4360000000001,341,Inactive
+1082,Michael Rosario,London,UK,2024-08-10,2,1718.979,143,Inactive
+134,Bob Pitts,Chicago,USA,2022-02-26,1,1716.28,1039,Inactive
+1677,Daniel Wood,Vancouver,Canada,2024-08-13,2,1710.5075,140,Inactive
+1891,John Gardner,Munich,Germany,2022-11-21,1,1709.08,771,Inactive
+1805,Evelyn Davis,New York,USA,2022-12-22,2,1701.984,740,Inactive
+1738,Damon Powell,Sydney,Australia,2023-05-19,4,1701.463,592,Inactive
+1482,Andrew Romero,Munich,Germany,2023-09-23,2,1701.229,465,Inactive
+2324,Tammy Tyler,Los Angeles,USA,2024-01-13,2,1699.2719999999997,353,Inactive
+1693,Robert Mendez,Manchester,UK,2023-06-15,2,1695.7895,565,Inactive
+185,Jordan Bullock,Berlin,Germany,2023-10-30,2,1694.114,428,Inactive
+557,Austin Santiago,Melbourne,Australia,2024-08-10,3,1690.128,143,Inactive
+1765,Becky Singh,Toronto,Canada,2022-04-15,1,1690.0300000000002,991,Inactive
+1768,Dillon Travis,Vancouver,Canada,2023-08-22,1,1685.9499999999998,497,Inactive
+2392,Beth Shaw,Chicago,USA,2023-07-25,2,1683.3319999999999,525,Inactive
+2346,Carlos Heath,Chicago,USA,2024-09-25,3,1680.7925,97,Inactive
+2169,Roberto Glover,Mumbai,India,2022-12-19,2,1680.465,743,Inactive
+1636,Sheila Miller,Mumbai,India,2024-06-08,2,1679.6770000000001,206,Inactive
+777,Daniel Taylor,Sydney,Australia,2023-11-26,1,1678.68,401,Inactive
+1495,Jordan Wilson,Bangkok,Thailand,2024-08-05,3,1674.9734999999998,148,Inactive
+176,Lawrence Perry,London,UK,2023-09-22,3,1673.224,466,Inactive
+713,Lori Perez,Sydney,Australia,2022-02-01,1,1670.8400000000001,1064,Inactive
+7,Shannon Ray,New York,USA,2024-07-31,1,1670.3825,153,Inactive
+8,Dr. Sharon James,Vancouver,Canada,2024-03-27,2,1667.8355000000001,279,Inactive
+422,Krista Davis,Vancouver,Canada,2024-01-01,2,1667.239,365,Inactive
+968,Susan Wood,Chicago,USA,2022-05-30,2,1664.64,946,Inactive
+1043,Dylan Mills,Melbourne,Australia,2024-08-19,3,1661.6419999999998,134,Inactive
+2416,Steven Duncan,Berlin,Germany,2023-08-22,1,1654.56,497,Inactive
+1172,Katherine Frost,New York,USA,2024-04-10,2,1653.23,265,Inactive
+1809,Jake Jackson,Mumbai,India,2023-12-22,3,1651.1585,375,Inactive
+1084,Danielle Wells,Munich,Germany,2023-02-25,1,1649.208,675,Inactive
+2079,Amy Gallegos,Vancouver,Canada,2024-05-11,2,1644.45,234,Inactive
+1520,Nicholas Beard,Los Angeles,USA,2024-05-19,2,1643.8600000000001,226,Inactive
+1129,Andrea Brown,Mumbai,India,2024-07-27,3,1643.414,157,Inactive
+1959,Alexandra Harper,Melbourne,Australia,2024-04-05,1,1638.68,270,Inactive
+1906,John Morrison,Sydney,Australia,2023-11-05,2,1638.6755,422,Inactive
+1193,Mark Mcmahon,Singapore,Singapore,2024-05-08,1,1636.6,237,Inactive
+724,Ricardo Franklin,Berlin,Germany,2024-02-20,3,1632.192,315,Inactive
+782,Kevin Garrett,Toronto,Canada,2023-10-02,1,1626.828,456,Inactive
+1292,Mark Munoz,New York,USA,2023-09-04,2,1623.1725,484,Inactive
+1747,Charles Doyle,New York,USA,2023-02-15,1,1622.9665,685,Inactive
+1882,Karen Gonzalez,Munich,Germany,2023-12-10,1,1622.6889999999999,387,Inactive
+1334,Martha Mack,Paris,France,2023-01-01,2,1622.157,730,Inactive
+980,Mary Lewis,New York,USA,2024-08-12,2,1617.393,141,Inactive
+1667,Joel Sanchez,Berlin,Germany,2024-01-19,3,1609.2185,347,Inactive
+1849,Isabel Smith,Chicago,USA,2023-11-14,2,1608.94,413,Inactive
+706,Mary Lin,Munich,Germany,2024-06-30,2,1605.022,184,Inactive
+2442,Joseph Ward,Singapore,Singapore,2022-08-27,1,1598.781,857,Inactive
+397,Brittney Murphy,Singapore,Singapore,2024-09-10,1,1598.1899999999998,112,Inactive
+625,Sarah Watson,Manchester,UK,2024-06-18,2,1597.6544999999999,196,Inactive
+304,Paul Wells,Paris,France,2024-07-23,2,1596.9099999999999,161,Inactive
+324,Adam Jackson,Bangkok,Thailand,2024-09-03,3,1594.814,119,Inactive
+478,Matthew Palmer,Singapore,Singapore,2022-07-01,2,1593.1164999999999,914,Inactive
+52,Courtney Velasquez,Singapore,Singapore,2024-09-04,3,1591.599,118,Inactive
+1927,Deborah Brooks,London,UK,2024-06-13,2,1588.5545,201,Inactive
+662,Vickie Kennedy,Paris,France,2022-11-19,1,1583.9,773,Inactive
+763,Tony Brock,Munich,Germany,2024-08-31,2,1582.3039999999999,122,Inactive
+488,Robert Hines,New York,USA,2024-03-20,3,1581.211,286,Inactive
+409,Eddie Mueller,Vancouver,Canada,2024-07-02,2,1578.52,182,Inactive
+973,Gerald Mcdonald Jr.,Manchester,UK,2024-04-14,2,1578.264,261,Inactive
+975,Pam Baker,Berlin,Germany,2024-06-02,1,1574.8,212,Inactive
+332,Henry Pugh MD,Melbourne,Australia,2024-04-02,2,1574.05,273,Inactive
+1298,Adam Rivas,Bangkok,Thailand,2022-05-25,1,1571.26,951,Inactive
+1524,Brittany Snyder,Bangkok,Thailand,2023-12-05,2,1565.696,392,Inactive
+863,Brian Hernandez,Munich,Germany,2023-06-09,3,1561.6985,571,Inactive
+1285,Sherry Gibbs,Vancouver,Canada,2024-09-09,2,1561.0795,113,Inactive
+68,Jessica Meadows,New York,USA,2022-05-07,1,1559.33,969,Inactive
+2156,Debbie Rivera,Singapore,Singapore,2022-10-23,2,1554.5194999999999,800,Inactive
+2349,Jay Buchanan,Paris,France,2023-11-01,2,1554.48,426,Inactive
+1511,Billy Wallace,Melbourne,Australia,2023-08-16,2,1552.47,503,Inactive
+214,Jason Beck,Chicago,USA,2024-06-27,1,1552.0,187,Inactive
+1968,Steven Carter Jr.,New York,USA,2022-07-28,1,1549.7295,887,Inactive
+682,Kathy Sandoval,Singapore,Singapore,2023-07-13,2,1546.6715000000002,537,Inactive
+1481,Lisa Miller,Manchester,UK,2024-09-29,2,1545.99,93,Inactive
+941,Amanda Moore,Singapore,Singapore,2024-09-21,3,1545.522,101,Inactive
+440,Eric Taylor,Munich,Germany,2023-07-18,1,1544.466,532,Inactive
+2186,Ann Dawson,,Singapore,2023-08-01,3,1544.22,518,Inactive
+1713,Cathy Mcdonald,Vancouver,Canada,2023-10-02,2,1539.3310000000001,456,Inactive
+1032,Nicole Moore,Singapore,Singapore,2022-07-30,2,1537.8315,885,Inactive
+2472,Cody Jones,Mumbai,India,2023-12-06,1,1535.56,391,Inactive
+1355,Nathan Lane,Sydney,Australia,2022-11-05,1,1532.7630000000001,787,Inactive
+2125,Stanley Taylor,Berlin,Germany,2023-12-14,2,1531.762,383,Inactive
+1544,Danielle Willis,Munich,Germany,2024-02-02,2,1528.4060000000002,333,Inactive
+688,Kevin Hall,London,UK,2024-05-28,3,1526.8115,217,Inactive
+1289,Erika Potts,Los Angeles,USA,2024-08-07,1,1524.7435,146,Inactive
+382,Isaac Miller,Manchester,UK,2023-03-01,2,1523.763,671,Inactive
+2321,Shari Kelley,Vancouver,Canada,2022-03-27,1,1523.1129999999998,1010,Inactive
+1308,Bridget Hernandez,New York,USA,2023-10-20,1,1522.6190000000001,438,Inactive
+191,Larry Mason,Sydney,Australia,2023-10-28,1,1522.322,430,Inactive
+1343,Shawn Fleming,Singapore,Singapore,2024-07-05,1,1519.0700000000002,179,Inactive
+1704,Pamela Smith,Berlin,Germany,2022-01-31,1,1516.522,1065,Inactive
+2049,Scott Rodriguez,Berlin,Germany,2023-10-19,2,1516.404,439,Inactive
+875,Tammy Morgan,Chicago,USA,2022-01-25,1,1513.29,1071,Inactive
+376,Jason Hayes,Paris,France,2022-04-24,1,1512.03,982,Inactive
+2132,Erin Norris,Paris,France,2024-04-30,2,1503.768,245,Inactive
+1317,Jamie Johnson,Chicago,USA,2023-09-08,1,1502.076,480,Inactive
+1934,Carmen Vasquez,New York,USA,2024-05-12,2,1500.059,233,Inactive
+534,Mr. Thomas Thompson,Paris,France,2023-02-15,2,1498.313,685,Inactive
+1332,Robert Hernandez,Bangkok,Thailand,2024-04-03,1,1496.856,272,Inactive
+292,Kimberly Brown,London,UK,2024-02-13,2,1494.65,322,Inactive
+2159,Wendy Morgan,London,UK,2024-06-20,1,1494.01,194,Inactive
+1824,Janice Bell,Bangkok,Thailand,2024-02-28,1,1493.406,307,Inactive
+865,Dorothy Brown,Chicago,USA,2024-09-14,2,1492.65,108,Inactive
+1310,Heather Snyder,Mumbai,India,2024-07-28,2,1490.1619999999998,156,Inactive
+305,Kristina Faulkner,Sydney,Australia,2024-08-09,2,1485.86,144,Inactive
+1961,Andre Haynes,Toronto,Canada,2022-10-09,1,1480.8039999999999,814,Inactive
+840,Tammy Thompson,Singapore,Singapore,2024-05-22,1,1477.682,223,Inactive
+958,Lorraine Gibbs,Paris,France,2024-08-24,2,1475.86,129,Inactive
+1497,James Wallace,Vancouver,Canada,2024-06-24,1,1468.927,190,Inactive
+516,Meghan White,Vancouver,Canada,2024-03-26,3,1467.28,280,Inactive
+1980,Karen Lewis,Los Angeles,USA,2024-02-08,1,1464.16,327,Inactive
+2270,Melissa Carroll,Berlin,Germany,2023-03-09,1,1459.52,663,Inactive
+1881,Rickey Hall,Berlin,Germany,2022-12-15,4,1458.9279999999999,747,Inactive
+1874,Debra Brooks,Chicago,USA,2023-09-21,2,1454.68,467,Inactive
+2016,Linda Patrick,Vancouver,Canada,2023-04-30,2,1450.6100000000001,611,Inactive
+1231,Angel Bautista,London,UK,2024-02-28,2,1447.474,307,Inactive
+743,Lisa Rodriguez,Paris,France,2024-06-30,3,1444.2665,184,Inactive
+1457,James Marsh,Sydney,Australia,2022-03-24,1,1439.912,1013,Inactive
+1588,Erin Mason,London,UK,2024-02-24,1,1437.54,311,Inactive
+1467,David Johnson,Toronto,Canada,2022-11-19,1,1437.0605,773,Inactive
+2028,Jennifer Gordon,,Canada,2024-01-18,1,1434.834,348,Inactive
+2494,Jessica Mcgee,Paris,France,2024-08-18,1,1432.3200000000002,135,Inactive
+259,Ronald Patel,Munich,Germany,2024-02-14,3,1431.4395,321,Inactive
+2440,Jonathan Palmer,,India,2022-10-28,2,1428.574,795,Inactive
+2000,Jeffrey Edwards,London,UK,2024-01-09,2,1426.812,357,Inactive
+419,John Phelps,New York,USA,2024-09-15,1,1426.6060000000002,107,Inactive
+1513,Richard Rogers,New York,USA,2024-04-03,2,1418.5140000000001,272,Inactive
+1086,Sydney Bennett,Melbourne,Australia,2023-06-22,1,1418.1689999999999,558,Inactive
+778,Jean Lane,Sydney,Australia,2024-05-22,2,1415.1580000000001,223,Inactive
+2151,Larry Howe,Chicago,USA,2022-12-31,1,1409.852,731,Inactive
+692,Sarah Mcfarland,Chicago,USA,2024-04-05,1,1408.27,270,Inactive
+31,Angela Morton,Melbourne,Australia,2023-04-26,2,1405.864,615,Inactive
+1825,Kelly Thompson,Sydney,Australia,2024-07-01,2,1405.6979999999999,183,Inactive
+602,Adrienne Mills,Sydney,Australia,2023-11-08,2,1404.8775,419,Inactive
+774,Kimberly Young,Munich,Germany,2024-04-23,1,1403.469,252,Inactive
+653,Miguel Brewer,Singapore,Singapore,2024-07-07,2,1398.9765000000002,177,Inactive
+2080,Ethan Garza,Manchester,UK,2023-09-19,3,1396.3319999999999,469,Inactive
+1838,Jessica Hammond,Bangkok,Thailand,2024-01-17,1,1396.212,349,Inactive
+393,Ryan Fisher,Berlin,Germany,2023-09-06,3,1389.9235,482,Inactive
+1703,Abigail Case,Paris,France,2023-03-25,1,1385.1105,647,Inactive
+1206,Veronica Flores,Mumbai,India,2024-03-31,2,1384.6455,275,Inactive
+859,Mrs. Ashley Mendoza,Paris,France,2022-05-19,1,1380.643,957,Inactive
+796,Christopher Vargas,Bangkok,Thailand,2024-08-01,2,1379.2279999999998,152,Inactive
+655,Barry Taylor,Toronto,Canada,2023-03-08,2,1376.195,664,Inactive
+1349,Heather Jordan,Melbourne,Australia,2023-03-02,1,1373.7,670,Inactive
+1318,Angela Monroe,Melbourne,Australia,2024-04-22,2,1372.288,253,Inactive
+1229,Daniel Martin,Manchester,UK,2023-08-25,1,1372.272,494,Inactive
+1060,Susan Smith,Vancouver,Canada,2023-07-26,2,1370.5115,524,Inactive
+524,Jillian Wilson,Chicago,USA,2023-11-11,2,1369.8894999999998,416,Inactive
+452,Colton Terry,Manchester,UK,2022-10-09,2,1369.1775,814,Inactive
+116,April Booth,Berlin,Germany,2023-05-02,1,1366.46,609,Inactive
+1499,Leslie Todd,Manchester,UK,2024-05-04,2,1362.951,241,Inactive
+603,Brian Simmons,Berlin,Germany,2024-09-14,2,1359.76,108,Inactive
+63,Frances Cardenas,Singapore,Singapore,2024-04-16,1,1357.6885,259,Inactive
+1204,Brandon Davis,London,UK,2024-07-26,2,1357.55,158,Inactive
+254,Chloe Tran,Berlin,Germany,2023-01-31,2,1357.21,700,Inactive
+2450,Miss Kathryn Myers,Berlin,Germany,2024-05-12,1,1353.9360000000001,233,Inactive
+2076,Natasha Hill,Berlin,Germany,2024-09-24,2,1351.474,98,Inactive
+273,Vanessa Moore,New York,USA,2024-01-13,2,1350.3075000000001,353,Inactive
+81,Cynthia Wells,Sydney,Australia,2024-04-28,2,1348.896,247,Inactive
+155,Gavin Zhang,Melbourne,Australia,2022-12-13,1,1348.01,749,Inactive
+1076,Megan Morrison,Melbourne,Australia,2023-05-30,3,1345.408,581,Inactive
+1323,Michelle Henderson,New York,USA,2023-11-16,1,1339.801,411,Inactive
+1386,Juan Phillips,Vancouver,Canada,2022-03-10,1,1339.416,1027,Inactive
+40,Kristine Garcia,Bangkok,Thailand,2024-08-31,1,1338.7055,122,Inactive
+1529,Lynn Yang,Singapore,Singapore,2023-11-22,2,1338.067,405,Inactive
+837,Julie Sims,Chicago,USA,2024-07-28,2,1337.535,156,Inactive
+739,Thomas Williams,Bangkok,Thailand,2023-05-10,1,1335.1299999999999,601,Inactive
+648,Joyce Curry,Singapore,Singapore,2024-07-01,4,1331.877,183,Inactive
+2291,Dr. Diana Chen,Chicago,USA,2023-12-25,2,1330.11,372,Inactive
+2208,Scott Durham,Manchester,UK,2024-07-01,2,1328.3944999999999,183,Inactive
+1737,Natalie Patrick,Munich,Germany,2023-09-30,1,1325.05,458,Inactive
+2204,Gilbert Williams,Sydney,Australia,2024-05-09,3,1322.2060000000001,236,Inactive
+1666,Cynthia Kennedy,Bangkok,Thailand,2024-09-23,4,1318.98,99,Inactive
+737,Kyle Smith,Paris,France,2024-01-09,1,1318.2705,357,Inactive
+323,Shannon Malone,New York,USA,2022-03-24,1,1317.7855,1013,Inactive
+1700,Sarah Bishop,Paris,France,2024-08-06,1,1316.722,147,Inactive
+492,Brittany Gay,,Australia,2023-12-25,1,1316.68,372,Inactive
+2249,Kimberly Mcdowell,Berlin,Germany,2022-11-27,2,1315.3695,765,Inactive
+1956,Thomas Neal MD,Sydney,Australia,2024-10-01,2,1314.423,91,Inactive
+1051,Nina Bernard,Chicago,USA,2022-02-12,1,1313.806,1053,Inactive
+2342,Kimberly Hughes,Sydney,Australia,2024-01-25,2,1312.4470000000001,341,Inactive
+1580,Austin Rowland,Singapore,Singapore,2023-05-07,2,1312.44,604,Inactive
+1405,Amanda Williams,Melbourne,Australia,2024-04-08,3,1307.5045,267,Inactive
+412,Oscar Parker,Sydney,Australia,2024-07-18,2,1306.952,166,Inactive
+1571,Johnny Jenkins,Munich,Germany,2024-01-03,2,1304.4424999999999,363,Inactive
+967,Chelsey White,Singapore,Singapore,2024-01-12,2,1303.5665000000001,354,Inactive
+934,Elizabeth Brock,Munich,Germany,2023-12-21,3,1302.767,376,Inactive
+197,James Conner,Berlin,Germany,2023-02-06,2,1287.83,694,Inactive
+2279,Frank Freeman,Mumbai,India,2024-05-21,1,1287.247,224,Inactive
+2359,Jeffery Jordan,Melbourne,Australia,2024-02-20,2,1286.954,315,Inactive
+119,Anna Gay,Melbourne,Australia,2024-07-23,2,1280.6275,161,Inactive
+135,David Scott,Bangkok,Thailand,2024-03-06,2,1280.395,300,Inactive
+997,Shelby Lopez,Singapore,Singapore,2024-10-02,2,1280.3680000000002,90,Inactive
+1795,William Mueller,Chicago,USA,2022-12-29,2,1277.976,733,Inactive
+401,Patricia Johnson,Mumbai,India,2023-10-06,1,1277.44,452,Inactive
+1091,Adam Reeves,,Germany,2022-05-10,1,1275.95,966,Inactive
+472,Samantha Robertson,Mumbai,India,2024-09-17,3,1275.1685,105,Inactive
+125,Reginald Williams,Los Angeles,USA,2024-07-20,2,1275.08,164,Inactive
+34,Michael Cross,Los Angeles,USA,2024-02-20,2,1270.7759999999998,315,Inactive
+1756,Ryan Walker,Toronto,Canada,2024-09-25,3,1269.927,97,Inactive
+2230,Anthony Wong,Singapore,Singapore,2024-04-20,1,1269.917,255,Inactive
+1745,Diane Gilbert,Bangkok,Thailand,2023-03-07,1,1267.83,665,Inactive
+544,Rebecca Horton,Paris,France,2024-04-28,2,1264.6205,247,Inactive
+2155,Lisa Wilkerson,Vancouver,Canada,2024-07-04,2,1259.08,180,Inactive
+203,Vincent Mueller,Sydney,Australia,2024-08-23,1,1256.716,130,Inactive
+2242,Michael Phillips,Berlin,Germany,2023-04-29,2,1256.556,612,Inactive
+2464,Joshua Phillips,Singapore,Singapore,2024-01-04,2,1249.43,362,Inactive
+1822,Dr. Dustin Sutton Jr.,Melbourne,Australia,2023-05-02,3,1249.3025,609,Inactive
+892,Catherine Davis,Bangkok,Thailand,2024-06-07,2,1244.56,207,Inactive
+539,Melissa Morris,Berlin,Germany,2023-03-24,1,1244.239,648,Inactive
+336,Linda Mueller,Singapore,Singapore,2024-06-24,2,1243.67,190,Inactive
+1137,Jennifer Bautista,Vancouver,Canada,2023-06-03,2,1241.142,577,Inactive
+1915,Charles Decker,Munich,Germany,2024-05-05,3,1240.705,240,Inactive
+1925,Christine Aguilar,Bangkok,Thailand,2023-06-24,2,1240.398,556,Inactive
+717,Ryan Thomas,Singapore,Singapore,2024-08-24,2,1239.9305,129,Inactive
+236,Dr. Cynthia Snyder,Paris,France,2023-08-20,3,1235.7725,499,Inactive
+1535,Gregory Martin,Singapore,Singapore,2024-05-23,1,1234.993,222,Inactive
+694,Nicole Johnston,London,UK,2024-10-01,1,1232.71,91,Inactive
+2089,Margaret Jones,Sydney,Australia,2023-12-08,1,1230.2435,389,Inactive
+887,John Watts,Chicago,USA,2022-05-31,1,1230.17,945,Inactive
+1724,Joseph Blackburn,Munich,Germany,2024-01-22,3,1225.2265,344,Inactive
+1348,Jesse Gardner,Vancouver,Canada,2024-02-20,1,1225.2199999999998,315,Inactive
+1955,Ashley Bowman,Los Angeles,USA,2024-06-16,1,1222.03,198,Inactive
+712,Steven Sandoval,Sydney,Australia,2023-04-20,1,1218.833,621,Inactive
+905,Daniel Gordon,Toronto,Canada,2023-02-13,1,1218.33,687,Inactive
+505,Lisa Haynes,Berlin,Germany,2024-09-11,2,1215.884,111,Inactive
+1428,John Bell,Mumbai,India,2022-08-20,1,1212.1940000000002,864,Inactive
+2388,Jennifer Carter,Munich,Germany,2022-08-26,1,1209.115,858,Inactive
+1324,Beth Lewis,Vancouver,Canada,2024-07-07,4,1208.4205,177,Inactive
+1484,Alicia Olson,Bangkok,Thailand,2024-02-17,2,1208.3604999999998,318,Inactive
+2171,Henry Lutz,Melbourne,Australia,2023-07-27,1,1208.1299999999999,523,Inactive
+139,Melissa Garner,New York,USA,2024-02-27,1,1204.9289999999999,308,Inactive
+742,John Martinez,Paris,France,2023-05-18,2,1199.36,593,Inactive
+2008,Jennifer Wallace,Chicago,USA,2024-05-22,2,1199.114,223,Inactive
+2329,Wendy Miller,Singapore,Singapore,2024-06-11,2,1195.0725,203,Inactive
+1297,Joseph Acosta,Chicago,USA,2023-03-05,1,1189.7,667,Inactive
+1807,Sherry Porter,London,UK,2023-04-17,1,1188.63,624,Inactive
+1899,Eric Moore,Bangkok,Thailand,2024-04-07,2,1188.054,268,Inactive
+411,Makayla Steele,Bangkok,Thailand,2024-03-28,1,1187.21,278,Inactive
+2459,Leah Kim,Berlin,Germany,2023-09-08,2,1179.452,480,Inactive
+1806,Jane Wells,Singapore,Singapore,2023-08-19,2,1177.631,500,Inactive
+2286,Joseph Bright,Singapore,Singapore,2024-04-28,3,1173.4045,247,Inactive
+2492,Michael Jones,Paris,France,2023-07-16,1,1171.9199999999998,534,Inactive
+61,Richard Lawson,Munich,Germany,2024-06-19,2,1171.911,195,Inactive
+1376,Jesse Welch,Los Angeles,USA,2024-02-22,2,1170.829,313,Inactive
+1175,James Coleman,Berlin,Germany,2023-01-09,2,1165.78,722,Inactive
+542,Miss Brianna Brown,Munich,Germany,2022-05-26,1,1161.4245,950,Inactive
+485,Jason Price,Mumbai,India,2022-09-02,1,1158.6509999999998,851,Inactive
+2088,Jeffery Daniel,Singapore,Singapore,2024-08-01,2,1157.6599999999999,152,Inactive
+1016,Rachel Hammond PhD,Melbourne,Australia,2024-07-06,1,1157.49,178,Inactive
+771,Bethany Garcia,New York,USA,2024-03-05,1,1156.4534999999998,301,Inactive
+517,Sheryl Acosta,Berlin,Germany,2023-05-08,1,1155.3390000000002,603,Inactive
+1423,Eric Knox,Manchester,UK,2023-07-30,3,1147.9089999999999,520,Inactive
+1846,Diane Jensen,Manchester,UK,2022-09-28,1,1142.276,825,Inactive
+1896,Tyler Dunn,New York,USA,2024-04-26,3,1136.8925,249,Inactive
+1283,Kayla Jones,Vancouver,Canada,2023-10-27,1,1135.22,431,Inactive
+1692,Adam Jordan,Singapore,Singapore,2024-09-16,1,1133.62,106,Inactive
+114,Shannon Rivera,Paris,France,2024-09-27,1,1131.15,95,Inactive
+1558,Victoria Massey,Sydney,Australia,2023-01-11,1,1130.31,720,Inactive
+792,Jose Harrison,Manchester,UK,2024-01-24,2,1129.118,342,Inactive
+188,Jeremy Turner,London,UK,2023-05-28,2,1121.868,583,Inactive
+728,Louis Brown,Munich,Germany,2024-05-27,2,1118.789,218,Inactive
+2091,Ralph Chan,Paris,France,2023-07-25,2,1112.028,525,Inactive
+390,Bradley Tran,Melbourne,Australia,2023-09-13,2,1111.691,475,Inactive
+1789,Tricia Nguyen,Singapore,Singapore,2024-09-25,3,1110.089,97,Inactive
+1621,Gary Choi,Toronto,Canada,2023-06-23,1,1109.58,557,Inactive
+567,Patrick Swanson,Los Angeles,USA,2023-04-27,2,1108.554,614,Inactive
+267,Courtney Dudley,Munich,Germany,2024-06-30,2,1099.3815,184,Inactive
+1888,Gregory Quinn,Los Angeles,USA,2023-08-27,1,1097.34,492,Inactive
+1567,Willie Luna,Singapore,Singapore,2023-03-14,2,1096.572,658,Inactive
+2437,Dawn Espinoza,,UK,2024-03-13,2,1093.665,293,Inactive
+828,Christopher Garza,Mumbai,India,2023-12-25,2,1092.41,372,Inactive
+1279,John Juarez,Vancouver,Canada,2023-10-19,2,1089.259,439,Inactive
+182,Brian Smith,Sydney,Australia,2024-07-09,1,1086.858,175,Inactive
+2347,Melinda May,Berlin,Germany,2024-01-19,2,1085.078,347,Inactive
+951,James Fowler,Singapore,Singapore,2023-09-18,1,1084.25,470,Inactive
+1517,Yolanda Mccoy,Mumbai,India,2024-08-24,2,1080.38,129,Inactive
+454,Matthew Greene,Los Angeles,USA,2024-08-02,2,1079.776,151,Inactive
+2236,Tara Jones,Toronto,Canada,2024-09-14,3,1077.888,108,Inactive
+2393,Lisa Beard,Singapore,Singapore,2024-06-11,2,1076.1815,203,Inactive
+1983,Jennifer Goodwin,Los Angeles,USA,2024-03-02,1,1075.01,304,Inactive
+2266,Chris Hanson,Los Angeles,USA,2024-08-03,1,1074.276,150,Inactive
+1452,Aaron Munoz,Bangkok,Thailand,2023-06-14,2,1073.84,566,Inactive
+2404,Ryan Garcia,Munich,Germany,2022-08-23,1,1066.46,861,Inactive
+537,Stacey Hunt,New York,USA,2024-02-04,1,1065.24,331,Inactive
+770,John Bell,Vancouver,Canada,2024-06-25,2,1062.92,189,Inactive
+1019,Bruce Harris,Toronto,Canada,2023-02-08,1,1062.1505,692,Inactive
+2222,Gloria Dunn,Los Angeles,USA,2023-08-03,2,1060.82,516,Inactive
+1176,Megan Terry,Singapore,Singapore,2023-07-09,2,1055.7365,541,Inactive
+874,Michael Wells,Paris,France,2024-07-09,1,1055.694,175,Inactive
+1102,Daniel Green,Vancouver,Canada,2024-01-20,1,1054.1009999999999,346,Inactive
+1409,Mr. Ralph Dawson,Toronto,Canada,2024-04-23,1,1051.379,252,Inactive
+1506,Dr. Daniel Brown,Munich,Germany,2024-04-30,1,1047.69,245,Inactive
+2340,April Galvan,Bangkok,Thailand,2024-02-15,2,1039.394,320,Inactive
+914,Dr. Ralph Wheeler DDS,Munich,Germany,2024-04-20,1,1037.413,255,Inactive
+1465,Brian Villa,Mumbai,India,2024-04-05,2,1037.077,270,Inactive
+1272,Maria Torres,Mumbai,India,2024-05-09,2,1035.8415,236,Inactive
+2058,Tamara Graves,,Canada,2023-09-02,1,1030.52,486,Inactive
+808,Angelica Jacobs,Toronto,Canada,2023-07-07,1,1029.46,543,Inactive
+283,Melissa Brown,New York,USA,2024-09-22,2,1026.328,100,Inactive
+1709,Thomas Rodriguez,Berlin,Germany,2022-05-25,1,1023.332,951,Inactive
+2025,Michael Reeves,Munich,Germany,2024-09-26,1,1020.78,96,Inactive
+1368,Jennifer Ayers,New York,USA,2024-07-04,1,1018.6500000000001,180,Inactive
+346,David Moore,Bangkok,Thailand,2023-12-23,2,1015.0,374,Inactive
+1181,Debra Clark,Berlin,Germany,2024-03-08,2,1010.098,298,Inactive
+1425,Dennis Jones,London,UK,2024-05-14,2,1004.6815,231,Inactive
+2106,Emily Martinez,Chicago,USA,2024-06-06,2,1002.766,208,Inactive
+1254,Danielle Ryan,Melbourne,Australia,2022-02-22,1,1000.997,1043,Inactive
+2420,Edward Richmond,Mumbai,India,2024-06-17,1,1000.6634999999999,197,Inactive
+622,Travis Vega,Berlin,Germany,2022-06-06,1,996.6700000000001,939,Inactive
+2223,Jessica Adams,Sydney,Australia,2023-08-28,2,995.243,491,Inactive
+1982,Angel Martin DDS,Singapore,Singapore,2023-10-17,1,993.6,441,Inactive
+714,Erin Daniels,Paris,France,2023-09-18,2,992.792,470,Inactive
+479,Alejandra King,Los Angeles,USA,2024-09-22,1,992.3275,100,Inactive
+1976,Craig Keller,,Germany,2024-07-25,2,986.7445,159,Inactive
+113,Robert Costa,London,UK,2023-09-22,2,985.188,466,Inactive
+1589,Heather Roberson,Vancouver,Canada,2024-07-25,1,985.046,159,Inactive
+1723,Michelle Ray,Manchester,UK,2023-05-05,1,979.3725,606,Inactive
+620,Harry Nichols,Mumbai,India,2024-06-13,1,977.6890000000001,201,Inactive
+41,Sherry Wood,Singapore,Singapore,2023-11-26,1,976.57,401,Inactive
+1004,Scott Richards,Singapore,Singapore,2024-04-25,2,974.54,250,Inactive
+2061,Kelly Decker,London,UK,2023-07-13,2,973.9839999999999,537,Inactive
+335,Brandon Jordan,Los Angeles,USA,2022-06-24,2,973.3,921,Inactive
+2288,Hannah Martin,Chicago,USA,2024-03-11,1,971.001,295,Inactive
+238,Patricia Morrow,New York,USA,2022-04-07,1,970.345,999,Inactive
+180,Mary Gomez,Mumbai,India,2023-07-28,1,967.038,522,Inactive
+595,James Rodriguez,Melbourne,Australia,2023-07-28,1,966.7239999999999,522,Inactive
+1509,Shannon Riley,Paris,France,2022-08-18,1,963.201,866,Inactive
+510,David Hall,Toronto,Canada,2024-03-14,2,959.5719999999999,292,Inactive
+1746,Michael Murray,Los Angeles,USA,2023-11-25,1,958.352,402,Inactive
+2137,Zachary Jones,Bangkok,Thailand,2022-11-09,1,950.2805000000001,783,Inactive
+38,Kevin Mills,Munich,Germany,2024-06-08,2,945.4364999999999,206,Inactive
+1879,Tracie Costa,,Canada,2024-05-09,1,943.9,236,Inactive
+1649,Denise Ford,Sydney,Australia,2024-02-25,1,942.96,310,Inactive
+1847,David Baird DDS,Vancouver,Canada,2023-10-26,1,942.6255,432,Inactive
+1873,Kenneth Turner,New York,USA,2023-02-21,1,942.0545,679,Inactive
+2251,Jessica Becker,Los Angeles,USA,2024-08-16,1,941.4105000000001,137,Inactive
+1904,Crystal Watkins,New York,USA,2022-11-23,3,939.5659999999999,769,Inactive
+2211,Michelle Chavez,Mumbai,India,2022-09-17,1,939.086,836,Inactive
+1919,Jason Potter,Paris,France,2023-07-03,2,935.9839999999999,547,Inactive
+514,James Jefferson,Chicago,USA,2023-07-20,3,935.1395,530,Inactive
+1555,Kimberly Chan,Chicago,USA,2024-05-28,2,933.4499999999999,217,Inactive
+138,Ian Phillips,Mumbai,India,2023-10-07,1,932.57,451,Inactive
+2331,Toni Ortiz,Toronto,Canada,2024-09-11,1,932.09,111,Inactive
+2020,Cynthia Morton,Toronto,Canada,2023-12-02,1,930.086,395,Inactive
+1722,Daniel Craig,Melbourne,Australia,2023-12-30,1,929.35,367,Inactive
+1250,Breanna Jimenez,Vancouver,Canada,2024-08-27,2,928.74,126,Inactive
+2194,Jacob Conner,London,UK,2024-05-08,2,928.287,237,Inactive
+1716,Whitney Moyer,London,UK,2024-05-27,3,927.4110000000001,218,Inactive
+834,Devin Cole,Mumbai,India,2024-01-25,1,925.2719999999999,341,Inactive
+1486,Greg Hull,Sydney,Australia,2023-04-16,1,924.1755,625,Inactive
+23,Lisa Brandt,Sydney,Australia,2024-07-12,2,922.889,172,Inactive
+1472,Kathleen Collier,Melbourne,Australia,2024-07-31,1,921.24,153,Inactive
+1615,Aimee Fisher,Vancouver,Canada,2022-06-12,2,920.6500000000001,933,Inactive
+1844,James Hart,Berlin,Germany,2023-07-11,2,920.562,539,Inactive
+183,Anita Richard,Munich,Germany,2022-04-28,1,919.593,978,Inactive
+434,Rebecca Kelly,Manchester,UK,2024-07-31,1,919.5085,153,Inactive
+1946,John Martin,Chicago,USA,2023-11-17,1,915.01,410,Inactive
+2451,Kayla Williams,Toronto,Canada,2022-08-25,1,911.2465,859,Inactive
+2215,Jonathan Collins,Bangkok,Thailand,2022-10-12,1,908.4999999999999,811,Inactive
+2022,Joseph Lopez,Vancouver,Canada,2023-11-29,1,908.3899999999999,398,Inactive
+582,Philip Hall,Manchester,UK,2023-07-19,2,903.47,531,Inactive
+1945,Michele Conner,London,UK,2023-12-05,1,903.1800000000001,392,Inactive
+151,Kimberly Matthews,Melbourne,Australia,2024-01-30,1,902.9939999999999,336,Inactive
+672,Patty Allen,Munich,Germany,2023-09-12,1,902.592,476,Inactive
+610,Linda Bautista,New York,USA,2024-08-10,1,902.079,143,Inactive
+2441,David Santiago,Paris,France,2022-11-30,2,899.837,762,Inactive
+388,Tamara Jensen,Bangkok,Thailand,2022-09-10,2,896.4075,843,Inactive
+127,Evelyn Garcia,Paris,France,2024-08-28,2,893.86,125,Inactive
+799,Mark Clark,London,UK,2023-12-13,2,893.8275,384,Inactive
+529,Jacqueline Rodriguez,Melbourne,Australia,2023-03-09,1,892.1800000000001,663,Inactive
+1609,Curtis Krause,Bangkok,Thailand,2023-11-05,2,890.49,422,Inactive
+1616,John Lopez,London,UK,2022-05-02,1,887.08,974,Inactive
+2276,Wayne Jackson,London,UK,2024-08-12,1,881.38,141,Inactive
+1817,Katherine Bauer,Chicago,USA,2024-02-28,2,880.17,307,Inactive
+159,Kelly Reese,Manchester,UK,2024-04-17,2,877.253,258,Inactive
+527,Sarah Rivera,Manchester,UK,2023-08-18,3,875.1479999999999,501,Inactive
+506,Autumn Wilson,London,UK,2024-06-24,2,866.4565,190,Inactive
+490,Julie Wilson,Los Angeles,USA,2024-03-14,2,864.9845,292,Inactive
+2168,Jason Salinas,Berlin,Germany,2024-08-09,1,863.83,144,Inactive
+258,Brenda Velazquez,,Thailand,2023-07-29,2,863.6359999999999,521,Inactive
+520,Danielle Reed,Vancouver,Canada,2024-09-13,2,862.766,109,Inactive
+1088,Jennifer Williamson,Los Angeles,USA,2023-07-24,1,862.37,526,Inactive
+2363,Jeffery Collins,Vancouver,Canada,2024-08-07,1,861.59,146,Inactive
+49,Stacey Russell,Bangkok,Thailand,2024-01-10,1,859.22,356,Inactive
+2087,Alicia Anderson,Mumbai,India,2024-04-02,2,858.1475,273,Inactive
+2448,Jane King,New York,USA,2024-05-19,2,856.03,226,Inactive
+1095,Jonathon Conley,Paris,France,2022-12-13,1,855.684,749,Inactive
+1164,Brenda Harris,Bangkok,Thailand,2024-05-17,1,855.4625,228,Inactive
+1338,Emily Dillon,New York,USA,2022-05-03,1,852.9200000000001,973,Inactive
+356,Charlotte Sandoval,Paris,France,2024-02-02,2,852.4159999999999,333,Inactive
+1855,Curtis Morgan,Paris,France,2023-11-13,1,850.7909999999999,414,Inactive
+2206,Victoria Guerra,Manchester,UK,2023-12-21,2,850.7279999999998,376,Inactive
+1404,Robin Cabrera,Vancouver,Canada,2023-11-23,1,850.7,404,Inactive
+1914,Kevin Morris,Melbourne,Australia,2023-06-04,2,848.1200000000001,576,Inactive
+447,Stacey Snyder,Berlin,Germany,2023-01-29,1,846.403,702,Inactive
+910,Mrs. Shannon Jacobson,Bangkok,Thailand,2023-07-30,1,842.51,520,Inactive
+375,Sandra Juarez,Singapore,Singapore,2024-02-09,3,841.034,326,Inactive
+983,Michael Castillo,Bangkok,Thailand,2024-02-11,2,841.0224999999999,324,Inactive
+342,Ernest Oconnell,Sydney,Australia,2022-06-15,2,839.0799999999999,930,Inactive
+247,Mr. Lawrence Edwards,London,UK,2023-01-04,2,838.128,727,Inactive
+92,Jason Peters,Mumbai,India,2024-08-11,1,835.5799999999999,142,Inactive
+1690,Brett Keith,Los Angeles,USA,2024-09-23,1,835.068,99,Inactive
+1887,Adam Zamora,Toronto,Canada,2024-01-30,2,833.6885,336,Inactive
+1122,Emily Lopez,New York,USA,2023-10-28,1,829.9360000000001,430,Inactive
+2483,Sarah Blackwell,Toronto,Canada,2024-04-24,2,829.416,251,Inactive
+1986,Kyle Roberts,Los Angeles,USA,2023-04-01,1,828.8085,640,Inactive
+765,Michael Vance,London,UK,2023-07-24,3,828.55,526,Inactive
+463,Deanna Bartlett,Singapore,Singapore,2024-06-07,3,828.1339999999999,207,Inactive
+1987,Michele Waters,London,UK,2024-08-23,1,827.8969999999999,130,Inactive
+907,Brian Rollins,Berlin,Germany,2024-07-15,2,826.5619999999999,169,Inactive
+2449,Jerry Boyd,Melbourne,Australia,2023-10-11,2,824.85,447,Inactive
+1491,Shannon Wallace,Chicago,USA,2023-06-15,1,811.566,565,Inactive
+1731,Theresa Smith,New York,USA,2024-05-14,1,807.33,231,Inactive
+1395,Rhonda Powers,Paris,France,2024-03-22,1,806.3639999999999,284,Inactive
+851,Joseph Mendoza,London,UK,2024-09-06,2,804.467,116,Inactive
+831,Donald Todd,Toronto,Canada,2022-10-30,1,797.3765000000001,793,Inactive
+667,Ashley Freeman,Chicago,USA,2024-08-26,1,797.13,127,Inactive
+2430,Crystal Nguyen,Melbourne,Australia,2023-05-29,2,794.71,582,Inactive
+1828,Abigail Allen,Chicago,USA,2024-01-14,2,794.6289999999999,352,Inactive
+2187,Lisa Gonzalez,Mumbai,India,2022-02-25,1,790.12,1040,Inactive
+2154,Brandy Holmes,Toronto,Canada,2022-10-29,1,785.094,794,Inactive
+1682,Mr. James Barnett,Toronto,Canada,2023-09-13,2,783.389,475,Inactive
+128,Jennifer Pena,Vancouver,Canada,2024-03-13,1,782.811,293,Inactive
+1908,Roger Olson,London,UK,2023-05-29,2,781.3099999999998,582,Inactive
+1553,Evan Myers,Berlin,Germany,2022-09-08,2,779.7560000000001,845,Inactive
+83,Alexander Collins,Manchester,UK,2024-02-29,2,779.5600000000001,306,Inactive
+1644,Sonia Reyes,Manchester,UK,2024-02-11,1,774.231,324,Inactive
+1371,Jenna Jensen,Los Angeles,USA,2024-03-12,2,771.3449999999999,294,Inactive
+2478,Jennifer Sampson,New York,USA,2024-02-22,1,770.6300000000001,313,Inactive
+2353,Ashlee Ross,Munich,Germany,2024-04-13,1,767.7950000000001,262,Inactive
+1113,Brandy Miller,Los Angeles,USA,2023-05-02,1,765.54,609,Inactive
+719,Phillip Salazar,Paris,France,2024-02-15,1,760.46,320,Inactive
+2096,Connor Walsh,Sydney,Australia,2024-02-19,1,756.22,316,Inactive
+894,Joseph Watson,Vancouver,Canada,2023-12-15,1,754.14,382,Inactive
+39,Michael Evans,Bangkok,Thailand,2024-03-27,1,753.5305,279,Inactive
+218,Carrie Maxwell,Berlin,Germany,2023-05-01,1,751.6735,610,Inactive
+2379,Sophia Boyd,Singapore,Singapore,2024-04-16,2,751.54,259,Inactive
+2090,Andrea Townsend,Manchester,UK,2023-11-24,1,747.771,403,Inactive
+2429,William Gould,Vancouver,Canada,2024-06-11,1,747.3815,203,Inactive
+1619,Jeffery Adams,Toronto,Canada,2023-01-09,1,746.2230000000001,722,Inactive
+2207,Julian Leon,Bangkok,Thailand,2022-08-11,2,746.1975,873,Inactive
+2030,Alexander Freeman,London,UK,2024-06-11,1,745.6,203,Inactive
+221,Matthew Mitchell,,Singapore,2022-03-16,1,740.18,1021,Inactive
+1910,Antonio Dyer,Singapore,Singapore,2024-01-31,1,739.72,335,Inactive
+2254,Angelica Long,Manchester,UK,2024-06-22,1,739.578,192,Inactive
+271,Melissa Taylor,London,UK,2023-10-19,1,737.877,439,Inactive
+2354,Kelly Burnett,Chicago,USA,2022-01-30,1,735.48,1066,Inactive
+1026,Margaret Orr,Los Angeles,USA,2024-07-20,3,733.743,164,Inactive
+1389,Denise Flores,Melbourne,Australia,2023-02-26,1,729.041,674,Inactive
+1189,Jacob Wu,Vancouver,Canada,2023-07-06,1,727.02,544,Inactive
+1695,Joseph Peterson,Vancouver,Canada,2023-04-27,1,727.02,614,Inactive
+99,Beth Oneill,,India,2022-11-23,1,726.578,769,Inactive
+1606,Tracy Wang,Mumbai,India,2024-09-27,1,725.1400000000001,95,Inactive
+464,Donald Ellis,Sydney,Australia,2024-03-19,1,723.46,287,Inactive
+1185,Steven Ortiz,Berlin,Germany,2022-07-06,1,721.4300000000001,909,Inactive
+1500,Tanya Goodwin,Chicago,USA,2023-07-03,3,719.8550000000001,547,Inactive
+1241,Nicholas Parker,Sydney,Australia,2023-08-06,1,717.8439999999999,513,Inactive
+421,Megan Green,London,UK,2022-09-18,1,717.338,835,Inactive
+1583,Marcus Powell,,Germany,2023-01-19,1,717.32,712,Inactive
+753,Andre Terrell,Munich,Germany,2023-12-01,2,716.2375000000001,396,Inactive
+208,Zachary Brooks,Sydney,Australia,2024-08-06,2,714.5894999999999,147,Inactive
+640,Logan Sullivan,,Australia,2024-04-08,1,712.74,267,Inactive
+1730,Emily Lee,Bangkok,Thailand,2023-10-16,1,711.68,442,Inactive
+205,David Davidson,Sydney,Australia,2023-03-30,1,705.4635,642,Inactive
+681,Megan Park,Los Angeles,USA,2023-08-18,1,705.328,501,Inactive
+2045,Katherine Miller,Vancouver,Canada,2024-03-02,1,703.658,304,Inactive
+1062,Dr. Kimberly Henderson,Munich,Germany,2024-10-02,1,701.109,90,Inactive
+497,Michael Sims,Singapore,Singapore,2023-01-30,2,700.06,701,Inactive
+403,Carol Moore,Singapore,Singapore,2023-07-05,1,695.388,545,Inactive
+841,Leslie Nguyen,Chicago,USA,2023-09-28,2,693.111,460,Inactive
+924,Heather Levine,Manchester,UK,2023-03-25,1,692.2205,647,Inactive
+2336,Ashley Duran,Sydney,Australia,2024-08-31,1,687.3199999999999,122,Inactive
+965,Kathleen Walker,Los Angeles,USA,2023-11-02,2,686.4145000000001,425,Inactive
+1782,Natalie Mullins,Berlin,Germany,2023-07-05,1,682.77,545,Inactive
+165,Cindy Hayes,London,UK,2024-07-01,2,680.835,183,Inactive
+870,Rebecca Martin,London,UK,2024-02-21,1,676.0959999999999,314,Inactive
+1396,Christina Williams,Toronto,Canada,2024-09-19,1,673.7769999999999,103,Inactive
+587,Brenda Martin,Mumbai,India,2022-01-15,2,669.5459999999999,1081,Inactive
+457,Jeremiah Baker,Chicago,USA,2024-04-05,1,669.1800000000001,270,Inactive
+2113,Tyler Shields,Bangkok,Thailand,2022-02-15,1,667.54,1050,Inactive
+802,Joseph Blanchard,Bangkok,Thailand,2024-09-29,2,659.5985,93,Inactive
+11,Andrew Stewart,Toronto,Canada,2024-08-22,2,659.466,131,Inactive
+1444,Joseph Benson,London,UK,2023-01-16,1,657.5,715,Inactive
+1147,Amber Bennett,London,UK,2023-03-14,1,653.8229999999999,658,Inactive
+637,Gregory Frazier,Bangkok,Thailand,2024-05-07,1,652.5074999999999,238,Inactive
+348,Robin Wheeler,Munich,Germany,2022-06-02,1,650.2219999999999,943,Inactive
+1733,Michael Santos,New York,USA,2024-07-08,4,648.4929999999999,176,Inactive
+206,Phillip Nelson,Los Angeles,USA,2024-08-04,1,638.37,149,Inactive
+993,Kristen Lowery,Berlin,Germany,2023-07-08,2,634.29,542,Inactive
+1121,Kara Black,Sydney,Australia,2024-04-26,1,631.35,249,Inactive
+1200,Connie Scott,Melbourne,Australia,2024-06-08,1,629.6800000000001,206,Inactive
+1178,Janice Mccarthy,Berlin,Germany,2022-08-31,1,629.1529999999999,853,Inactive
+2390,Jesse Edwards,Manchester,UK,2022-04-06,1,628.48,1000,Inactive
+698,Thomas Davis,Sydney,Australia,2022-08-19,1,624.1865,865,Inactive
+643,David Manning,Vancouver,Canada,2024-02-18,1,623.1619999999999,317,Inactive
+252,Amber Campbell,Berlin,Germany,2023-03-21,1,621.4639999999999,651,Inactive
+1950,Andrew Hunter,Munich,Germany,2022-04-22,1,621.164,984,Inactive
+962,Alexander Hansen,Munich,Germany,2024-08-04,1,620.483,149,Inactive
+1707,Teresa Watkins,New York,USA,2023-01-27,1,620.373,704,Inactive
+2213,Maria Malone,Los Angeles,USA,2023-05-13,2,616.13,598,Inactive
+1697,Anna Atkins,Singapore,Singapore,2022-10-10,1,614.67,813,Inactive
+404,Jordan Williams,Melbourne,Australia,2024-09-08,1,613.83,114,Inactive
+2447,Dawn Hall,Sydney,Australia,2024-09-06,2,606.07,116,Inactive
+2234,Pamela Jenkins,New York,USA,2023-10-25,1,604.409,433,Inactive
+380,Pamela Williams,Manchester,UK,2023-08-01,1,599.32,518,Inactive
+2407,Kevin Werner,Singapore,Singapore,2022-07-16,1,598.946,899,Inactive
+136,Brooke Alexander,Vancouver,Canada,2022-07-12,1,598.378,903,Inactive
+1275,Brent Smith,Munich,Germany,2024-08-24,1,596.48,129,Inactive
+546,Maria Fischer,Singapore,Singapore,2022-01-22,1,595.6629999999999,1074,Inactive
+1196,Elizabeth Lee,Munich,Germany,2024-09-01,1,594.99,121,Inactive
+1059,Debra Flores,Berlin,Germany,2023-12-30,1,590.8525,367,Inactive
+1827,Lisa Williams,Sydney,Australia,2024-08-10,3,584.4025,143,Inactive
+1119,Susan Smith,Mumbai,India,2024-09-08,1,583.528,114,Inactive
+1350,Melinda Nelson,Paris,France,2023-10-19,1,578.59,439,Inactive
+1678,Karen Gonzales,Manchester,UK,2023-07-31,1,578.4165,519,Inactive
+1833,Brian Moore,Mumbai,India,2024-04-09,2,576.5385,266,Inactive
+317,Ryan Hall,Munich,Germany,2024-01-26,1,574.46,340,Inactive
+1541,Monique Wilson MD,Singapore,Singapore,2024-09-16,2,572.9915,106,Inactive
+702,Robert Torres,Singapore,Singapore,2024-09-20,2,570.364,102,Inactive
+2064,Matthew Briggs,London,UK,2023-02-01,1,570.068,699,Inactive
+2231,Jesse Ayala,Vancouver,Canada,2023-04-04,1,568.7475,637,Inactive
+1161,Nicole Perez,Paris,France,2023-12-07,1,567.69,390,Inactive
+1433,Thomas Bailey,Mumbai,India,2024-04-28,2,567.47,247,Inactive
+1393,Fernando Smith,Melbourne,Australia,2024-08-19,1,567.09,134,Inactive
+858,Jacob Wong,Chicago,USA,2024-03-05,2,554.696,301,Inactive
+231,Allison Lopez,Los Angeles,USA,2023-11-01,2,554.49,426,Inactive
+2232,Charles Blair,Berlin,Germany,2022-08-27,1,553.5435,857,Inactive
+1280,Stephanie Malone,Singapore,Singapore,2023-03-04,1,551.4885,668,Inactive
+1322,Ronnie Frazier,Bangkok,Thailand,2024-02-07,1,551.286,328,Inactive
+446,Hayley Buchanan,Chicago,USA,2024-05-11,1,550.884,234,Inactive
+351,Kathryn Cooper,Munich,Germany,2023-12-09,1,546.74,388,Inactive
+2469,Pamela Howard,Bangkok,Thailand,2022-05-06,1,537.548,970,Inactive
+168,Kristina Santiago,Sydney,Australia,2024-07-03,1,534.208,181,Inactive
+2094,Robert Nichols,London,UK,2023-11-12,1,533.81,415,Inactive
+825,Judy Gregory,Munich,Germany,2023-09-24,1,533.398,464,Inactive
+2262,Katie Rivers,Berlin,Germany,2024-08-01,3,532.828,152,Inactive
+2041,Madison Thomas,Sydney,Australia,2024-03-21,1,530.23,285,Inactive
+2376,Michael Gilbert,Singapore,Singapore,2022-02-20,1,528.78,1045,Inactive
+1584,Nicholas Ramirez,Mumbai,India,2023-06-11,1,526.5,569,Inactive
+1725,Ethan Hall,Sydney,Australia,2024-01-09,1,523.9710000000001,357,Inactive
+1655,Kevin Weber,Chicago,USA,2024-07-15,1,523.352,169,Inactive
+1797,Jeffrey Garza,Vancouver,Canada,2022-02-13,1,518.71,1052,Inactive
+2424,John Black,Berlin,Germany,2024-03-01,1,517.8,305,Inactive
+217,Ashley Perkins,Chicago,USA,2024-03-10,1,514.85,296,Inactive
+652,Adam Brooks,New York,USA,2022-09-12,1,514.73,841,Inactive
+1268,Christina Mccarthy,Toronto,Canada,2024-05-27,2,514.0699999999999,218,Inactive
+386,Edwin Reyes,Bangkok,Thailand,2022-05-30,1,510.705,946,Inactive
+44,Michelle Harris,Bangkok,Thailand,2024-08-25,1,507.032,128,Inactive
+1618,Mr. Andrew Hickman,Melbourne,Australia,2023-12-12,1,505.4885,385,Inactive
+1923,Brenda Flores,Munich,Germany,2023-10-03,3,503.454,455,Inactive
+2389,Sandy Bennett,Mumbai,India,2023-12-18,1,503.34,379,Inactive
+1197,Bethany Robles,Toronto,Canada,2023-03-05,1,502.9,667,Inactive
+1418,James Wheeler,Singapore,Singapore,2024-08-01,1,500.91,152,Inactive
+493,Mike Maxwell,Bangkok,Thailand,2024-08-12,2,496.304,141,Inactive
+2119,Melinda Anderson,Sydney,Australia,2023-05-23,1,494.744,588,Inactive
+102,David Grant,Paris,France,2024-09-10,2,493.7015,112,Inactive
+144,Terry Coffey,Sydney,Australia,2024-09-03,1,493.26750000000004,119,Inactive
+535,Lisa Morris,Singapore,Singapore,2024-07-09,2,484.47200000000004,175,Inactive
+2158,Andrea Le,Bangkok,Thailand,2023-12-25,1,479.4,372,Inactive
+711,Lori Johns,Munich,Germany,2022-12-22,1,478.17299999999994,740,Inactive
+1568,Allison Wise,Munich,Germany,2023-06-03,1,476.204,577,Inactive
+1685,Brett Rivera,New York,USA,2022-06-06,1,475.6400000000001,939,Inactive
+481,Jorge Bates,Vancouver,Canada,2022-08-03,1,475.44,881,Inactive
+1170,James Torres,New York,USA,2022-06-21,1,473.03049999999996,924,Inactive
+630,Derrick Mullen,Berlin,Germany,2024-09-30,1,470.98,92,Inactive
+1699,Tanya Clark,Manchester,UK,2024-05-09,1,467.865,236,Inactive
+2436,Adam Daniels,Chicago,USA,2024-06-16,1,467.865,198,Inactive
+496,Curtis Watson,Paris,France,2024-02-14,1,467.8245,321,Inactive
+424,Angela Willis,Vancouver,Canada,2022-12-18,1,464.10299999999995,744,Inactive
+1512,Melanie Jones,Munich,Germany,2024-07-05,2,462.74600000000004,179,Inactive
+1800,Phillip Anderson,Paris,France,2022-11-06,1,459.628,786,Inactive
+50,Rita Keith,Munich,Germany,2024-08-16,1,458.05,137,Inactive
+854,Jennifer Clarke,New York,USA,2023-04-19,1,456.96,622,Inactive
+2083,Denise Olsen,Chicago,USA,2024-03-12,1,448.56,294,Inactive
+953,Rodney Young,Vancouver,Canada,2024-08-24,1,446.063,129,Inactive
+201,James Martin,Sydney,Australia,2022-04-26,1,445.65,980,Inactive
+814,Michelle Garcia,Paris,France,2024-04-08,1,445.65,267,Inactive
+2377,Tonya Simon,Munich,Germany,2022-01-24,1,443.6,1072,Inactive
+234,Victoria Contreras,Vancouver,Canada,2022-12-17,1,440.12999999999994,745,Inactive
+1354,Jessica Gaines,Bangkok,Thailand,2024-03-24,1,429.63,282,Inactive
+19,Mark Lynch,Manchester,UK,2023-11-26,2,424.56399999999996,401,Inactive
+803,Marissa Nelson,Chicago,USA,2022-08-04,1,422.024,880,Inactive
+927,Leslie Lozano,Toronto,Canada,2023-01-24,1,417.1545,707,Inactive
+2348,Caleb Jensen,Sydney,Australia,2023-01-25,1,415.45399999999995,706,Inactive
+1705,Allison Simmons,Melbourne,Australia,2023-03-23,1,411.264,649,Inactive
+2114,Laura Blair,Berlin,Germany,2022-09-11,1,409.53549999999996,842,Inactive
+16,Tricia Valencia,Berlin,Germany,2023-12-13,1,406.85249999999996,384,Inactive
+2360,Cristian Lambert,Paris,France,2024-03-19,1,406.85249999999996,287,Inactive
+1831,Rodney Bennett,Toronto,Canada,2022-07-09,1,404.396,906,Inactive
+2423,Danielle Robles,Sydney,Australia,2024-03-07,2,403.157,299,Inactive
+320,Megan Drake,Berlin,Germany,2022-12-26,1,400.8335,736,Inactive
+636,Patrick Green,Los Angeles,USA,2023-07-18,1,396.98,532,Inactive
+1836,Kathleen Martinez,New York,USA,2023-07-26,2,396.488,524,Inactive
+173,Kylie Morales,Vancouver,Canada,2023-12-12,1,393.754,385,Inactive
+1630,Brandon Cruz,Los Angeles,USA,2023-06-30,1,388.416,550,Inactive
+1560,Alejandro Bentley,Bangkok,Thailand,2024-01-03,1,383.112,363,Inactive
+2035,Edward Nicholson,Chicago,USA,2023-11-19,2,381.135,408,Inactive
+533,Jonathan Moreno,Chicago,USA,2023-09-14,1,372.8,474,Inactive
+1096,Christina Jones,Bangkok,Thailand,2024-08-06,1,372.49300000000005,147,Inactive
+1470,Cheryl Perkins,Berlin,Germany,2024-09-24,1,367.74,98,Inactive
+2422,Douglas Lucero,Manchester,UK,2023-12-06,1,365.8315,391,Inactive
+1112,Jennifer Torres,London,UK,2023-12-26,1,364.99,371,Inactive
+1607,Terri Parker,Singapore,Singapore,2024-07-02,2,363.23,182,Inactive
+849,Danielle Murphy,Mumbai,India,2024-01-13,1,362.18,353,Inactive
+189,Jesse Brown,Sydney,Australia,2024-05-27,2,357.69849999999997,218,Inactive
+2004,Kevin Farmer,Paris,France,2023-05-18,1,357.264,593,Inactive
+181,Thomas Atkins,Los Angeles,USA,2023-06-17,1,355.8,563,Inactive
+1777,Jessica Murray,London,UK,2023-08-21,1,355.8,498,Inactive
+213,Jose Allen,New York,USA,2024-07-04,2,349.06,180,Inactive
+2373,Rodney Baker,Berlin,Germany,2022-12-01,1,348.46999999999997,761,Inactive
+303,Megan Floyd,New York,USA,2022-05-03,1,346.78,973,Inactive
+1869,Steven Butler,London,UK,2023-04-03,1,346.62800000000004,638,Inactive
+1575,Jeff Jackson,New York,USA,2023-11-30,1,343.704,397,Inactive
+88,Robert Medina,Sydney,Australia,2022-07-23,1,338.4,892,Inactive
+1585,Janet Johnston,Melbourne,Australia,2023-02-01,1,338.4,699,Inactive
+2477,Michelle Smith,Sydney,Australia,2023-11-07,1,338.4,420,Inactive
+904,Michelle Brandt,Singapore,Singapore,2022-10-17,1,337.433,806,Inactive
+1638,Sean Stevens,London,UK,2024-06-25,1,335.88,189,Inactive
+76,Rebecca Ramsey,Vancouver,Canada,2024-01-15,1,335.52000000000004,351,Inactive
+268,Justin Michael,Munich,Germany,2022-08-15,1,329.441,869,Inactive
+279,David Lopez,Chicago,USA,2024-06-30,1,328.75,184,Inactive
+568,Clinton Jensen,Sydney,Australia,2024-09-05,2,323.6625,117,Inactive
+2224,Tammy Robinson,Los Angeles,USA,2023-12-05,1,321.678,392,Inactive
+1072,Daniel Smith,Toronto,Canada,2022-08-13,1,315.40599999999995,871,Inactive
+146,Richard Smith,Bangkok,Thailand,2022-04-21,1,311.746,985,Inactive
+2374,John Robertson,Paris,France,2022-02-07,1,297.56,1058,Inactive
+738,Anthony Bailey,Manchester,UK,2023-12-02,1,292.173,395,Inactive
+563,Preston Kim,Chicago,USA,2024-03-28,1,289.25600000000003,278,Inactive
+194,Rachel Holland,Mumbai,India,2022-05-17,1,289.23699999999997,959,Inactive
+507,Valerie Howard,Singapore,Singapore,2023-12-07,1,286.08,390,Inactive
+1302,Alisha Williams,Paris,France,2023-01-10,1,277.92,721,Inactive
+846,Greg Tanner,Toronto,Canada,2023-01-20,1,276.2695,711,Inactive
+241,Travis Stone,London,UK,2023-05-24,1,275.21,587,Inactive
+1143,Sarah Jackson,Melbourne,Australia,2023-10-15,1,274.7155,443,Inactive
+1046,Kenneth Knight,Mumbai,India,2023-10-08,1,274.11,450,Inactive
+1090,Timothy Logan,Bangkok,Thailand,2022-11-22,1,274.11,770,Inactive
+1453,Ross Wallace,Munich,Germany,2022-08-15,1,271.77599999999995,869,Inactive
+1028,Stephanie Bishop,Vancouver,Canada,2022-03-29,1,261.44949999999994,1008,Inactive
+1885,Samuel Avila,New York,USA,2024-08-28,2,257.984,125,Inactive
+1977,Jason Castro,Los Angeles,USA,2024-07-03,1,253.7,181,Inactive
+2352,Kayla Williams,New York,USA,2022-03-10,1,251.88,1027,Inactive
+2003,David Robinson,Toronto,Canada,2024-04-07,1,248.94,268,Inactive
+1872,Mary Hopkins MD,Munich,Germany,2022-12-25,1,246.699,737,Inactive
+2001,Benjamin Rodriguez,Melbourne,Australia,2023-11-23,1,239.28599999999997,404,Inactive
+2382,Jamie Duran,Berlin,Germany,2022-11-13,1,235.35,779,Inactive
+1671,Jessica Carey,Toronto,Canada,2024-03-26,2,228.529,280,Inactive
+2274,Stephanie Armstrong,Vancouver,Canada,2024-08-17,1,226.336,136,Inactive
+364,Ryan Harvey,Toronto,Canada,2023-04-04,1,222.76,637,Inactive
+2260,Melissa Romero,London,UK,2022-07-16,1,220.12449999999998,899,Inactive
+2166,Alexander Greene,Melbourne,Australia,2024-08-31,1,219.22,122,Inactive
+823,Kathryn Hanna,Toronto,Canada,2024-04-28,1,218.79,247,Inactive
+966,Johnny Anderson,Paris,France,2023-11-05,1,217.73,422,Inactive
+804,Julia Leonard,Los Angeles,USA,2022-04-20,1,211.242,986,Inactive
+223,Kathleen Jimenez,Singapore,Singapore,2023-01-21,1,206.01000000000002,710,Inactive
+1358,Terri Mathews DDS,Toronto,Canada,2023-06-04,1,205.71,576,Inactive
+225,Mitchell Jackson,Vancouver,Canada,2024-08-15,1,205.4565,138,Inactive
+1445,Julia Gaines,Vancouver,Canada,2024-04-10,1,201.294,265,Inactive
+2071,Gabriel Levy,Sydney,Australia,2024-08-01,1,199.36,152,Inactive
+929,John Johnson,New York,USA,2024-01-09,1,194.565,357,Inactive
+1598,Noah Pitts,Toronto,Canada,2024-09-16,2,191.8025,106,Inactive
+1363,Kimberly James,Paris,France,2024-09-27,1,182.56149999999997,95,Inactive
+1321,Donna Moore,Vancouver,Canada,2022-04-01,1,171.89,1005,Inactive
+593,Sharon Jackson DVM,Sydney,Australia,2023-04-07,1,171.2,634,Inactive
+1226,Kimberly Burnett,Manchester,UK,2023-07-08,1,166.46099999999998,542,Inactive
+2177,Nathan Kirk,Singapore,Singapore,2022-01-29,1,166.1,1067,Inactive
+47,Sandra Aguilar,Paris,France,2022-07-06,1,165.16000000000003,909,Inactive
+1948,Michael Preston,,Thailand,2024-01-02,1,163.71150000000006,364,Inactive
+1698,Pamela Lewis,Bangkok,Thailand,2023-04-03,1,159.648,638,Inactive
+1303,Allison Simmons,Singapore,Singapore,2023-07-28,1,156.75,522,Inactive
+1865,Randall Willis,Melbourne,Australia,2024-06-29,1,154.60000000000002,185,Inactive
+1295,John Blair,Berlin,Germany,2024-09-17,1,150.1,105,Inactive
+456,Martin Hughes,Melbourne,Australia,2024-06-28,1,148.68,186,Inactive
+963,Samuel Williams,Melbourne,Australia,2023-10-03,1,147.626,455,Inactive
+627,Robert Mendoza,Toronto,Canada,2023-10-20,1,146.98,438,Inactive
+590,Andrew Berry,Melbourne,Australia,2023-01-25,1,146.96,706,Inactive
+2306,Kristina Baker,Bangkok,Thailand,2024-07-04,1,139.949,180,Inactive
+1416,Timothy Miller,Munich,Germany,2024-07-11,1,136.944,173,Inactive
+1177,David Lane,Singapore,Singapore,2023-03-18,1,126.53,654,Inactive
+1236,Dalton Soto,Melbourne,Australia,2022-01-02,1,121.19149999999999,1094,Inactive
+1459,Lisa Williams,Los Angeles,USA,2023-01-12,1,120.976,719,Inactive
+560,Laura Perez,London,UK,2024-03-24,2,119.238,282,Inactive
+599,Jessica Mays,Mumbai,India,2022-03-09,1,110.42,1028,Inactive
+402,Laura Jones,Munich,Germany,2024-07-23,1,108.7,161,Inactive
+1877,Ashley Jones,Paris,France,2024-08-23,2,105.756,130,Inactive
+1054,Christopher Johnson,Berlin,Germany,2023-02-25,1,103.53,675,Inactive
+833,Adam Howe,Munich,Germany,2023-07-25,1,90.93,525,Inactive
+585,Jamie Gray,Munich,Germany,2023-07-28,1,89.43,522,Inactive
+1710,Christian Hernandez,Vancouver,Canada,2024-01-20,1,89.43,346,Inactive
+502,Martin Wise,Vancouver,Canada,2023-02-01,1,82.62,699,Inactive
+249,Anthony Dougherty,Mumbai,India,2023-03-02,1,78.3655,670,Inactive
+171,Renee Bruce,Paris,France,2023-10-20,1,68.362,438,Inactive
+1916,Jennifer Nguyen,Manchester,UK,2023-03-02,1,63.1394999999999,670,Inactive
+746,April Johnson,Berlin,Germany,2024-06-13,1,61.15,201,Inactive
+374,Wendy Camacho,New York,USA,2023-05-27,1,57.85,584,Inactive
+1165,Blake Hardy,New York,USA,2024-01-04,1,54.35,362,Inactive
+2438,Joshua Gallegos,Manchester,UK,2022-05-20,1,51.9775,956,Inactive
+1446,Elizabeth Sanchez,Melbourne,Australia,2024-08-30,1,45.5335,123,Inactive
+1053,Lauren Miller,Vancouver,Canada,2023-06-24,1,43.35,556,Inactive
+1248,Madison Jones,Mumbai,India,2023-07-28,1,43.35,522,Inactive
+757,Brittany Peterson,Toronto,Canada,2024-01-01,1,43.128,365,Inactive
+55,Victoria Johnson,Vancouver,Canada,2022-01-16,1,41.76,1080,Inactive
+1390,Steven Weiss,Paris,France,2022-07-07,1,35.67,908,Inactive
+509,Maureen Hernandez,London,UK,2022-04-03,1,25.362000000000045,1003,Inactive
+458,Rhonda Gutierrez,New York,USA,2022-11-03,1,22.600499999999997,789,Inactive
+1752,Katherine Dunn,Singapore,Singapore,2024-09-22,2,18.69999999999999,100,Inactive
+1848,Heather Thomas,Bangkok,Thailand,2024-04-29,1,17.97,246,Inactive
+768,Pamela Ruiz,Munich,Germany,2022-02-14,1,16.813,1051,Inactive
+1884,Craig Thomas,New York,USA,2023-03-07,1,14.73,665,Inactive
+1821,John Henry,Mumbai,India,2022-11-11,1,11.576999999999998,781,Inactive
+886,Brittany Evans,Melbourne,Australia,2023-04-09,1,10.242,632,Inactive
+2044,Andrew Acosta,Melbourne,Australia,2023-10-29,1,6.81,429,Inactive
+594,Kayla Jackson,Singapore,Singapore,2023-05-03,1,5.448,608,Inactive
+647,Julie Pitts,Berlin,Germany,2022-06-04,1,-18.107999999999976,941,Inactive
+903,Phyllis Austin,Sydney,Australia,2024-08-24,3,-19.272999999999985,129,Inactive
+1953,Carmen Perez,Los Angeles,USA,2023-04-19,1,-32.631,622,Inactive
+1601,Kelli Shepard,Singapore,Singapore,2024-08-24,3,-47.75450000000005,129,Inactive
+129,Michael Santos,Melbourne,Australia,2023-06-15,2,-48.25699999999994,565,Inactive
+1153,Austin Robinson,Berlin,Germany,2022-10-13,2,-67.60750000000002,810,Inactive
+1238,Victor Wright,Chicago,USA,2024-09-17,1,-80.06,105,Inactive
+2410,Crystal Carlson,Berlin,Germany,2024-09-28,2,-107.43,94,Inactive
+1988,Victoria Peterson,Los Angeles,USA,2024-03-31,2,-127.82000000000005,275,Inactive
+1069,James Miller PhD,Chicago,USA,2023-11-11,1,-162.75,416,Inactive
+559,Allison Love,Los Angeles,USA,2024-06-23,1,-187.8,191,Inactive
+1003,Alex Martin,Melbourne,Australia,2023-07-03,2,-206.4025,547,Inactive
+503,Alicia Norris,Bangkok,Thailand,2022-11-17,1,-247.06,775,Inactive
+1933,Christine Arroyo,Melbourne,Australia,2024-07-15,1,-295.88800000000003,169,Inactive
+525,Andrew Dunn,Mumbai,India,2024-06-15,2,-321.75800000000004,199,Inactive
+1523,Lisa Flynn,Mumbai,India,2023-05-16,2,-338.785,595,Inactive
+2335,Joshua Guerrero,Munich,Germany,2022-06-21,1,-363.16,924,Inactive
+2100,Brendan Meyer,Toronto,Canada,2022-09-18,1,-426.525,835,Inactive
+1219,Tracy Sims,London,UK,2022-09-09,1,-536.46,844,Inactive
+107,Dennis Moody,London,UK,2024-04-21,1,-550.053,254,Inactive
+445,Mrs. Stacey Davis,Singapore,Singapore,2023-07-12,1,-559.7550000000001,538,Inactive
+427,Daniel Lopez,Mumbai,India,2022-12-14,1,-576.973,748,Inactive
+1024,Heidi Johnson,Sydney,Australia,2023-10-09,1,-588.6769999999999,449,Inactive
+1780,Hailey Beltran,Los Angeles,USA,2023-10-18,1,-704.75,440,Inactive
+297,Shaun Cannon,Munich,Germany,2022-11-26,1,-773.71,766,Inactive
+1240,James Novak,New York,USA,2023-07-01,1,-943.9,549,Inactive
+2500,Michael Cross DDS,Bangkok,Thailand,2024-04-09,3,-5233.511,266,Inactive
+824,George Le,,Germany,2023-02-14,3,-5953.7525,686,Inactive
+2471,Ernest Bernard,London,UK,2024-03-17,2,-27575.4585,289,Inactive
+230,Laura Moreno,Los Angeles,USA,2024-05-28,3,-33318.041,217,Inactive
+926,Gregory Howard,Berlin,Germany,2024-03-17,1,-34379.53,289,Inactive
+2153,Shannon Castro,Sydney,Australia,2024-10-17,3,4936.7919999999995,75,Active
+861,Mr. Bryan Mckinney,Munich,Germany,2024-12-15,3,4903.175,16,Active
+281,Cathy Taylor,Mumbai,India,2024-12-11,2,4900.442,20,Active
+665,Lauren Vazquez,Singapore,Singapore,2024-11-14,4,4884.4555,47,Active
+405,Cassidy Horne,Sydney,Australia,2024-10-04,5,4798.8585,88,Active
+2233,Kyle Myers,Melbourne,Australia,2024-10-10,3,4744.664,82,Active
+736,Lisa Snyder,Melbourne,Australia,2024-12-19,4,4741.894,12,Active
+1266,Nancy Hamilton,Los Angeles,USA,2024-12-25,4,4718.655,6,Active
+1111,Dr. John Perkins,Bangkok,Thailand,2024-10-10,3,4687.6635,82,Active
+1103,Christopher Green,Bangkok,Thailand,2024-11-07,3,4657.1025,54,Active
+91,Robert Peterson,Toronto,Canada,2024-10-10,2,4644.121499999999,82,Active
+2490,Vanessa Harris,Toronto,Canada,2024-12-31,5,4642.7744999999995,0,Active
+1099,David Hanson,Bangkok,Thailand,2024-10-04,4,4617.6415,88,Active
+1972,Lisa Johnson,Paris,France,2024-12-19,6,4614.079,12,Active
+2074,Michelle Butler,Manchester,UK,2024-10-07,6,4530.6494999999995,85,Active
+1237,Samantha Jacobs,London,UK,2024-12-17,4,4516.1275,14,Active
+579,Donna Marshall,Toronto,Canada,2024-10-22,3,4510.504,70,Active
+912,Charles Morales,Sydney,Australia,2024-11-11,3,4509.0275,50,Active
+805,Megan Kaiser,Vancouver,Canada,2024-12-10,3,4506.3605,21,Active
+1230,Heidi Stephens,Vancouver,Canada,2024-11-09,4,4499.4105,52,Active
+432,William Moreno,Chicago,USA,2024-12-10,7,4464.466,21,Active
+15,Rebecca Henderson,Bangkok,Thailand,2024-10-24,4,4439.5185,68,Active
+2070,Jonathan Barrett,,USA,2024-10-14,3,4437.305,78,Active
+2012,Harry Hill,Mumbai,India,2024-11-02,4,4420.906,59,Active
+1759,Courtney Arias,London,UK,2024-10-11,4,4417.706999999999,81,Active
+787,Robert Cruz,Manchester,UK,2024-12-28,2,4405.01,3,Active
+889,Michael Wilson,Sydney,Australia,2024-12-22,5,4398.862,9,Active
+1124,Gina Barnes,Melbourne,Australia,2024-10-13,3,4398.7845,79,Active
+1839,Tiffany Peterson,Paris,France,2024-10-08,4,4359.449,84,Active
+797,Michael Washington,Vancouver,Canada,2024-11-11,5,4345.113,50,Active
+145,Brenda Levy,Singapore,Singapore,2024-11-13,3,4338.0675,48,Active
+1534,Tiffany Williams,Manchester,UK,2024-12-20,3,4336.627,11,Active
+1383,Mr. Joshua Moore,Manchester,UK,2024-10-27,5,4291.1195,65,Active
+1108,Charles Wright,Paris,France,2024-12-13,4,4290.892,18,Active
+686,William Lewis,Singapore,Singapore,2024-12-18,3,4289.072,13,Active
+209,Raven Taylor,Vancouver,Canada,2024-12-22,3,4274.2275,9,Active
+888,Andrea Reese DDS,Sydney,Australia,2024-12-30,4,4269.385499999999,1,Active
+1650,Arthur Roberts,Munich,Germany,2024-10-21,3,4251.0905,71,Active
+316,Kelly Combs,Munich,Germany,2024-11-17,3,4222.8,44,Active
+2414,Lisa Reynolds,Toronto,Canada,2024-12-10,2,4203.676,21,Active
+580,Victor Holden,Paris,France,2024-10-15,3,4181.4605,77,Active
+1464,Luis Powell,Bangkok,Thailand,2024-12-12,2,4156.568,19,Active
+604,Donald Becker,Paris,France,2024-10-25,3,4133.367,67,Active
+152,Teresa Ramirez,London,UK,2024-11-25,5,4114.747,36,Active
+420,Amanda Huff,Chicago,USA,2024-11-23,3,4106.954,38,Active
+89,Samuel Rivas,London,UK,2024-11-09,6,4099.0865,52,Active
+2199,Joshua Shepard,London,UK,2024-12-27,1,4094.067,4,Active
+2257,Kristin Ferguson,London,UK,2024-12-07,4,4078.1525,24,Active
+1498,Mary Johnson,Chicago,USA,2024-10-05,4,4074.0190000000002,87,Active
+869,Caitlyn Nichols,Melbourne,Australia,2024-10-03,4,4071.1725,89,Active
+1258,Jeffrey Gonzalez,Paris,France,2024-12-04,2,4060.3300000000004,27,Active
+1909,Miss Kimberly Holloway,Los Angeles,USA,2024-10-29,2,4057.817,63,Active
+821,Heather Miller,Vancouver,Canada,2024-11-17,3,4056.09,44,Active
+775,Kyle Nguyen,Vancouver,Canada,2024-12-28,4,4050.726,3,Active
+656,Katherine Flores,Munich,Germany,2024-11-09,4,4041.4,52,Active
+2225,Sonya Miranda,Los Angeles,USA,2024-10-09,3,4035.4265,83,Active
+30,Connor West,Los Angeles,USA,2024-11-09,2,4031.8635,52,Active
+2164,Brittany Barnett,Berlin,Germany,2024-12-05,5,4016.8990000000003,26,Active
+650,Adam Mills,,USA,2024-10-15,3,3961.019,77,Active
+2138,Jacob Johnson,London,UK,2024-10-03,3,3952.8915,89,Active
+1142,Kari Jones,Melbourne,Australia,2024-12-30,3,3950.0899999999997,1,Active
+1688,Lee Arnold,Singapore,Singapore,2024-12-05,2,3942.264,26,Active
+957,Nicholas Kelley,Manchester,UK,2024-12-30,3,3923.5660000000003,1,Active
+2034,Elizabeth Brown,Paris,France,2024-10-06,3,3919.5575,86,Active
+1198,Tina Olson,Manchester,UK,2024-12-01,4,3914.9515,30,Active
+263,Jeremy Barnes,Munich,Germany,2024-11-02,4,3901.3199999999997,59,Active
+2315,Patrick Snyder,Toronto,Canada,2024-10-08,5,3900.9410000000003,84,Active
+84,Michael Burton,Toronto,Canada,2024-12-22,2,3900.069,9,Active
+244,Travis Wise,Vancouver,Canada,2024-11-17,2,3898.679,44,Active
+1932,Sarah Robinson,Chicago,USA,2024-11-21,2,3881.937,40,Active
+2384,Paul Lane,Singapore,Singapore,2024-10-25,4,3866.7895,67,Active
+202,Cynthia Wallace,Berlin,Germany,2024-11-26,2,3854.732,35,Active
+1151,Barbara Lewis,Vancouver,Canada,2024-12-05,4,3826.3075,26,Active
+1115,Emily Reyes,Los Angeles,USA,2024-12-18,4,3824.864,13,Active
+265,Matthew Fox,Munich,Germany,2024-12-13,3,3810.489,18,Active
+632,Kenneth Perez,London,UK,2024-12-26,4,3806.1335,5,Active
+2150,Cindy Cole,Vancouver,Canada,2024-11-11,4,3801.4615,50,Active
+1788,Hector Anderson,Toronto,Canada,2024-12-19,4,3801.2295,12,Active
+2297,Eric Rosales,Los Angeles,USA,2024-12-08,3,3799.976,23,Active
+2135,Peter Patel,Melbourne,Australia,2024-11-06,2,3777.1690000000003,55,Active
+1845,Amanda Gardner,Sydney,Australia,2024-10-26,2,3760.3035,66,Active
+2292,Sarah Roberts,Toronto,Canada,2024-11-26,6,3728.713,35,Active
+2018,Edward Garrison,Mumbai,India,2024-10-24,4,3719.0015000000003,68,Active
+1921,Sheila Perez,New York,USA,2024-10-19,3,3713.1415,73,Active
+1441,Linda Thompson,Berlin,Germany,2024-12-02,2,3712.7895,29,Active
+1260,Kimberly Adams,Manchester,UK,2024-12-12,4,3692.2875,19,Active
+972,James Wood,Mumbai,India,2024-10-08,3,3680.682,84,Active
+624,Blake Sosa,Los Angeles,USA,2024-10-25,7,3679.9005,67,Active
+471,Jeremy Mcintyre,Melbourne,Australia,2024-10-28,4,3657.336,64,Active
+605,Justin Webb,Manchester,UK,2024-10-17,3,3584.248,75,Active
+1794,Angela Steele,New York,USA,2024-12-19,3,3577.76,12,Active
+1625,John Bennett,New York,USA,2024-11-20,3,3567.9345,41,Active
+830,Erica Oconnell,Melbourne,Australia,2024-12-23,4,3564.258,8,Active
+2275,Sydney Lopez,Bangkok,Thailand,2024-11-29,5,3560.117,32,Active
+1039,Justin Maxwell,Los Angeles,USA,2024-11-04,2,3549.482,57,Active
+1657,Sarah Davis,Singapore,Singapore,2024-12-27,2,3539.1025,4,Active
+2323,Michele Watson,Melbourne,Australia,2024-12-31,3,3537.6175,0,Active
+1728,Ray Lawrence,Singapore,Singapore,2024-11-23,2,3537.26,38,Active
+2021,Richard Ferguson,Bangkok,Thailand,2024-10-10,3,3527.4,82,Active
+1073,Lori Stokes,Bangkok,Thailand,2024-11-02,3,3515.902,59,Active
+1145,Miguel Stafford,Munich,Germany,2024-10-14,3,3513.327,78,Active
+1443,Keith Fuller,Los Angeles,USA,2024-10-05,4,3510.0905,87,Active
+756,Paula Gentry,New York,USA,2024-12-13,3,3509.63,18,Active
+1201,Tammy Schultz,Vancouver,Canada,2024-11-01,2,3484.065,60,Active
+1587,Shannon Morris,Munich,Germany,2024-10-11,4,3483.502,81,Active
+578,Kimberly Valdez,Mumbai,India,2024-11-25,2,3481.1125,36,Active
+2456,Rachel Hill,Singapore,Singapore,2024-12-23,2,3475.5535,8,Active
+1070,Caleb Stanton,Toronto,Canada,2024-12-09,5,3458.9595,22,Active
+1573,Dr. David Murray MD,London,UK,2024-12-02,4,3457.5845,29,Active
+1235,Steven Ross,New York,USA,2024-12-02,2,3451.121,29,Active
+518,Arthur Pena,New York,USA,2024-11-07,2,3450.6214999999997,54,Active
+2239,Daniel Ferrell,Sydney,Australia,2024-11-29,4,3445.1175,32,Active
+2396,Carla Hoover,Melbourne,Australia,2024-10-17,2,3445.0280000000002,75,Active
+387,Alejandra Santos,Los Angeles,USA,2024-11-04,4,3434.5125000000003,57,Active
+1631,Karen Green,Bangkok,Thailand,2024-10-07,3,3431.548,85,Active
+500,Katherine Christensen MD,Los Angeles,USA,2024-12-08,3,3423.1035,23,Active
+1708,Mr. Lawrence Brooks,Paris,France,2024-10-29,4,3415.3295000000003,63,Active
+2467,Rachael Jones,London,UK,2024-10-22,3,3402.5245,70,Active
+2272,Christina Gomez,Berlin,Germany,2024-10-09,4,3392.3195,83,Active
+541,James Brown,Manchester,UK,2024-11-27,3,3390.2400000000002,34,Active
+2305,Richard Yoder,Singapore,Singapore,2024-12-30,3,3378.8800000000006,1,Active
+2269,Derrick Johnson,Berlin,Germany,2024-11-02,2,3365.7875,59,Active
+2411,Michael Martinez,Melbourne,Australia,2024-12-06,2,3362.239,25,Active
+25,Crystal Robinson,Bangkok,Thailand,2024-11-28,2,3351.4269999999997,33,Active
+2033,Julie Perry,Mumbai,India,2024-10-16,3,3333.8355,76,Active
+291,Jennifer Velasquez,Bangkok,Thailand,2024-12-30,2,3327.126,1,Active
+2439,Alexandra Hodge,Berlin,Germany,2024-12-15,2,3319.4115,16,Active
+1757,Brittany Heath,Chicago,USA,2024-10-08,3,3303.9155,84,Active
+246,Melinda Evans,Melbourne,Australia,2024-10-27,3,3300.967,65,Active
+1591,Melissa Grant,New York,USA,2024-12-17,4,3276.211,14,Active
+1408,Cynthia Woods,Vancouver,Canada,2024-10-14,4,3274.906,78,Active
+494,Abigail Hill,Sydney,Australia,2024-12-22,4,3272.076,9,Active
+555,Jaime Lang,Melbourne,Australia,2024-10-09,2,3248.671,83,Active
+2265,Amy Burton,Vancouver,Canada,2024-12-31,2,3230.341,0,Active
+1718,Jose York,New York,USA,2024-10-11,2,3219.721,81,Active
+1048,Robert Beck,Los Angeles,USA,2024-10-10,3,3217.5969999999998,82,Active
+1394,Janice Guzman,Los Angeles,USA,2024-11-28,2,3215.2264999999998,33,Active
+2470,Abigail Acevedo,Bangkok,Thailand,2024-11-04,1,3170.264,57,Active
+1287,Dorothy Bowman,Berlin,Germany,2024-11-29,3,3135.6385,32,Active
+654,Kellie Marsh,London,UK,2024-12-24,2,3119.0350000000003,7,Active
+352,Todd Thomas,London,UK,2024-11-09,2,3112.122,52,Active
+1128,Michael Thompson,Chicago,USA,2024-10-22,2,3099.238,70,Active
+1883,Michael Hancock,London,UK,2024-10-30,2,3092.55,62,Active
+2027,Jennifer Warren,Los Angeles,USA,2024-12-17,2,3091.8540000000003,14,Active
+708,Charlotte Mason,Sydney,Australia,2024-12-29,3,3090.838,2,Active
+1022,Jaime Fischer,Chicago,USA,2024-11-09,2,3087.778,52,Active
+417,Dillon Jones,Singapore,Singapore,2024-10-18,3,3067.3720000000003,74,Active
+1814,Michael Lawrence,Bangkok,Thailand,2024-11-15,2,3063.6475,46,Active
+2162,Richard Goodman,,Canada,2024-10-12,2,3056.033,80,Active
+293,Randy Cannon,Berlin,Germany,2024-11-22,4,3034.6670000000004,39,Active
+1150,Gabriel Hart,Paris,France,2024-11-29,2,3028.194,32,Active
+1791,David Smith,Toronto,Canada,2024-11-11,2,3024.3375,50,Active
+1407,Stacy Church,London,UK,2024-11-21,2,2986.782,40,Active
+1434,Kevin Miles,Berlin,Germany,2024-10-06,2,2973.6345,86,Active
+2461,Jenna Watson,Sydney,Australia,2024-12-30,4,2972.0775,1,Active
+2452,David Small,Mumbai,India,2024-12-05,5,2963.6800000000003,26,Active
+2278,Matthew Stone,Melbourne,Australia,2024-12-03,3,2954.961,28,Active
+2488,Laura Grimes,Mumbai,India,2024-11-16,1,2953.9120000000003,45,Active
+1784,Jared Howell,Sydney,Australia,2024-11-07,3,2953.2290000000003,54,Active
+794,Mary Carter,Melbourne,Australia,2024-11-30,2,2952.64,31,Active
+1406,Christopher Taylor,Singapore,Singapore,2024-10-31,3,2948.508,61,Active
+548,Justin Anderson,Paris,France,2024-11-03,3,2924.859,58,Active
+1380,John Johnson,Paris,France,2024-12-08,4,2897.87,23,Active
+407,Michael Williams,Paris,France,2024-10-11,3,2896.67,81,Active
+1225,Shannon Medina,Chicago,USA,2024-10-28,3,2884.36,64,Active
+1528,Lisa Mcknight,Toronto,Canada,2024-11-11,3,2873.086,50,Active
+487,Sarah Pittman,Singapore,Singapore,2024-12-28,3,2870.568,3,Active
+1766,Alexandra Wilson,Singapore,Singapore,2024-10-15,2,2870.434,77,Active
+253,Stephen Luna,Vancouver,Canada,2024-11-25,4,2869.17,36,Active
+1779,Thomas Pham,Paris,France,2024-12-22,3,2866.1185,9,Active
+2497,Anthony Velasquez,Paris,France,2024-12-24,4,2861.087,7,Active
+288,Stephanie Harris,Melbourne,Australia,2024-11-13,3,2843.438,48,Active
+334,Emily Rodriguez,London,UK,2024-11-29,3,2823.44,32,Active
+483,Stephanie Evans,Sydney,Australia,2024-10-21,3,2820.9719999999998,71,Active
+1947,Hannah Thompson,Chicago,USA,2024-12-13,3,2812.697,18,Active
+1264,Tammy Cameron,Mumbai,India,2024-12-31,2,2803.57,0,Active
+1559,Susan Rivera,Vancouver,Canada,2024-11-03,4,2795.113,58,Active
+1941,Brittany Brown,Vancouver,Canada,2024-11-25,4,2793.9115,36,Active
+1364,Susan Garcia,Bangkok,Thailand,2024-10-11,1,2777.0115,81,Active
+998,Ashley Ferguson,Berlin,Germany,2024-12-16,3,2745.0170000000003,15,Active
+2175,Michael Montgomery,Manchester,UK,2024-10-26,2,2738.6165,66,Active
+2176,Monica Russell,Munich,Germany,2024-12-22,2,2731.3985,9,Active
+64,Angel Riggs,Chicago,USA,2024-10-27,3,2726.352,65,Active
+5,Gabrielle Davis,Chicago,USA,2024-10-20,1,2723.514,72,Active
+2189,Bradley Brady,Toronto,Canada,2024-12-01,4,2719.903,30,Active
+1602,Corey Juarez,Chicago,USA,2024-11-23,4,2702.357,38,Active
+1843,Lisa Jackson,Chicago,USA,2024-12-21,4,2672.75,10,Active
+1244,Jose Moore,London,UK,2024-10-24,3,2663.585,68,Active
+909,Kyle Collins,Los Angeles,USA,2024-12-17,2,2660.32,14,Active
+740,Matthew Graves,Chicago,USA,2024-10-13,4,2658.9404999999997,79,Active
+373,Kenneth Farley,Toronto,Canada,2024-10-22,3,2657.7729999999997,70,Active
+222,Jessica Ross,Chicago,USA,2024-10-31,4,2634.1675,61,Active
+1040,Katherine Mcpherson,Berlin,Germany,2024-12-06,2,2632.5315,25,Active
+1300,Sarah Miller,Melbourne,Australia,2024-11-01,3,2613.8875,60,Active
+310,Jennifer Allen,Paris,France,2024-11-27,3,2600.427,34,Active
+1068,Steven Chambers,Berlin,Germany,2024-10-29,3,2596.2599999999998,63,Active
+819,Tina Davis,Toronto,Canada,2024-12-28,3,2578.627,3,Active
+2,Angie Henderson,Sydney,Australia,2024-10-13,2,2567.687,79,Active
+749,Keith Choi,New York,USA,2024-11-03,3,2567.6335,58,Active
+82,Jacob Obrien,Sydney,Australia,2024-10-11,3,2565.237,81,Active
+391,Katrina Adkins,Mumbai,India,2024-11-07,3,2557.296,54,Active
+1154,Wanda Jefferson,Paris,France,2024-12-31,5,2547.351,0,Active
+704,Alicia Aguilar,Melbourne,Australia,2024-11-18,3,2533.783,43,Active
+626,Phillip Dixon,,UK,2024-10-15,3,2521.3134999999997,77,Active
+53,Matthew Ross,Los Angeles,USA,2024-12-23,3,2520.053,8,Active
+1550,Audrey Marshall,Paris,France,2024-10-10,3,2501.2065000000002,82,Active
+1787,Angela Davis,Vancouver,Canada,2024-10-15,4,2489.571,77,Active
+358,Rebecca Herrera,Toronto,Canada,2024-10-30,2,2488.7400000000002,62,Active
+2235,Nichole Vasquez,Singapore,Singapore,2024-12-24,2,2485.672,7,Active
+2170,John Russell,London,UK,2024-10-13,4,2481.837,79,Active
+882,Linda Thomas,Toronto,Canada,2024-10-25,3,2473.3835,67,Active
+1136,Luke Reynolds,Melbourne,Australia,2024-12-31,2,2463.551,0,Active
+20,Linda Burns,Munich,Germany,2024-12-30,2,2447.23,1,Active
+1969,Ryan Gonzalez,Manchester,UK,2024-11-04,2,2444.323,57,Active
+54,Meghan Anthony,Vancouver,Canada,2024-10-20,4,2441.4539999999997,72,Active
+33,Carmen Smith,Bangkok,Thailand,2024-11-02,3,2435.81,59,Active
+752,Kristen Smith,Mumbai,India,2024-12-03,4,2409.7955,28,Active
+932,Darrell Newton,Munich,Germany,2024-11-16,2,2390.014,45,Active
+2252,Kathleen Mccullough,Melbourne,Australia,2024-10-06,3,2384.552,86,Active
+186,Craig Morrison,Sydney,Australia,2024-12-05,3,2378.4045,26,Active
+2432,Craig Beard,Manchester,UK,2024-11-11,1,2372.2709999999997,50,Active
+195,Nathaniel Douglas,New York,USA,2024-10-07,4,2360.1699999999996,85,Active
+2123,Mary Burns,Bangkok,Thailand,2024-12-29,1,2344.7495,2,Active
+1525,Jason Cannon,Singapore,Singapore,2024-12-31,2,2343.8925,0,Active
+200,Kimberly Rodgers,Los Angeles,USA,2024-12-28,2,2318.17,3,Active
+2201,Richard Smith,Melbourne,Australia,2024-11-23,2,2300.8125,38,Active
+2383,Leslie Moody,Chicago,USA,2024-11-29,2,2296.0964999999997,32,Active
+1345,Joel Davis,Manchester,UK,2024-10-27,2,2280.92,65,Active
+2142,Ariel Gordon,Mumbai,India,2024-10-03,2,2239.691,89,Active
+545,Juan Smith,Singapore,Singapore,2024-10-27,2,2225.1145,65,Active
+1939,Melanie Johnson,,Thailand,2024-10-22,1,2222.36,70,Active
+732,Joseph Cruz,Paris,France,2024-12-05,2,2221.2999999999997,26,Active
+1399,Joseph Rose,Berlin,Germany,2024-10-31,3,2199.995,61,Active
+693,Karl Murphy,Sydney,Australia,2024-10-25,3,2189.638,67,Active
+1810,Laura Brooks,Chicago,USA,2024-12-01,2,2186.3959999999997,30,Active
+1542,Jonathon Hill,Los Angeles,USA,2024-10-05,2,2177.087,87,Active
+614,Krista Barber,Chicago,USA,2024-10-14,1,2172.885,78,Active
+723,Timothy Duke,Vancouver,Canada,2024-11-19,2,2171.5665,42,Active
+1252,Traci Craig,Los Angeles,USA,2024-10-31,3,2167.7505,61,Active
+2019,Laura Logan,Munich,Germany,2024-10-18,4,2152.8145,74,Active
+810,Tammy Hill,Chicago,USA,2024-10-30,4,2151.857,62,Active
+1123,Charles Russo,Paris,France,2024-12-02,2,2134.2215,29,Active
+37,Cynthia Wilson,Vancouver,Canada,2024-10-06,2,2112.579,86,Active
+829,Robert Simmons,,USA,2024-12-26,4,2110.08,5,Active
+1751,Douglas Mack,Vancouver,Canada,2024-12-07,2,2104.842,24,Active
+1093,Eric Graham,Vancouver,Canada,2024-10-06,3,2099.577,86,Active
+987,Edwin Owen,Melbourne,Australia,2024-12-05,2,2094.748,26,Active
+2267,Beverly Black,Melbourne,Australia,2024-12-18,3,2094.4539999999997,13,Active
+1966,Carl Huffman,Chicago,USA,2024-12-25,3,2094.3275,6,Active
+468,Amanda Preston,London,UK,2024-11-05,2,2083.3685,56,Active
+70,Jeremiah Reeves,Los Angeles,USA,2024-11-30,4,2082.4055,31,Active
+2026,Mrs. Donna Rice,Melbourne,Australia,2024-12-22,2,2079.004,9,Active
+1599,Mark Brown,Chicago,USA,2024-10-16,2,2045.464,76,Active
+710,Harold Garrett,Vancouver,Canada,2024-12-09,2,2043.7350000000001,22,Active
+475,Madison Martinez,Singapore,Singapore,2024-11-17,3,2031.6564999999998,44,Active
+1101,Brenda Alexander,London,UK,2024-11-23,2,2021.036,38,Active
+1000,Tracey Leonard,Berlin,Germany,2024-10-07,3,2017.1165,85,Active
+1880,Charles Hardin,Toronto,Canada,2024-12-14,3,2007.0535,17,Active
+985,Robert Manning,Mumbai,India,2024-12-21,2,1996.9,10,Active
+1504,Derrick King,Paris,France,2024-11-01,3,1995.063,60,Active
+216,James Burgess,Vancouver,Canada,2024-11-23,2,1991.7800000000002,38,Active
+817,Jared Luna,Mumbai,India,2024-12-04,5,1986.7299999999998,27,Active
+945,Kelly Calderon,Mumbai,India,2024-10-11,2,1986.6999999999998,81,Active
+300,Donna Cabrera,Sydney,Australia,2024-11-20,3,1982.87,41,Active
+1775,Maria Garcia,New York,USA,2024-12-13,3,1982.166,18,Active
+606,David Logan,Mumbai,India,2024-10-27,2,1982.0294999999999,65,Active
+2493,Sierra Allen,Munich,Germany,2024-11-07,2,1980.2075,54,Active
+466,Sharon Beard,Toronto,Canada,2024-11-11,5,1977.465,50,Active
+1826,Cody Walker,Chicago,USA,2024-10-04,2,1974.7415,88,Active
+1804,Kyle Blake,Berlin,Germany,2024-12-13,1,1963.973,18,Active
+586,Heather Parrish,Singapore,Singapore,2024-12-31,2,1962.093,0,Active
+35,Lauren Daniels,New York,USA,2024-12-05,3,1961.15,26,Active
+896,Tammy Mendoza,Chicago,USA,2024-12-23,1,1957.916,8,Active
+90,Mary Rogers,Melbourne,Australia,2024-12-19,3,1950.4715,12,Active
+1689,Brandi Turner,Mumbai,India,2024-12-31,2,1949.9215,0,Active
+788,Dr. Michael Adams DVM,Munich,Germany,2024-10-24,2,1931.416,68,Active
+2069,Corey Jones,Melbourne,Australia,2024-11-10,3,1926.184,51,Active
+2220,Stephanie Meyer,Melbourne,Australia,2024-12-10,2,1918.174,21,Active
+1392,Cody Sanchez,Paris,France,2024-12-02,2,1915.8155,29,Active
+1905,Alec Dixon,Paris,France,2024-11-24,2,1909.723,37,Active
+530,Ashley Carr,Toronto,Canada,2024-12-06,2,1901.392,25,Active
+477,Anthony Nash,Vancouver,Canada,2024-12-01,4,1894.2894999999999,30,Active
+156,Robin Hall,Melbourne,Australia,2024-12-29,3,1893.981,2,Active
+2059,Zachary Miller,Los Angeles,USA,2024-11-22,4,1890.7465,39,Active
+1965,Mrs. Emily Waters,Los Angeles,USA,2024-10-20,3,1884.8010000000002,72,Active
+337,Misty Hansen,Bangkok,Thailand,2024-12-02,1,1878.6599999999999,29,Active
+190,Julie Spencer,Toronto,Canada,2024-10-15,3,1878.6215,77,Active
+1611,Ruben Cruz,Berlin,Germany,2024-10-07,2,1871.926,85,Active
+1135,Stanley Bryant,Bangkok,Thailand,2024-12-07,2,1870.5404999999998,24,Active
+1194,Jeremy Lawson,Los Angeles,USA,2024-12-30,2,1866.5835,1,Active
+2182,Monica Richardson,Munich,Germany,2024-10-22,1,1849.7735,70,Active
+2247,Ashley Lee,London,UK,2024-11-28,1,1839.47,33,Active
+1109,Brad Ruiz,Toronto,Canada,2024-10-15,4,1824.079,77,Active
+925,Hannah Harmon,Los Angeles,USA,2024-11-21,2,1823.6290000000001,40,Active
+1793,Robert Cox,Manchester,UK,2024-10-30,2,1811.3774999999998,62,Active
+2065,Christine Murray,Bangkok,Thailand,2024-12-20,2,1810.7,11,Active
+147,James Little,Paris,France,2024-10-13,2,1770.6935,79,Active
+2029,Zachary Wilkinson,Mumbai,India,2024-12-21,1,1767.876,10,Active
+1954,Kelly Weiss,Sydney,Australia,2024-12-09,3,1767.452,22,Active
+1291,Kimberly Irwin,Mumbai,India,2024-12-27,2,1757.707,4,Active
+1578,Jacqueline Munoz,Singapore,Singapore,2024-12-18,4,1755.454,13,Active
+480,Judy Robinson,Melbourne,Australia,2024-11-04,2,1744.3964999999998,57,Active
+333,Michelle Miller,Toronto,Canada,2024-12-30,3,1710.6100000000001,1,Active
+1183,Carolyn Brooks,Paris,France,2024-12-25,2,1698.7240000000002,6,Active
+2181,Jason Ramirez,Melbourne,Australia,2024-10-31,2,1695.395,61,Active
+2285,Maria Rodriguez,Munich,Germany,2024-11-18,2,1690.97,43,Active
+1802,Shari Arellano,Bangkok,Thailand,2024-10-13,2,1689.0515,79,Active
+663,Kelly King,London,UK,2024-11-17,2,1685.203,44,Active
+1970,Susan Barton,Sydney,Australia,2024-12-04,4,1680.3764999999999,27,Active
+2300,Tamara Roberts,Vancouver,Canada,2024-11-11,1,1676.976,50,Active
+344,Catherine Saunders MD,Bangkok,Thailand,2024-12-05,3,1661.47,26,Active
+2409,Stacy Williams,London,UK,2024-12-08,2,1651.029,23,Active
+2122,Denise Alvarado,Singapore,Singapore,2024-10-16,1,1645.8474999999999,76,Active
+1803,Andrea Brown,Vancouver,Canada,2024-12-12,2,1615.6309999999999,19,Active
+1440,John Gomez,Paris,France,2024-11-05,1,1607.4499999999998,56,Active
+607,Lisa Cohen,Mumbai,India,2024-11-25,2,1606.9405,36,Active
+2302,Sherry Brewer,Berlin,Germany,2024-10-29,3,1598.1,63,Active
+1532,Raymond Hall,Singapore,Singapore,2024-10-22,4,1590.3484999999998,70,Active
+2124,Antonio Small,Berlin,Germany,2024-12-27,2,1560.863,4,Active
+1063,William Smith,Manchester,UK,2024-11-19,1,1556.8694999999998,42,Active
+1748,Craig White,Manchester,UK,2024-12-15,2,1548.5415,16,Active
+1079,Erica Richard,Singapore,Singapore,2024-10-10,2,1543.82,82,Active
+1642,Donald Bonilla,Toronto,Canada,2024-11-10,2,1533.6960000000001,51,Active
+1569,Evelyn Pacheco,London,UK,2024-12-05,2,1521.0,26,Active
+1005,Adam Mccoy,Melbourne,Australia,2024-12-18,1,1502.7060000000001,13,Active
+1662,Jennifer Barnes,Sydney,Australia,2024-11-06,2,1499.977,55,Active
+2053,William Cook,Manchester,UK,2024-10-23,1,1499.0100000000002,69,Active
+1670,Jason Green,Berlin,Germany,2024-10-21,2,1490.1779999999999,71,Active
+2362,Kelly Rivas,Bangkok,Thailand,2024-12-02,3,1481.502,29,Active
+2256,Kenneth Murphy,Singapore,Singapore,2024-10-21,2,1480.745,71,Active
+1801,Megan Rivera,Melbourne,Australia,2024-11-14,3,1476.609,47,Active
+365,Tracey Wagner,New York,USA,2024-11-29,3,1473.2195,32,Active
+1564,Kevin Myers,Berlin,Germany,2024-12-30,1,1471.6565,1,Active
+1132,Larry Crosby,Singapore,Singapore,2024-10-20,1,1470.3579999999997,72,Active
+2092,Rachel Kelly,Toronto,Canada,2024-12-27,1,1470.07,4,Active
+1420,Joseph Hill,Sydney,Australia,2024-12-03,2,1467.6190000000001,28,Active
+383,Cynthia Rios,Los Angeles,USA,2024-12-13,3,1460.934,18,Active
+1570,Angela Powell,Manchester,UK,2024-11-28,2,1452.6945,33,Active
+1351,Shane Hayes,Singapore,Singapore,2024-11-29,1,1442.613,32,Active
+2298,Jonathan Jefferson DVM,Mumbai,India,2024-12-18,2,1442.114,13,Active
+745,Lynn Vasquez,New York,USA,2024-10-30,1,1432.75,62,Active
+621,Gloria Spencer,Bangkok,Thailand,2024-11-20,2,1429.4470000000001,41,Active
+1454,Dr. Sarah Payne,New York,USA,2024-11-05,2,1428.9450000000002,56,Active
+1388,Robert Mckay,Sydney,Australia,2024-11-21,1,1427.105,40,Active
+2402,Laura Payne,Paris,France,2024-10-05,1,1424.753,87,Active
+543,Ashley Parrish,Bangkok,Thailand,2024-10-29,2,1409.83,63,Active
+1837,James Miller,Toronto,Canada,2024-12-02,3,1379.1325,29,Active
+1402,Barbara Brooks,Manchester,UK,2024-12-01,2,1373.1055,30,Active
+1858,Bianca Velazquez,Singapore,Singapore,2024-12-22,1,1373.05,9,Active
+961,Jason White,,USA,2024-11-05,2,1360.991,56,Active
+1374,Sara Moore,Singapore,Singapore,2024-11-02,2,1356.13,59,Active
+1174,Phillip Krueger,Berlin,Germany,2024-12-29,4,1348.441,2,Active
+385,Karen Perez,Singapore,Singapore,2024-10-17,2,1331.6019999999999,75,Active
+1106,Thomas Norton,Melbourne,Australia,2024-11-24,3,1331.377,37,Active
+160,Jodi Walker,Paris,France,2024-10-07,3,1323.741,85,Active
+1352,Anthony Jacobson,Berlin,Germany,2024-11-11,3,1322.338,50,Active
+2081,Mary Riley,Berlin,Germany,2024-10-14,3,1320.4099999999999,78,Active
+1673,Dennis Bryan,,Australia,2024-10-18,2,1308.4405,74,Active
+2457,Michael Davis,New York,USA,2024-12-04,2,1302.588,27,Active
+715,Shari Parker,Melbourne,Australia,2024-10-30,2,1283.651,62,Active
+384,Kelly Wallace,New York,USA,2024-12-09,2,1276.52,22,Active
+1640,Jeremy Evans,Berlin,Germany,2024-10-18,3,1269.5104999999999,74,Active
+680,Laura Meza,Manchester,UK,2024-10-12,3,1263.644,80,Active
+550,Michael Fox,Toronto,Canada,2024-11-18,2,1243.65,43,Active
+491,Steve Mason,Singapore,Singapore,2024-12-04,2,1241.553,27,Active
+1190,Vanessa Marks,Toronto,Canada,2024-10-19,4,1214.0565,73,Active
+204,Douglas Reyes,Manchester,UK,2024-12-31,1,1194.246,0,Active
+900,Ricky Palmer,Manchester,UK,2024-10-06,1,1190.444,86,Active
+1216,Paul Moss,,UK,2024-10-23,3,1189.048,69,Active
+1042,Terry Wood,Mumbai,India,2024-11-28,1,1174.56,33,Active
+1276,Leah Jacobs,Paris,France,2024-12-28,2,1165.6399999999999,3,Active
+245,Kathleen Burton,Los Angeles,USA,2024-12-23,2,1155.1725000000001,8,Active
+1527,Heather Morales,London,UK,2024-11-21,2,1145.41,40,Active
+2062,Ricardo Robertson,Melbourne,Australia,2024-11-17,1,1126.24,44,Active
+389,Bryce Blair,London,UK,2024-10-24,2,1122.1709999999998,68,Active
+1116,Bradley Kirby,,USA,2024-12-20,2,1121.2,11,Active
+1565,Donald Harris,Los Angeles,USA,2024-11-06,1,1120.02,55,Active
+1221,Megan Davis DDS,Mumbai,India,2024-12-15,1,1106.5275,16,Active
+313,Alexis Tran,Toronto,Canada,2024-11-05,2,1101.31,56,Active
+10,Joel Nelson,Los Angeles,USA,2024-10-13,1,1099.7295,79,Active
+2173,Mario Green,London,UK,2024-11-02,2,1096.204,59,Active
+489,Henry Garner,Chicago,USA,2024-10-15,2,1095.7160000000001,77,Active
+1853,Shane Hopkins,Berlin,Germany,2024-12-01,3,1094.6345000000001,30,Active
+1378,Timothy Burton,Manchester,UK,2024-12-29,2,1075.1870000000001,2,Active
+618,Tonya Ellis,New York,USA,2024-12-04,1,1069.18,27,Active
+1286,Samuel Phillips,Chicago,USA,2024-11-18,2,1066.3029999999999,43,Active
+2327,Timothy Mcmahon,Munich,Germany,2024-11-29,3,1063.1390000000001,32,Active
+1951,Robert Taylor,Los Angeles,USA,2024-11-14,3,1050.94,47,Active
+1037,Heather Garcia,Sydney,Australia,2024-11-18,1,1023.641,43,Active
+65,Michael Snyder,Mumbai,India,2024-12-14,1,1018.5190000000001,17,Active
+970,Angel Hawkins,London,UK,2024-12-13,1,1010.3364999999999,18,Active
+1267,Monica Lopez,Sydney,Australia,2024-10-17,1,999.7520000000001,75,Active
+781,April Castro,Toronto,Canada,2024-12-07,1,972.6129999999999,24,Active
+2455,Cynthia Tran,Bangkok,Thailand,2024-12-16,3,961.89,15,Active
+832,Kevin Anderson,Vancouver,Canada,2024-11-07,3,954.4269999999999,54,Active
+1661,Cassandra Roberts,Berlin,Germany,2024-11-02,1,953.59,59,Active
+2198,Billy Scott,Manchester,UK,2024-12-05,4,951.3349999999999,26,Active
+1013,Jason Chaney,London,UK,2024-12-15,1,909.6400000000001,16,Active
+2419,Crystal Brown,Vancouver,Canada,2024-10-22,3,901.9024999999999,70,Active
+154,Samantha Davis,Munich,Germany,2024-12-13,3,880.997,18,Active
+1224,Zachary Park,Bangkok,Thailand,2024-11-20,3,868.6075,41,Active
+9,Daniel Adams,Los Angeles,USA,2024-10-04,1,858.971,88,Active
+1314,Samuel Cox,Toronto,Canada,2024-12-27,2,849.0915,4,Active
+1600,Nancy Cook,Berlin,Germany,2024-12-10,1,841.5875,21,Active
+1552,Derek Lewis,Manchester,UK,2024-10-25,1,841.12,67,Active
+1372,Todd Myers,Singapore,Singapore,2024-10-26,1,833.8,66,Active
+1714,Deanna Munoz,Singapore,Singapore,2024-10-18,4,798.8085000000001,74,Active
+1622,Christopher Smith,Bangkok,Thailand,2024-11-23,1,798.4200000000001,38,Active
+2313,Steven Nguyen,Mumbai,India,2024-12-26,2,788.852,5,Active
+1160,Erin Ramirez,Berlin,Germany,2024-12-08,3,779.8420000000001,23,Active
+444,Keith Zuniga,Berlin,Germany,2024-11-19,2,771.6075,42,Active
+979,Brandon Oneill,Sydney,Australia,2024-10-09,1,757.4225,83,Active
+2085,Donna Wilson,Melbourne,Australia,2024-12-11,2,749.2935,20,Active
+1365,Timothy Garcia,Sydney,Australia,2024-12-07,2,722.33,24,Active
+1339,Candice Ramirez,Manchester,UK,2024-12-30,1,715.6080000000001,1,Active
+631,Paul Diaz,Toronto,Canada,2024-12-16,1,704.26,15,Active
+438,Carlos Love,Sydney,Australia,2024-10-09,2,691.4465000000001,83,Active
+1213,Norma Myers DDS,Melbourne,Australia,2024-12-29,1,687.477,2,Active
+1816,Terry Barnett,,Germany,2024-11-30,1,681.9000000000001,31,Active
+1612,Rebecca Clark,Vancouver,Canada,2024-10-04,2,664.836,88,Active
+1626,Fernando Mcconnell,Munich,Germany,2024-11-22,2,649.41,39,Active
+700,Jessica Glass,Munich,Germany,2024-10-24,1,646.649,68,Active
+2244,Anthony Hayes,Paris,France,2024-12-31,3,637.55,0,Active
+1984,Nicholas Brooks,Manchester,UK,2024-10-12,2,626.4315,80,Active
+148,Terri Murphy,Los Angeles,USA,2024-11-14,2,618.732,47,Active
+1577,Jacqueline Santos,Toronto,Canada,2024-10-31,2,595.5619999999999,61,Active
+117,Peter Garrett,Sydney,Australia,2024-12-01,1,583.297,30,Active
+884,Joel Bradley,,UK,2024-10-30,1,548.49,62,Active
+730,Kevin Marquez,Los Angeles,USA,2024-12-15,1,546.606,16,Active
+59,Erika Terry,Manchester,UK,2024-12-03,1,545.259,28,Active
+79,Trevor Fisher,Mumbai,India,2024-11-01,2,534.891,60,Active
+936,Laura Lewis,Melbourne,Australia,2024-11-27,2,526.292,34,Active
+2210,Wendy Carpenter,London,UK,2024-11-14,2,511.34950000000003,47,Active
+1741,William Rodriguez,Paris,France,2024-11-08,2,506.43199999999996,53,Active
+45,Sandra Williams,Los Angeles,USA,2024-10-11,1,505.5225,81,Active
+1027,Valerie Barnes,Munich,Germany,2024-10-16,1,456.96,76,Active
+1490,Billy Wright,,Thailand,2024-12-28,2,453.16,3,Active
+2046,Jacqueline Harrison,Paris,France,2024-10-27,2,451.13199999999995,65,Active
+77,James Elliott,Berlin,Germany,2024-11-06,1,438.44,55,Active
+1458,Jim Elliott,Munich,Germany,2024-10-17,2,420.49399999999997,75,Active
+1998,Mrs. Chelsea Villa,Melbourne,Australia,2024-11-06,2,354.15599999999995,55,Active
+2098,Andrew Chavez,Berlin,Germany,2024-12-09,1,342.3035,22,Active
+1508,Bridget Williamson,Bangkok,Thailand,2024-12-17,1,294.771,14,Active
+1273,Anthony Williams,Manchester,UK,2024-10-23,2,240.86350000000002,69,Active
+508,Daniel Fitzpatrick MD,Los Angeles,USA,2024-11-08,1,226.692,53,Active
+1191,Stacy Taylor,,Thailand,2024-10-17,1,217.73,75,Active
+103,Joseph Hayes,Paris,France,2024-11-29,1,216.829,32,Active
+1763,Mr. William Bray,London,UK,2024-10-15,1,197.695,77,Active
+1526,Allison Jackson,Melbourne,Australia,2024-11-09,3,186.28000000000003,52,Active
+24,Jessica Holmes,Munich,Germany,2024-12-26,1,182.25,5,Active
+2326,Shelby Duncan,Los Angeles,USA,2024-11-26,1,148.68,35,Active
+515,Michael Brown,Vancouver,Canada,2024-10-11,1,137.7065,81,Active
+470,William Ramos,Chicago,USA,2024-12-14,1,62.7,17,Active
+1918,Joseph Bentley,Vancouver,Canada,2024-10-05,1,43.2,87,Active
+928,Gabriel Murray,Toronto,Canada,2024-10-10,1,39.56,82,Active
+701,Ashley Brown,Bangkok,Thailand,2024-10-17,2,-198.05450000000008,75,Active
+1586,Richard Hays,Sydney,Australia,2024-10-25,2,-310.60900000000004,67,Active
+1674,Thomas Pope,New York,USA,2024-10-17,2,-653.3124999999999,75,Active
+1281,Jason Velazquez,Berlin,Germany,2024-12-16,2,-9306.922,15,Active
+1973,Joseph Benson,London,UK,2024-12-14,4,-9509.538,17,Active

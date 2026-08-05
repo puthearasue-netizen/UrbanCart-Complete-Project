@@ -1,0 +1,313 @@
+product_id,name,category,subcategory,unit_price,cost,in_stock_units,source_status
+1,Black Camera,Electronics,Cameras,433.54,224.24,270.0,Both sources
+2,Maintain Laptop,Electronics,Laptops,807.37,351.48,16.0,Both sources
+3,Start Accessorie,Electronics,Accessories,978.72,367.95,91.0,Both sources
+4,Movement Headphone,Electronics,Headphones,17.97,12.57,,Database only
+5,Yeah Smartphone,Electronics,Smartphones,503.34,180.1,161.0,Both sources
+6,Important Laptop,Electronics,Laptops,531.19,192.72,,Database only
+7,Beyond Accessorie,Electronics,Accessories,357.42,167.06,104.0,Both sources
+8,Plant Smartphone,Electronics,Smartphones,295.82,122.24,489.0,Both sources
+9,Right Laptop,Electronics,Laptops,66.57,26.82,5.0,Both sources
+10,After Laptop,Electronics,Laptops,309.24,235.47,474.0,Both sources
+11,Change Smartphone,Electronics,Smartphones,216.27,129.85,46.0,Both sources
+12,Get Smartphone,Electronics,Smartphones,156.75,77.9,238.0,Both sources
+13,Support Headphone,Electronics,Headphones,152.16,71.45,,Database only
+14,Find Headphone,Electronics,Headphones,90.93,61.01,12.0,Both sources
+15,Sea Headphone,Electronics,Headphones,536.46,192.64,50.0,Both sources
+16,Yes Smartphone,Electronics,Smartphones,245.66,101.09,,Database only
+17,Light Laptop,Electronics,Laptops,953.82,375.23,,Database only
+18,Rest Camera,Electronics,Cameras,35.67,20.03,423.0,Both sources
+19,Improve Smartphone,Electronics,Smartphones,727.02,269.65,23.0,Both sources
+20,Arm Accessorie,Electronics,Accessories,548.49,335.04,182.0,Both sources
+21,Right Camera,Electronics,Cameras,614.24,247.11,216.0,Both sources
+22,Scientist Smartphone,Electronics,Smartphones,205.71,98.81,461.0,Both sources
+23,Cost Headphone,Electronics,Headphones,235.35,174.8,39.0,Both sources
+24,Concern Headphone,Electronics,Headphones,696.97,282.68,55.0,Both sources
+25,Protect Headphone,Electronics,Headphones,282.92,149.7,132.0,Both sources
+26,Agent Laptop,Electronics,Laptops,259.69,123.49,364.0,Both sources
+27,Into Laptop,Electronics,Laptops,686.85,342.59,,Database only
+28,Series Accessorie,Electronics,Accessories,749.19,279.01,402.0,Both sources
+29,Pressure Accessorie,Electronics,Accessories,103.82,57.5,251.0,Both sources
+30,Hospital Laptop,Electronics,Laptops,477.17,214.5,118.0,Both sources
+31,Wide Laptop,Electronics,Laptops,976.57,373.86,430.0,Both sources
+32,East Smartphone,Electronics,Smartphones,338.4,127.28,,Database only
+33,Forward Accessorie,Electronics,Accessories,217.73,78.93,298.0,Both sources
+34,Television Laptop,Electronics,Laptops,399.8,208.52,335.0,Both sources
+35,Wide Camera,Electronics,Cameras,425.48,268.86,358.0,Both sources
+36,Work Smartphone,Electronics,Smartphones,749.87,321.49,393.0,Both sources
+37,Executive Laptop,Electronics,Laptops,608.8,285.91,100.0,Both sources
+38,Say Camera,Electronics,Cameras,364.99,233.95,94.0,Both sources
+39,Yeah Laptop,Electronics,Laptops,412.64,256.52,428.0,Both sources
+40,Because Laptop,Electronics,Laptops,171.89,75.68,309.0,Both sources
+41,Rest Smartphone,Electronics,Smartphones,376.48,158.48,399.0,Both sources
+42,Cost Camera,Electronics,Cameras,328.75,216.35,180.0,Both sources
+43,A Laptop,Electronics,Laptops,97.72,52.4,,Database only
+44,Walk Camera,Electronics,Cameras,6.81,4.3,196.0,Both sources
+45,Beautiful Camera,Electronics,Cameras,511.39,183.54,,Database only
+46,Reflect Laptop,Electronics,Laptops,397.56,205.91,415.0,Both sources
+47,Central Camera,Electronics,Cameras,513.39,252.36,348.0,Both sources
+48,Court Camera,Electronics,Cameras,231.62,156.59,186.0,Both sources
+49,Left Laptop,Electronics,Laptops,850.7,304.77,,Database only
+50,Wear Headphone,Electronics,Headphones,240.1,113.11,278.0,Both sources
+51,Former Cookware,Home & Kitchen,Cookware,863.34,370.52,332.0,Both sources
+52,Still Cookware,Home & Kitchen,Cookware,12.48,6.91,248.0,Both sources
+53,Student Decor,Home & Kitchen,Decor,192.38,115.82,369.0,Both sources
+54,We Decor,Home & Kitchen,Decor,679.71,371.36,466.0,Both sources
+55,Others Cookware,Home & Kitchen,Cookware,395.52,222.82,207.0,Both sources
+56,Heavy Appliance,Home & Kitchen,Appliances,186.07,83.65,120.0,Both sources
+57,Try Cookware,Home & Kitchen,Cookware,510.39,229.78,497.0,Both sources
+58,Artist Appliance,Home & Kitchen,Appliances,87.55,52.45,,Database only
+59,Action Furniture,Home & Kitchen,Furniture,287.12,185.42,69.0,Both sources
+60,Coach Furniture,Home & Kitchen,Furniture,148.68,113.95,375.0,Both sources
+61,Trade Appliance,Home & Kitchen,Appliances,512.76,233.12,,Database only
+62,Key Furniture,Home & Kitchen,Furniture,244.7,95.18,411.0,Both sources
+63,Song Appliance,Home & Kitchen,Appliances,430.39,178.68,130.0,Both sources
+64,Task Appliance,Home & Kitchen,Appliances,29.71,12.14,159.0,Both sources
+65,Scene Appliance,Home & Kitchen,Appliances,460.75,176.35,,Database only
+66,Wide Cookware,Home & Kitchen,Cookware,447.18,201.12,170.0,Both sources
+67,Apply Furniture,Home & Kitchen,Furniture,355.8,151.07,447.0,Both sources
+68,Bar Appliance,Home & Kitchen,Appliances,133.13,69.85,229.0,Both sources
+69,Front Decor,Home & Kitchen,Decor,274.11,163.83,363.0,Both sources
+70,Bring Furniture,Home & Kitchen,Furniture,402.01,153.64,,Database only
+71,Green Furniture,Home & Kitchen,Furniture,362.18,259.25,,Database only
+72,Difficult Cookware,Home & Kitchen,Cookware,286.08,157.38,142.0,Both sources
+73,Travel Appliance,Home & Kitchen,Appliances,346.78,176.21,485.0,Both sources
+74,Serve Appliance,Home & Kitchen,Appliances,171.2,104.21,434.0,Both sources
+75,Wonder Decor,Home & Kitchen,Decor,299.66,192.98,38.0,Both sources
+76,Cover Furniture,Home & Kitchen,Furniture,938.11,338.82,21.0,Both sources
+77,What Furniture,Home & Kitchen,Furniture,103.53,38.72,88.0,Both sources
+78,Unit Cookware,Home & Kitchen,Cookware,213.82,102.41,439.0,Both sources
+79,Hand Furniture,Home & Kitchen,Furniture,308.93,119.38,492.0,Both sources
+80,Success Furniture,Home & Kitchen,Furniture,166.05,93.95,317.0,Both sources
+81,Real Furniture,Home & Kitchen,Furniture,779.01,349.11,401.0,Both sources
+82,Rich Furniture,Home & Kitchen,Furniture,235.49,117.43,97.0,Both sources
+83,Rich Furniture,Home & Kitchen,Furniture,243.1,96.79,422.0,Both sources
+84,Per Cookware,Home & Kitchen,Cookware,43.2,29.75,439.0,Both sources
+85,Event Furniture,Home & Kitchen,Furniture,530.7,214.98,39.0,Both sources
+86,Less Decor,Home & Kitchen,Decor,443.6,290.11,263.0,Both sources
+87,Property Furniture,Home & Kitchen,Furniture,564.0,315.4,454.0,Both sources
+88,Voice Decor,Home & Kitchen,Decor,275.21,206.76,308.0,Both sources
+89,Prepare Cookware,Home & Kitchen,Cookware,247.06,159.34,78.0,Both sources
+90,Group Furniture,Home & Kitchen,Furniture,219.22,99.04,393.0,Both sources
+91,Almost Decor,Home & Kitchen,Decor,369.86,186.57,268.0,Both sources
+92,Left Furniture,Home & Kitchen,Furniture,148.78,67.35,449.0,Both sources
+93,Fear Appliance,Home & Kitchen,Appliances,98.57,56.95,398.0,Both sources
+94,Animal Appliance,Home & Kitchen,Appliances,514.73,271.98,,Database only
+95,They Appliance,Home & Kitchen,Appliances,711.68,355.85,154.0,Both sources
+96,Mind Decor,Home & Kitchen,Decor,682.77,315.19,,Database only
+97,Black Appliance,Home & Kitchen,Appliances,628.48,301.4,465.0,Both sources
+98,Southern Appliance,Home & Kitchen,Appliances,71.96,53.12,57.0,Both sources
+99,Level Decor,Home & Kitchen,Decor,496.87,337.25,213.0,Both sources
+100,Sea Appliance,Home & Kitchen,Appliances,283.25,152.25,350.0,Both sources
+101,Cut Women,Apparel,Women,488.42,300.87,411.0,Both sources
+102,Three Women,Apparel,Women,396.98,181.63,325.0,Both sources
+103,Carry Women,Apparel,Women,456.96,260.68,166.0,Both sources
+104,Major Men,Apparel,Men,957.31,360.5,498.0,Both sources
+105,Physical Footwear,Apparel,Footwear,375.87,188.14,4.0,Both sources
+106,Oil Footwear,Apparel,Footwear,150.04,54.77,473.0,Both sources
+107,Appear Women,Apparel,Women,963.92,359.12,,Database only
+108,Word Men,Apparel,Men,378.75,142.17,49.0,Both sources
+109,Health Footwear,Apparel,Footwear,59.23,34.02,,Database only
+110,Section Footwear,Apparel,Footwear,52.92,19.09,73.0,Both sources
+111,Situation Men,Apparel,Men,227.31,142.94,311.0,Both sources
+112,Performance Women,Apparel,Women,10.73,7.39,378.0,Both sources
+113,Represent Kid,Apparel,Kids,55.28,26.78,357.0,Both sources
+114,History Kid,Apparel,Kids,23.97,12.58,220.0,Both sources
+115,Quickly Footwear,Apparel,Footwear,251.88,140.73,80.0,Both sources
+116,Ahead Men,Apparel,Men,862.37,353.76,314.0,Both sources
+117,White Men,Apparel,Men,567.69,267.53,314.0,Both sources
+118,During Men,Apparel,Men,611.17,399.46,82.0,Both sources
+119,Reflect Kid,Apparel,Kids,519.85,265.26,268.0,Both sources
+120,Society Kid,Apparel,Kids,146.96,60.15,220.0,Both sources
+121,Themselves Footwear,Apparel,Footwear,183.38,112.48,,Database only
+122,Attorney Men,Apparel,Men,607.34,381.56,,Database only
+123,Anything Footwear,Apparel,Footwear,840.94,320.39,384.0,Both sources
+124,Act Kid,Apparel,Kids,640.23,396.2,,Database only
+125,Increase Women,Apparel,Women,584.13,343.96,276.0,Both sources
+126,Field Men,Apparel,Men,240.49,89.98,178.0,Both sources
+127,Research Footwear,Apparel,Footwear,111.4,48.35,6.0,Both sources
+128,Pretty Kid,Apparel,Kids,686.4,247.87,296.0,Both sources
+129,Direction Kid,Apparel,Kids,492.47,232.09,,Database only
+130,Fly Kid,Apparel,Kids,454.11,253.72,154.0,Both sources
+131,Spring Kid,Apparel,Kids,797.13,323.06,128.0,Both sources
+132,Set Men,Apparel,Men,299.38,175.25,306.0,Both sources
+133,Actually Kid,Apparel,Kids,479.79,201.05,284.0,Both sources
+134,Democrat Kid,Apparel,Kids,541.79,321.26,408.0,Both sources
+135,Road Women,Apparel,Women,550.83,338.26,106.0,Both sources
+136,Watch Footwear,Apparel,Footwear,974.39,362.35,458.0,Both sources
+137,Particular Kid,Apparel,Kids,316.92,166.82,259.0,Both sources
+138,By Kid,Apparel,Kids,54.35,35.21,457.0,Both sources
+139,About Men,Apparel,Men,835.42,310.66,249.0,Both sources
+140,Fall Footwear,Apparel,Footwear,500.02,326.58,,Database only
+141,Happen Men,Apparel,Men,251.45,135.51,203.0,Both sources
+142,Card Footwear,Apparel,Footwear,717.32,352.01,126.0,Both sources
+143,Writer Women,Apparel,Women,421.93,163.91,253.0,Both sources
+144,Almost Women,Apparel,Women,299.76,136.44,183.0,Both sources
+145,Unit Men,Apparel,Men,61.15,42.96,435.0,Both sources
+146,Difficult Women,Apparel,Women,443.54,217.53,128.0,Both sources
+147,Later Women,Apparel,Women,517.03,396.76,388.0,Both sources
+148,Answer Women,Apparel,Women,304.48,118.69,269.0,Both sources
+149,Move Kid,Apparel,Kids,382.77,267.43,447.0,Both sources
+150,Population Kid,Apparel,Kids,182.12,134.07,,Database only
+151,Say Fitnes,Sports & Outdoors,Fitness,625.19,246.9,383.0,Both sources
+152,Soon Camping,Sports & Outdoors,Camping,910.86,359.13,160.0,Both sources
+153,Feel Cycling,Sports & Outdoors,Cycling,530.38,238.57,182.0,Both sources
+154,Attack Cycling,Sports & Outdoors,Cycling,115.68,58.03,334.0,Both sources
+155,Away Camping,Sports & Outdoors,Camping,607.36,258.46,218.0,Both sources
+156,Occur Camping,Sports & Outdoors,Camping,372.8,276.55,266.0,Both sources
+157,First Camping,Sports & Outdoors,Camping,701.5,278.88,452.0,Both sources
+158,Produce Cycling,Sports & Outdoors,Cycling,282.03,119.58,331.0,Both sources
+159,Positive Camping,Sports & Outdoors,Camping,818.3,318.32,71.0,Both sources
+160,Where Camping,Sports & Outdoors,Camping,150.1,98.55,356.0,Both sources
+161,Between Fitnes,Sports & Outdoors,Fitness,68.77,26.32,329.0,Both sources
+162,Do Team Sport,Sports & Outdoors,Team Sports,126.53,53.07,307.0,Both sources
+163,Ready Cycling,Sports & Outdoors,Cycling,598.68,276.03,408.0,Both sources
+164,Great Team Sport,Sports & Outdoors,Team Sports,446.58,165.72,443.0,Both sources
+165,Up Cycling,Sports & Outdoors,Cycling,605.76,375.16,271.0,Both sources
+166,Power Fitnes,Sports & Outdoors,Fitness,278.38,147.59,212.0,Both sources
+167,Practice Fitnes,Sports & Outdoors,Fitness,39.88,15.46,,Database only
+168,Wait Camping,Sports & Outdoors,Camping,649.6,325.57,140.0,Both sources
+169,Contain Cycling,Sports & Outdoors,Cycling,458.05,181.5,,Database only
+170,Offer Team Sport,Sports & Outdoors,Team Sports,723.66,264.39,,Database only
+171,Her Camping,Sports & Outdoors,Camping,14.73,5.95,,Database only
+172,Half Team Sport,Sports & Outdoors,Team Sports,104.56,40.01,91.0,Both sources
+173,Soon Fitnes,Sports & Outdoors,Fitness,587.7,354.03,495.0,Both sources
+174,Social Cycling,Sports & Outdoors,Cycling,864.84,363.2,37.0,Both sources
+175,Either Fitnes,Sports & Outdoors,Fitness,600.57,253.72,41.0,Both sources
+176,Where Cycling,Sports & Outdoors,Cycling,199.39,136.86,,Database only
+177,Hour Camping,Sports & Outdoors,Camping,156.12,86.79,394.0,Both sources
+178,Rich Cycling,Sports & Outdoors,Cycling,563.12,213.76,74.0,Both sources
+179,Our Camping,Sports & Outdoors,Camping,478.65,175.67,50.0,Both sources
+180,Grow Team Sport,Sports & Outdoors,Team Sports,843.45,385.76,454.0,Both sources
+181,Choice Team Sport,Sports & Outdoors,Team Sports,37.18,20.67,38.0,Both sources
+182,Answer Fitnes,Sports & Outdoors,Fitness,500.91,191.38,457.0,Both sources
+183,High Camping,Sports & Outdoors,Camping,942.96,369.47,,Database only
+184,Important Cycling,Sports & Outdoors,Cycling,278.4,122.21,,Database only
+185,Avoid Camping,Sports & Outdoors,Camping,582.19,268.37,199.0,Both sources
+186,Along Fitnes,Sports & Outdoors,Fitness,290.81,213.7,364.0,Both sources
+187,Artist Team Sport,Sports & Outdoors,Team Sports,127.57,97.88,227.0,Both sources
+188,Involve Fitnes,Sports & Outdoors,Fitness,550.0,321.55,129.0,Both sources
+189,Message Team Sport,Sports & Outdoors,Team Sports,24.7,9.49,,Database only
+190,Over Cycling,Sports & Outdoors,Cycling,707.42,308.25,216.0,Both sources
+191,Yeah Camping,Sports & Outdoors,Camping,457.7,215.03,347.0,Both sources
+192,Participant Camping,Sports & Outdoors,Camping,697.79,370.47,345.0,Both sources
+193,Add Camping,Sports & Outdoors,Camping,351.11,219.39,106.0,Both sources
+194,Quickly Fitnes,Sports & Outdoors,Fitness,222.76,133.52,,Database only
+195,After Fitnes,Sports & Outdoors,Fitness,132.26,54.56,340.0,Both sources
+196,Information Cycling,Sports & Outdoors,Cycling,518.75,269.71,30.0,Both sources
+197,Own Camping,Sports & Outdoors,Camping,538.79,292.48,74.0,Both sources
+198,Later Cycling,Sports & Outdoors,Cycling,266.02,125.87,134.0,Both sources
+199,Yes Fitnes,Sports & Outdoors,Fitness,51.0,33.26,62.0,Both sources
+200,White Fitnes,Sports & Outdoors,Fitness,533.81,381.57,55.0,Both sources
+201,When Supplement,Beauty & Health,Supplements,567.68,386.16,52.0,Both sources
+202,Thank Skincare,Beauty & Health,Skincare,514.85,201.68,75.0,Both sources
+203,Officer Skincare,Beauty & Health,Skincare,431.09,194.05,,Database only
+204,Artist Supplement,Beauty & Health,Supplements,578.66,316.23,181.0,Both sources
+205,Back Haircare,Beauty & Health,Haircare,367.74,219.49,401.0,Both sources
+206,Office Skincare,Beauty & Health,Skincare,612.54,396.87,394.0,Both sources
+207,Impact Haircare,Beauty & Health,Haircare,518.71,193.04,9.0,Both sources
+208,Series Skincare,Beauty & Health,Skincare,260.07,138.05,61.0,Both sources
+209,Leg Skincare,Beauty & Health,Skincare,797.01,323.49,140.0,Both sources
+210,Me Haircare,Beauty & Health,Haircare,177.09,78.49,234.0,Both sources
+211,Everyone Skincare,Beauty & Health,Skincare,943.9,390.53,235.0,Both sources
+212,Another Personal Care,Beauty & Health,Personal Care,445.65,224.31,,Database only
+213,Star Supplement,Beauty & Health,Supplements,111.83,82.05,359.0,Both sources
+214,Safe Skincare,Beauty & Health,Skincare,304.46,229.66,496.0,Both sources
+215,Want Supplement,Beauty & Health,Supplements,501.1,260.54,,Database only
+216,Effort Supplement,Beauty & Health,Supplements,492.92,345.22,11.0,Both sources
+217,Measure Skincare,Beauty & Health,Skincare,479.18,238.38,90.0,Both sources
+218,Month Supplement,Beauty & Health,Supplements,127.17,50.54,455.0,Both sources
+219,Example Supplement,Beauty & Health,Supplements,211.99,100.68,283.0,Both sources
+220,Run Skincare,Beauty & Health,Skincare,475.38,343.89,207.0,Both sources
+221,Response Haircare,Beauty & Health,Haircare,704.75,279.27,292.0,Both sources
+222,Car Supplement,Beauty & Health,Supplements,264.61,137.96,3.0,Both sources
+223,Sense Supplement,Beauty & Health,Supplements,57.85,32.82,492.0,Both sources
+224,Voice Skincare,Beauty & Health,Skincare,23.12,13.38,49.0,Both sources
+225,Discover Skincare,Beauty & Health,Skincare,939.11,348.19,129.0,Both sources
+226,Recognize Skincare,Beauty & Health,Skincare,211.98,146.93,221.0,Both sources
+227,Daughter Supplement,Beauty & Health,Supplements,192.19,129.37,301.0,Both sources
+228,Over Skincare,Beauty & Health,Skincare,162.75,94.91,467.0,Both sources
+229,Thus Skincare,Beauty & Health,Skincare,690.53,325.2,383.0,Both sources
+230,Fight Supplement,Beauty & Health,Supplements,829.69,362.81,261.0,Both sources
+231,Food Personal Care,Beauty & Health,Personal Care,410.59,301.66,44.0,Both sources
+232,Partner Personal Care,Beauty & Health,Personal Care,71.83,39.91,59.0,Both sources
+233,Say Haircare,Beauty & Health,Haircare,82.49,30.29,106.0,Both sources
+234,House Skincare,Beauty & Health,Skincare,486.72,356.89,422.0,Both sources
+235,Training Personal Care,Beauty & Health,Personal Care,370.09,218.16,477.0,Both sources
+236,Down Haircare,Beauty & Health,Haircare,55.21,35.56,218.0,Both sources
+237,Against Skincare,Beauty & Health,Skincare,335.88,253.44,,Database only
+238,Able Haircare,Beauty & Health,Haircare,192.17,70.24,35.0,Both sources
+239,Increase Haircare,Beauty & Health,Haircare,517.8,395.89,386.0,Both sources
+240,Military Supplement,Beauty & Health,Supplements,555.47,231.95,223.0,Both sources
+241,Low Personal Care,Beauty & Health,Personal Care,306.12,220.38,398.0,Both sources
+242,Huge Personal Care,Beauty & Health,Personal Care,166.1,79.41,281.0,Both sources
+243,Son Personal Care,Beauty & Health,Personal Care,746.93,389.57,467.0,Both sources
+244,Thus Supplement,Beauty & Health,Supplements,263.25,101.87,58.0,Both sources
+245,Throughout Personal Care,Beauty & Health,Personal Care,1160.3575,104.23,354.0,Both sources
+246,Close Personal Care,Beauty & Health,Personal Care,574.84,237.52,339.0,Both sources
+247,Good Haircare,Beauty & Health,Haircare,708.26,326.34,359.0,Both sources
+248,Generation Haircare,Beauty & Health,Haircare,75.61,55.58,137.0,Both sources
+249,Across Skincare,Beauty & Health,Skincare,682.27,293.31,129.0,Both sources
+250,Discover Haircare,Beauty & Health,Haircare,1160.3575,112.79,245.0,Both sources
+251,College Fiction,Books & Media,Fiction,439.11,332.5,34.0,Both sources
+252,Property Non-Fiction,Books & Media,Non-Fiction,274.43,180.49,443.0,Both sources
+253,Happen Fiction,Books & Media,Fiction,621.95,347.91,232.0,Both sources
+254,Them Children,Books & Media,Children,286.86,179.03,261.0,Both sources
+255,Activity Non-Fiction,Books & Media,Non-Fiction,249.2,157.52,198.0,Both sources
+256,Baby Non-Fiction,Books & Media,Non-Fiction,537.93,197.5,114.0,Both sources
+257,Minute Children,Books & Media,Children,8.4,4.21,434.0,Both sources
+258,Difference Fiction,Books & Media,Fiction,626.09,300.08,413.0,Both sources
+259,Hundred Fiction,Books & Media,Fiction,533.22,352.88,,Database only
+260,Form Media,Books & Media,Media,619.66,308.31,185.0,Both sources
+261,Especially Fiction,Books & Media,Fiction,429.63,235.83,54.0,Both sources
+262,Case Media,Books & Media,Media,214.85,82.77,,Database only
+263,Way Media,Books & Media,Media,222.36,110.05,,Database only
+264,Include Non-Fiction,Books & Media,Non-Fiction,16.2,9.81,91.0,Both sources
+265,Create Non-Fiction,Books & Media,Non-Fiction,839.64,394.64,321.0,Both sources
+266,Feeling Non-Fiction,Books & Media,Non-Fiction,110.99,46.6,198.0,Both sources
+267,Born Fiction,Books & Media,Fiction,253.7,110.91,371.0,Both sources
+268,Machine Media,Books & Media,Media,23.79,11.06,214.0,Both sources
+269,Note Non-Fiction,Books & Media,Non-Fiction,603.81,359.81,404.0,Both sources
+270,Environmental Non-Fiction,Books & Media,Non-Fiction,1160.3575,252.13,16.0,Both sources
+271,Create Children,Books & Media,Children,756.22,308.09,283.0,Both sources
+272,Pass Children,Books & Media,Children,5.69,3.58,422.0,Both sources
+273,Ask Children,Books & Media,Children,560.24,289.19,85.0,Both sources
+274,Product Children,Books & Media,Children,528.78,235.72,27.0,Both sources
+275,Culture Children,Books & Media,Children,82.62,41.15,221.0,Both sources
+276,Recently Non-Fiction,Books & Media,Non-Fiction,341.21,131.91,370.0,Both sources
+277,Your Non-Fiction,Books & Media,Non-Fiction,437.32,214.4,,Database only
+278,Page Fiction,Books & Media,Fiction,402.71,276.82,176.0,Both sources
+279,Scientist Non-Fiction,Books & Media,Non-Fiction,226.81,166.06,209.0,Both sources
+280,Start Fiction,Books & Media,Fiction,121.8,43.74,336.0,Both sources
+281,Citizen Non-Fiction,Books & Media,Non-Fiction,146.98,90.63,59.0,Both sources
+282,Discuss Fiction,Books & Media,Fiction,280.61,104.81,,Database only
+283,Strategy Children,Books & Media,Children,680.49,258.28,194.0,Both sources
+284,Do Fiction,Books & Media,Fiction,228.9,138.3,303.0,Both sources
+285,Foot Children,Books & Media,Children,667.54,317.07,124.0,Both sources
+286,Give Non-Fiction,Books & Media,Non-Fiction,47.93,20.54,157.0,Both sources
+287,Total Fiction,Books & Media,Fiction,754.14,370.71,336.0,Both sources
+288,Beyond Media,Books & Media,Media,515.26,355.32,161.0,Both sources
+289,Available Non-Fiction,Books & Media,Non-Fiction,635.36,370.15,28.0,Both sources
+290,Administration Children,Books & Media,Children,908.96,374.06,97.0,Both sources
+291,Since Non-Fiction,Books & Media,Non-Fiction,19.78,13.68,281.0,Both sources
+292,Store Fiction,Books & Media,Fiction,425.68,267.92,196.0,Both sources
+293,Almost Non-Fiction,Books & Media,Non-Fiction,709.48,295.78,305.0,Both sources
+294,Owner Non-Fiction,Books & Media,Non-Fiction,141.94,81.46,,Database only
+295,Among Media,Books & Media,Media,139.02,92.57,365.0,Both sources
+296,Question Non-Fiction,Books & Media,Non-Fiction,361.73,148.56,,Database only
+297,Want Media,Books & Media,Media,89.43,64.11,423.0,Both sources
+298,Wait Media,Books & Media,Media,238.39,153.1,281.0,Both sources
+299,Know Non-Fiction,Books & Media,Non-Fiction,725.08,274.72,85.0,Both sources
+300,Those Non-Fiction,Books & Media,Non-Fiction,133.29,87.08,0.0,Both sources
+9000,Small Prototype,Books & Media,,38.48,34.07,16.0,Supplier only
+9001,Standard Prototype,Beauty & Health,,97.52,140.67,50.0,Supplier only
+9002,Executive Prototype,Apparel,,47.71,103.54,31.0,Supplier only
+9003,Task Prototype,Sports & Outdoors,,121.02,94.13,30.0,Supplier only
+9004,Growth Prototype,Beauty & Health,,75.01,68.96,8.0,Supplier only
+9005,Suddenly Prototype,Home & Kitchen,,174.9,72.38,46.0,Supplier only
+9006,Individual Prototype,Apparel,,288.34,131.09,11.0,Supplier only
+9007,Leader Prototype,Sports & Outdoors,,107.98,61.73,24.0,Supplier only
+9008,Sign Prototype,Electronics,,274.14,91.39,4.0,Supplier only
+9009,Trial Prototype,Electronics,,141.54,132.01,49.0,Supplier only
+9010,Attention Prototype,Beauty & Health,,157.72,14.75,35.0,Supplier only
+9011,Boy Prototype,Sports & Outdoors,,38.5,35.74,33.0,Supplier only

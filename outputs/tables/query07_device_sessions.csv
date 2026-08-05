@@ -1,0 +1,4 @@
+device,total_sessions,purchasing_customers,average_duration_minutes,average_pages_viewed
+desktop,3494,1776,6.25,4.68
+mobile,3458,1719,6.2,4.65
+tablet,3569,1761,6.09,4.74

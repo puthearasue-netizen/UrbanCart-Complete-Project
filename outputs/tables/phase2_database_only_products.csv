@@ -1,0 +1,46 @@
+product_id,database_name,database_category,database_subcategory,database_unit_price,database_cost,unit_price_original,unit_price_is_outlier,cost_greater_than_price,supplier_name,supplier_category,supplier_unit_price,supplier_cost,in_stock_units,_merge,source_status
+4,Movement Headphone,Electronics,Headphones,17.97,12.57,17.97,False,False,,,,,,left_only,Database only
+6,Important Laptop,Electronics,Laptops,531.19,192.72,531.19,False,False,,,,,,left_only,Database only
+13,Support Headphone,Electronics,Headphones,152.16,71.45,152.16,False,False,,,,,,left_only,Database only
+16,Yes Smartphone,Electronics,Smartphones,245.66,101.09,245.66,False,False,,,,,,left_only,Database only
+17,Light Laptop,Electronics,Laptops,953.82,375.23,953.82,False,False,,,,,,left_only,Database only
+27,Into Laptop,Electronics,Laptops,686.85,342.59,686.85,False,False,,,,,,left_only,Database only
+32,East Smartphone,Electronics,Smartphones,338.4,127.28,338.4,False,False,,,,,,left_only,Database only
+43,A Laptop,Electronics,Laptops,97.72,52.4,97.72,False,False,,,,,,left_only,Database only
+45,Beautiful Camera,Electronics,Cameras,511.39,183.54,511.39,False,False,,,,,,left_only,Database only
+49,Left Laptop,Electronics,Laptops,850.7,304.77,850.7,False,False,,,,,,left_only,Database only
+58,Artist Appliance,Home & Kitchen,Appliances,87.55,52.45,87.55,False,False,,,,,,left_only,Database only
+61,Trade Appliance,Home & Kitchen,Appliances,512.76,233.12,512.76,False,False,,,,,,left_only,Database only
+65,Scene Appliance,Home & Kitchen,Appliances,460.75,176.35,460.75,False,False,,,,,,left_only,Database only
+70,Bring Furniture,Home & Kitchen,Furniture,402.01,153.64,402.01,False,False,,,,,,left_only,Database only
+71,Green Furniture,Home & Kitchen,Furniture,362.18,259.25,362.18,False,False,,,,,,left_only,Database only
+94,Animal Appliance,Home & Kitchen,Appliances,514.73,271.98,514.73,False,False,,,,,,left_only,Database only
+96,Mind Decor,Home & Kitchen,Decor,682.77,315.19,682.77,False,False,,,,,,left_only,Database only
+107,Appear Women,Apparel,Women,963.92,359.12,963.92,False,False,,,,,,left_only,Database only
+109,Health Footwear,Apparel,Footwear,59.23,34.02,59.23,False,False,,,,,,left_only,Database only
+121,Themselves Footwear,Apparel,Footwear,183.38,112.48,183.38,False,False,,,,,,left_only,Database only
+122,Attorney Men,Apparel,Men,607.34,381.56,607.34,False,False,,,,,,left_only,Database only
+124,Act Kid,Apparel,Kids,640.23,396.2,640.23,False,False,,,,,,left_only,Database only
+129,Direction Kid,Apparel,Kids,492.47,232.09,492.47,False,False,,,,,,left_only,Database only
+140,Fall Footwear,Apparel,Footwear,500.02,326.58,500.02,False,False,,,,,,left_only,Database only
+150,Population Kid,Apparel,Kids,182.12,134.07,182.12,False,False,,,,,,left_only,Database only
+167,Practice Fitnes,Sports & Outdoors,Fitness,39.88,15.46,39.88,False,False,,,,,,left_only,Database only
+169,Contain Cycling,Sports & Outdoors,Cycling,458.05,181.5,458.05,False,False,,,,,,left_only,Database only
+170,Offer Team Sport,Sports & Outdoors,Team Sports,723.66,264.39,723.66,False,False,,,,,,left_only,Database only
+171,Her Camping,Sports & Outdoors,Camping,14.73,5.95,14.73,False,False,,,,,,left_only,Database only
+176,Where Cycling,Sports & Outdoors,Cycling,199.39,136.86,199.39,False,False,,,,,,left_only,Database only
+183,High Camping,Sports & Outdoors,Camping,942.96,369.47,942.96,False,False,,,,,,left_only,Database only
+184,Important Cycling,Sports & Outdoors,Cycling,278.4,122.21,278.4,False,False,,,,,,left_only,Database only
+189,Message Team Sport,Sports & Outdoors,Team Sports,24.7,9.49,24.7,False,False,,,,,,left_only,Database only
+194,Quickly Fitnes,Sports & Outdoors,Fitness,222.76,133.52,222.76,False,False,,,,,,left_only,Database only
+203,Officer Skincare,Beauty & Health,Skincare,431.09,194.05,431.09,False,False,,,,,,left_only,Database only
+212,Another Personal Care,Beauty & Health,Personal Care,445.65,224.31,445.65,False,False,,,,,,left_only,Database only
+215,Want Supplement,Beauty & Health,Supplements,501.1,260.54,501.1,False,False,,,,,,left_only,Database only
+237,Against Skincare,Beauty & Health,Skincare,335.88,253.44,335.88,False,False,,,,,,left_only,Database only
+259,Hundred Fiction,Books & Media,Fiction,533.22,352.88,533.22,False,False,,,,,,left_only,Database only
+262,Case Media,Books & Media,Media,214.85,82.77,214.85,False,False,,,,,,left_only,Database only
+263,Way Media,Books & Media,Media,222.36,110.05,222.36,False,False,,,,,,left_only,Database only
+277,Your Non-Fiction,Books & Media,Non-Fiction,437.32,214.4,437.32,False,False,,,,,,left_only,Database only
+282,Discuss Fiction,Books & Media,Fiction,280.61,104.81,280.61,False,False,,,,,,left_only,Database only
+294,Owner Non-Fiction,Books & Media,Non-Fiction,141.94,81.46,141.94,False,False,,,,,,left_only,Database only
+296,Question Non-Fiction,Books & Media,Non-Fiction,361.73,148.56,361.73,False,False,,,,,,left_only,Database only
